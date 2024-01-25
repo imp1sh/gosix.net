@@ -2,7 +2,7 @@
 title: IPv6 compatibility database
 description: An IPv6 compatibility database for devices, services, software and IOT. It's basically a list who is to blame for their shitty firmware / software / OS.
 published: true
-date: 2024-01-24T13:52:47.050Z
+date: 2024-01-25T16:17:07.808Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-18T00:43:42.814Z
@@ -10,7 +10,6 @@ dateCreated: 2024-01-18T00:43:42.814Z
 
 # The IPv6 compatibility database
 
-Test
 
 **Welcome to the **gosix.net** #IPv6 compatibility database.**
 Here we blame those who fail at implementing IPv6 but we also document products with good IPv6 support.

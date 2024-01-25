@@ -2,7 +2,7 @@
 title: Test Criteria ISP
 description: This howto defines what tests to make for an ISP check
 published: true
-date: 2024-01-25T21:24:46.503Z
+date: 2024-01-25T21:32:17.249Z
 tags: isp, howto, criteria
 editor: markdown
 dateCreated: 2024-01-20T09:49:28.639Z
@@ -21,3 +21,4 @@ dateCreated: 2024-01-20T09:49:28.639Z
 
 ## Resources
 [Ripe best practices](https://www.ripe.net/publications/docs/ripe-690/)
+[Arin adressing plan for service providers](https://www.arin.net/vault/blog/2018/07/05/ipv6-addressing-plan-design-for-service-providers/)

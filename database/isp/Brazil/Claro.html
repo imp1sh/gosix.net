@@ -1,0 +1,44 @@
+<!--
+title: Claro
+description: 
+published: true
+date: 2024-01-22T23:37:01.902Z
+tags: 
+editor: ckeditor
+dateCreated: 2024-01-21T15:37:32.963Z
+-->
+
+<h1><a href="https://www.claro.com.br">Claro</a></h1>
+<p><strong>Parent Company:</strong></p>
+<p><a href="https://www.americamovil.com">América Móvil</a></p>
+<p><strong>ASN</strong>:</p>
+<p><a href="https://bgp.he.net/AS4230">4230</a>, <a href="https://bgp.he.net/AS22085">22085</a>, <a href="https://bgp.he.net/AS27652">27652</a>, <a href="https://bgp.he.net/AS28351">28351</a>, <a href="https://bgp.he.net/AS28573">28573</a>, <a href="https://bgp.he.net/AS53037">53037</a></p>
+<p><strong>Services:</strong></p>
+<ul>
+  <li>TV</li>
+  <li>Phone</li>
+  <li>Broadband Internet Connectivity for Home &amp; SMB - Brand: NET Vírtua</li>
+  <li>“Dedicated” links (Internet, IP Transit or Private WAN) for enterprise - Brand: Embratel</li>
+  <li>Other “value-added services” such as Anti-virus, tech support, home surveillance, music &amp; books subscriptions, pet care etc.</li>
+</ul>
+<p><strong>Technologies:</strong></p>
+<ul>
+  <li>Coaxial Cable (DOCSIS)</li>
+  <li>Mobile Wireless (5G, LTE, HSPA+, EDGE, GSM)</li>
+  <li>Licensed PtP Radio (Enterprise only)</li>
+  <li>Satellite (Enterprise only)</li>
+  <li>Fiber Optics</li>
+</ul>
+<p><strong>IPv6 Status:</strong></p>
+<ul>
+  <li>Website main page is reachable over IPv6 via CDN, can't say about everything else (didn't test).</li>
+  <li>Home &amp; SMB: Dual-stack enabled (shared address a.k.a. CGNAT on jurassic stack) via autoconfiguration (DHCP).</li>
+  <li>Mobile Wireless: Dual-stack available (varies by region, shared address a.k.a. CGNAT on jurassic stack), carrier-provided APN profile does not specify what protocol to use but their documentation states that users should manually set to Jurassic-only (IPv4).</li>
+</ul>
+<p><strong>Drawbacks:</strong></p>
+<ul>
+  <li>Home &amp; SMB: They offer /128 address for WAN + /64 prefix delegation. Their CPEs have some IPv6 settings available but it lacks things such as firewall rules, ULA address prefix, LAN prefix size etc.. LAN is set to DHCPv6-only by default - SLAAC is available but you can't enable both - and, in a considerable amount of cases, IPv6 is purposely disabled by their technicians for whatever reason. Switching to a user provided CPE is not restricted ("Bridge Mode" is available) and won't affect other services operation.</li>
+  <li>Enterprise: Allegedly available in every region but -1000000% interest in providing these to customers (not without charging extra for it) + most customers DGAF about it, anyways… but you can request stupid big blocks of jurassic addresses at anytime, no problem.</li>
+  <li>They are present in most brazilian IXPs (Internet Exchange Points) however they deny mutual peering agreements and peering with other ASes is <strong>ONLY</strong> by subscribing to their own links, unless someone agrees to peer with them in Europe or USA.</li>
+  <li>No Looking Glass available.</li>
+</ul>

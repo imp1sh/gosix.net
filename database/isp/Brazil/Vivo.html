@@ -1,0 +1,44 @@
+<!--
+title: Vivo
+description: One of the largest telecom operators in Brazil, controlled by spanish group Telefónica
+published: true
+date: 2024-01-22T23:44:54.023Z
+tags: 
+editor: ckeditor
+dateCreated: 2024-01-21T12:08:18.945Z
+-->
+
+<h1><a href="https://www.vivo.com.br">Vivo</a></h1>
+<p><strong>Parent Company:</strong></p>
+<p><a href="https://www.telefonica.com">Telefónica</a></p>
+<p><strong>ASN</strong>:</p>
+<p><a href="https://bgp.he.net/AS10429">10429</a>, <a href="https://bgp.he.net/AS18881">18881</a>, <a href="https://bgp.he.net/AS19182">19182</a>, <a href="https://bgp.he.net/AS26599">26599</a>, <a href="https://bgp.he.net/AS27699">27699</a></p>
+<p><strong>Services:</strong></p>
+<ul>
+  <li>Broadband Internet Connectivity for Home &amp; SMB</li>
+  <li>Dedicated links (Internet, IP Transit or Private WAN) for enterprise</li>
+  <li>Phone</li>
+  <li>TV</li>
+  <li>Other “value-added services” such as IoT, Anti-virus, Home and Car Insurance, Credit Cards, Private Pension etc.</li>
+</ul>
+<p><strong>Technologies:</strong></p>
+<ul>
+  <li>Fiber Optics (GPON - FTTH)</li>
+  <li>Mobile Wireless (5G, LTE, HSPA+, EDGE, GSM)</li>
+  <li>xDSL</li>
+</ul>
+<p><strong>IPv6 Status:</strong></p>
+<ul>
+  <li>Backbone Infrastructure: 100% Dual-stacked</li>
+  <li>Home &amp; SMB: 100% Dual-stack enabled (Public address on both stacks) via PPPoE</li>
+  <li>Mobile Wireless: IPv6-only + NAT64 or Dual-Stack (varies by region, shared address a.k.a. CGNAT on jurassic stack) via carrier-provided APN profile.</li>
+  <li>Enterprise: 100% available, AFAIK via Static addressing - &nbsp;unfortunately most customers are late to the party and DGAF about it.</li>
+</ul>
+<p><strong>Drawbacks:</strong></p>
+<ul>
+  <li>Home &amp; SMB: Their own provided CPEs have ZERO support for changing any IPv6 settings such as firewall rules, DNS reservation for internal hosts, ULA address prefix, LAN prefix size etc.. Firewall has only two options: “Accept” (ALLOW ALL incoming connections) or “Reject” (DENY ALL incoming connections). Switching to a user provided CPE is not restricted ("Bridge Mode" is available) but their phone + TV services won't work due to how they designed such services to operate. Prefix Delegation changes if the device “dialing” PPPoE changes (physically and/or logically).</li>
+  <li>Mobile Wireless, Home &amp; SMB: They only offer /64 address for WAN + /64 prefix delegation. Their engineering team says “anyone could request bigger prefixes at anytime, no questions asked” in technical events or speeches but, in reality, it's practically impossible to do such thing.</li>
+  <li>Website, Phone + TV services work on the jurassic protocol, only.</li>
+  <li>They have no presence in most brazilian IXPs (Internet Exchange Points) and peering with other ASes is by subscribing to their own links (no free peering).</li>
+  <li>No Looking Glass available.</li>
+</ul>

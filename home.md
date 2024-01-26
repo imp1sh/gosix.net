@@ -2,7 +2,7 @@
 title: IPv6 compatibility database
 description: An IPv6 compatibility database for devices, services, software and IOT. It's basically a list who is to blame for their shitty firmware / software / OS.
 published: true
-date: 2024-01-25T16:17:07.808Z
+date: 2024-01-26T08:46:20.729Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-18T00:43:42.814Z
@@ -13,7 +13,7 @@ dateCreated: 2024-01-18T00:43:42.814Z
 
 **Welcome to the **gosix.net** #IPv6 compatibility database.**
 Here we blame those who fail at implementing IPv6 but we also document products with good IPv6 support.
-gosix.net IPv6 compatibility database is a database that registers the IPv6 compatibility status for:
+gosix.net IPv6 compatibility database is a database that registers the IPv6 compatibility status for: bla
 
 ##  :computer: Devices
 This is about devices that have a network port or WiFi and don't run a classic computer OS but rather a firmware. 

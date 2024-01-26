@@ -29,6 +29,8 @@ if [ -z "$domain" ]; then
 fi
 
 aaaa=true
+lastedit=$(date -u +"%Y-%m-%dT%H:%M:%S.%3NZ")
+lasteditreadable=$(date +"%d.%m.%Y %H:%M:%S %Z")
 
 # Check if the domain resolves to an AAAA record
 ipv6_address=$(dig +short AAAA "$domain")
@@ -60,7 +62,7 @@ fi
 # Define rank
 if [ $aaaa == "false" ]; then
   rank="rank6, totalfailure"
-  symbol=":X:, :wastebasket:"
+  symbol=":x: :wastebasket:"
   comment="The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database."
 elif [ $ping == "false" ] && [ $http == "false" ] && [ $https == "false" ]; then
   rank="rank5"
@@ -95,6 +97,7 @@ if [ -n "$report_file" ]; then
 title: $domain
 description: Website $domain IPv6 compatibility
 published: true
+date: $lastedit
 tags: website, $rank
 editor: markdown
 ---
@@ -105,7 +108,8 @@ editor: markdown
 {.is-info}
 
 IPv6 ranking: $rank $symbol
-explanation: $comment
+Explanation: $comment
+Last Update: $lasteditreadable
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.
@@ -122,7 +126,7 @@ As the internet ecosystem continues to expand, future-proofing your website is e
 ## IPv6-only Clients
 Some internet service providers are deploying IPv6-only networks, and users without IPv6 support may face connectivity issues. Websites that are IPv6-ready can cater to this growing user base, ensuring inclusivity and preventing potential access problems for clients without IPv6 capabilities.
 
-> In conclusion, the adoption of IPv6 is not just a technological necessity; it is a strategic decision to ensure the longevity, accessibility, and security of websites in a rapidly evolving digital landscape. By embracing IPv6, websites can stay ahead of the curve, offer an optimal user experience, and address the challenges faced by users behind CGNATs and those without IPv6 connectivity. It is a proactive step towards a more connected, efficient, and future-ready internet.
+> In conclusion, the adoption of IPv6 is not just a technological necessity; it is a strategic decision to ensure the longevity, accessibility, and security of websites in a rapidly evolving digital landscape. By embracing IPv6, websites can stay ahead of the curve, offer an optimal user experience, and address the challenges faced by users behind CGNATs and those without IPv4 connectivity. It is a proactive step towards a more connected, efficient, and future-ready internet.
 {.is-warning}
 
 EOF

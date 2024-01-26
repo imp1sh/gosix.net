@@ -2,7 +2,7 @@
 title: IPv6 compatibility database
 description: An IPv6 compatibility database for devices, services, software and IOT. It's basically a list who is to blame for their shitty firmware / software / OS.
 published: true
-date: 2024-01-26T08:46:20.729Z
+date: 2024-01-26T14:03:27.707Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-18T00:43:42.814Z
@@ -25,7 +25,7 @@ The category of software is divided into client and server software. Both need I
 This is a lot like the devices category but those are generally smaller devices that serve in Home Automation or similar applications.
 
 ## :apple: Operating Systems
-The landscape of Operating Systems is broader than you might think. There is not only Windows, macOS and Linux. This also covers the mobile devices OS market.
+The landscape of Operating Systems is broader than you might think. There is not only Windows, macOS and Linux. This also covers the mobile devices OS market and even the more exotic OSes.
 
 ## :joystick: Games
 This is basically software, too but since it's a huge portion and also because there are games for consoles they get their own category.

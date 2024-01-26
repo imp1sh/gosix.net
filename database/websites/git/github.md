@@ -2,7 +2,7 @@
 title: github.com
 description: Website github.com IPv6 compatibility
 published: true
-date: 2024-01-26T09:14:34+00:00
+date: 2024-01-26T09:26:08+00:00
 tags: website, rank6, totalfailure
 editor: markdown
 ---
@@ -11,11 +11,9 @@ editor: markdown
 
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 {.is-info}
-
-| - | - |
-| IPv6 ranking | rank6, totalfailure :x: :wastebasket: |
-| Last Update: | `26.01.2024 10:14:34 CET` |
-| Explanation: | The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database. |
+| IPv6 Ranking | Explanation | Last Update |
+| - | - | - |
+| rank6, totalfailure :x: :wastebasket: | The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database. |  `26.01.2024 10:26:08 CET` |
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

@@ -2,6 +2,7 @@
 title: github.com
 description: Website github.com IPv6 compatibility
 published: true
+date: 2024-01-26T00:55:36.607Z
 tags: website, rank6, totalfailure
 editor: markdown
 ---
@@ -11,7 +12,7 @@ editor: markdown
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 {.is-info}
 
-IPv6 ranking: rank6, totalfailure :x:, :wastebasket:
+IPv6 ranking: rank6, totalfailure :x: :wastebasket:
 Explanation: The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database.
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs

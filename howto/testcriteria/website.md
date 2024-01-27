@@ -2,7 +2,7 @@
 title: Test Criteria website
 description: This howto defines what tests to make for a website check
 published: true
-date: 2024-01-27T15:35:19.784Z
+date: 2024-01-27T21:37:55.033Z
 tags: website, howto, criteria
 editor: markdown
 dateCreated: 2024-01-20T09:53:28.658Z
@@ -30,3 +30,15 @@ There is a [bash script](https://github.com/imp1sh/gosix.net/blob/main/scripts/v
 | rank4 | :radio_button: | :white_circle: | support either http or https but not both | |
 | rank5 | :radio_button: | :white_circle: | :white_circle: | :white_circle: |
 | rank6 | :white_circle: | :white_circle: | :white_circle: | :white_circle: |
+
+## Methods
+There are several checks made in order to verify the website's IPv6 quality:
+
+- dns
+  via python: `socket.getaddrinfo(domain, None, socket.AF_INET6)[0][4][0]`
+- ping
+  via bash script: `ping6 -c 1 -W 10  "$ipv6_address"`
+- http
+  via bash script: `curl -6 --max-time 10 --silent --head "http://$domain" | grep -q "HTTP/"`
+- https
+  via bash script: `curl -6 --max-time 10 --silent --head "https://$domain" | grep -q "HTTP/"`

@@ -46,7 +46,7 @@ Datacenters usually have proper IPv6 connectivity for their customers but there 
 Authoritative nameservers are the backbone of the internet. If DNS fails, the internet fails. Nameservers need to be reachable via IPv6 as well. Sadly that's not the case for all of them. gosix.net will shed light in the dark and give a nice list of DNS servers that are or are not IPv6 ready.
 
 ## 🧑‍⚖️ Authorities
-We plan to have a list of which authorities are IPv6 ready. While the Czeck Republic announed to end IPv4 support in 2032, others have not even heard yet of IPv6.
+We plan to have a list of which authorities are IPv6 ready. While the Czech Republic announed to end IPv4 support in 2032, others have not even heard yet of IPv6.
 
 ## Rankings
 

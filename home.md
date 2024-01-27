@@ -2,7 +2,7 @@
 title: IPv6 compatibility database
 description: An IPv6 compatibility database for devices, services, software and IOT. It's basically a list who is to blame for their shitty firmware / software / OS.
 published: true
-date: 2024-01-27T22:10:28.456Z
+date: 2024-01-27T22:15:16.225Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-18T00:43:42.814Z
@@ -15,11 +15,11 @@ dateCreated: 2024-01-18T00:43:42.814Z
 Here we blame those who fail at implementing IPv6 but we also document products with good IPv6 support.
 gosix.net IPv6 compatibility database is a database that registers the IPv6 compatibility status for: bla
 
-##  :computer: Devices
+## :computer: Devices
 This is about devices that have a network port or WiFi and don't run a classic computer OS but rather a firmware. 
 
 ## :keyboard: Software
-The category of software is divided into client and server software. Both need IPv6 capabilities in order to support the current Internet Protocol.
+The category of software is divided into client and server software. Both need IPv6 capabilities in order to support the current internet protocol.
 
 ## :space_invader: IOT
 This is a lot like the devices category but those are generally smaller devices that serve in Home Automation or similar applications.
@@ -44,6 +44,9 @@ Datacenters usually have proper IPv6 connectivity for their customers but there 
 
 ## :name_badge: Authoritative DNS Nameservers
 Authoritative nameservers are the backbone of the internet. If DNS fails, the internet fails. Nameservers need to be reachable via IPv6 as well. Sadly that's not the case for all of them. gosix.net will shed light in the dark and give a nice list of DNS servers that are or are not IPv6 ready.
+
+## 🧑‍⚖️ Authorities
+We plan to have a list of which authorities are IPv6 ready. While the Czeck Republic announed to end IPv4 support in 2032, others have not even heard yet of IPv6.
 
 ## Rankings
 

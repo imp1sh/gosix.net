@@ -2,7 +2,7 @@
 title: www.noris.de
 description: Website www.noris.de IPv6 compatibility
 published: true
-date: 2024-01-27T22:53:02.
+date: 2024-01-27T23:08:19.
 tags: website, rank3
 editor: markdown
 ---
@@ -15,7 +15,7 @@ editor: markdown
 
 IPv6 ranking: rank3 :3rd_place_medal:
 Explanation: The domain www.noris.de has an AAAA record, does respond to ping and http but not https.
-Last Update: 27.01.2024 22:53:02 UTC
+Last Update: 27.01.2024 23:08:19 UTC
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

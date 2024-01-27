@@ -2,8 +2,8 @@
 title: bank.pingan.com
 description: Website bank.pingan.com IPv6 compatibility
 published: true
-date: 2024-01-27T22:53:41.
-tags: website, rank1
+date: 2024-01-27T23:08:54.
+tags: website, rank2
 editor: markdown
 ---
 
@@ -13,9 +13,9 @@ editor: markdown
 > Do not edit this page manually, it WILL get overwritten.
 {.is-info}
 
-IPv6 ranking: rank1 :1st_place_medal:
-Explanation: The domain bank.pingan.com has an AAAA record, responds to ping, http and https.
-Last Update: 27.01.2024 22:53:41 UTC
+IPv6 ranking: rank2 :2nd_place_medal:
+Explanation: The domain bank.pingan.com has an AAAA record, does respond to http and https but not to ping.
+Last Update: 27.01.2024 23:08:54 UTC
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

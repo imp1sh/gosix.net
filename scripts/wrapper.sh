@@ -21,8 +21,12 @@ declare -A domains=(
   ["videostreaming"]="www.twitch.tv www.netflix.com"
   ["wiki"]="wiki.junicast.de"
 )
-basepath="/mnt/cntr/unsynced/mycronpod/gosix/gosix.net/database/websites"
+basepath="/opt/gosix.net/database/websites"
 
+cd /opt/gosix.net
+git pull
+
+cd /opt/mycronpod
 for key in "${!domains[@]}"; do
   mkdir -p ${basepath}/${key}
   for domain in ${domains[$key]}; do
@@ -30,3 +34,9 @@ for key in "${!domains[@]}"; do
     ./v6_test_website.sh -d $domain -f ${basepath}/${key}/${domain}.md
   done
 done
+
+cd $basepath
+git add *
+git commit * -m "Updated website data" --author "Jochen Demmer <jochen@winteltosh.de>"
+git push
+exit 0

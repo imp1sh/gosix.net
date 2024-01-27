@@ -2,7 +2,7 @@
 title: gitlab.com
 description: Website gitlab.com IPv6 compatibility
 published: true
-date: 2024-01-27T21:16:43.
+date: 2024-01-27T21:25:01.
 tags: website, rank1
 editor: markdown
 ---
@@ -15,7 +15,7 @@ editor: markdown
 
 IPv6 ranking: rank1 :1st_place_medal:
 Explanation: The domain gitlab.com has an AAAA record, responds to ping, http and https.
-Last Update: 27.01.2024 21:16:43 UTC
+Last Update: 27.01.2024 21:25:01 UTC
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

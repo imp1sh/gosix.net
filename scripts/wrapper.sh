@@ -16,7 +16,7 @@ declare -A domains=(
   ["payment"]="paypal.com sparkasse-aachen.de deutschebank.de"
   ["privacy"]="proton.me"
   ["searchengines"]="duckduckgo.com google.com"
-  ["social"]="twitter.com tiktok.com www.linkedin.com onlyfans.com"
+  ["social"]="twitter.com tiktok.com www.linkedin.com onlyfans.com imgur.com"
   ["software_commercial"]="www.office.com www.adobe.com"
   ["videostreaming"]="www.twitch.tv www.netflix.com"
   ["wiki"]="wiki.junicast.de"
@@ -36,7 +36,9 @@ for key in "${!domains[@]}"; do
 done
 
 cd $basepath
+git config --global user.email "jochen@winteltosh.de"
+git config --global user.name "Jochen Demmer"
 git add *
-git commit * -m "Updated website data" --author "Jochen Demmer <jochen@winteltosh.de>"
+git commit * -m "Updated website data"
 git push
 exit 0

@@ -75,23 +75,23 @@ elif [ $ping == "false" ] && [ $http == "false" ] && [ $https == "false" ]; then
 elif [ $ping == "false" ] && ([ $http == "true" ] && [ $https == "false" ]); then
   rank="rank4"
   symbol=":arrow_down:"
-  comment="The domain $domain has an AAAA record, does not respond to ping and only supports either http xor https."
+  comment="The domain $domain has an AAAA record, does respond to http but not to ping and https."
 elif [ $ping == "false" ] && ([ $http == "false" ] && [ $https == "true" ]); then
   rank="rank4"
   symbol=":arrow_down:"
-  comment="The domain $domain has an AAAA record, does not respond to ping and only supports either http xor https."
+  comment="The domain $domain has an AAAA record, does respond to https but not to ping and http."
 elif [ $ping == "true" ] && ([ $http == "true" ] && [ $https == "false" ]); then
   rank="rank3"
   symbol=":3rd_place_medal:"
-  comment="The domain $domain has an AAAA record, does respond to ping and only supports either http xor https."
+  comment="The domain $domain has an AAAA record, does respond to ping and http but not https."
 elif [ $ping == "true" ] && ([ $http == "false" ] && [ $https == "true" ]); then
   rank="rank3"
   symbol=":3rd_place_medal:"
-  comment="The domain $domain has an AAAA record, does respond to ping and only supports either http xor https."
+  comment="The domain $domain has an AAAA record, does respond to ping and https but not http."
 elif [ $ping == "false" ] && [ $http == "true" ] && [ $https == "true" ]; then
   rank="rank2"
   symbol=":2nd_place_medal:"
-  comment="The domain $domain has an AAAA record, does not respond to ping but supports both http and https."
+  comment="The domain $domain has an AAAA record, does respond to http and https but not to ping."
 elif [ $ping == "true" ] && [ $http == "true" ] && [ $https == "true" ]; then
   rank="rank1"
   symbol=":1st_place_medal:"

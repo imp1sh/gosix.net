@@ -4,13 +4,16 @@
 # As it's generally advised to allow ICMPv6 the 
 # score will also go down if ping fails
 
-while getopts ":d:f:" opt; do
+while getopts ":d:f:v" opt; do
   case $opt in
     d)
       domain="$OPTARG"
       ;;
     f)
       report_file="$OPTARG"
+      ;;
+    v)
+      debug=true
       ;;
     \?)
       echo "Invalid option: -$OPTARG" >&2
@@ -59,6 +62,7 @@ if $aaaa; then
   fi
 fi
 
+
 # Define rank
 if [ $aaaa == "false" ]; then
   rank="rank6, totalfailure"
@@ -69,25 +73,37 @@ elif [ $ping == "false" ] && [ $http == "false" ] && [ $https == "false" ]; then
   symbol=":arrow_double_down:"
   comment="The domain $domain has an AAAA record but does respond to neither ping/http/https"
 elif [ $ping == "false" ] && ([ $http == "true" ] && [ $https == "false" ]); then
-  rank="rank3"
-  symbol=":3rd_place_medal:"
+  rank="rank4"
+  symbol=":arrow_down:"
   comment="The domain $domain has an AAAA record, does not respond to ping and only supports either http xor https."
 elif [ $ping == "false" ] && ([ $http == "false" ] && [ $https == "true" ]); then
-  rank="rank3"
-  symbol=":3rd_place_medal:"
+  rank="rank4"
+  symbol=":arrow_down:"
   comment="The domain $domain has an AAAA record, does not respond to ping and only supports either http xor https."
 elif [ $ping == "true" ] && ([ $http == "true" ] && [ $https == "false" ]); then
-  rank="rank2"
-  symbol=":2nd_place_medal:"
+  rank="rank3"
+  symbol=":3rd_place_medal:"
   comment="The domain $domain has an AAAA record, does respond to ping and only supports either http xor https."
 elif [ $ping == "true" ] && ([ $http == "false" ] && [ $https == "true" ]); then
-  rank="rank2"
-  symbol=":2nd_place_medal:"
+  rank="rank3"
+  symbol=":3rd_place_medal:"
   comment="The domain $domain has an AAAA record, does respond to ping and only supports either http xor https."
+elif [ $ping == "false" ] && [ $http == "true" ] && [ $https == "true" ]; then
+  rank="rank2"
+  symbol="2nd_place_medal:"
+  comment= "The domain $domain has an AAAA record, does not respond to ping but supports both http and https."
 elif [ $ping == "true" ] && [ $http == "true" ] && [ $https == "true" ]; then
   rank="rank1"
   symbol=":1st_place_medal:"
   comment="The domain $domain has an AAAA record, responds to ping, http and https."
+fi
+
+if [ $debug ]; then
+  echo "aaaa found: $aaaa"
+  echo "ping success: $ping"
+  echo "http success: $http"
+  echo "https success: $https"
+  echo "rank: $rank"
 fi
 
 # Writing report file

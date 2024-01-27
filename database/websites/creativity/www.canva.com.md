@@ -1,20 +1,20 @@
 ---
-title: babbel.com
-description: Website babbel.com IPv6 compatibility
+title: www.canva.com
+description: Website www.canva.com IPv6 compatibility
 published: true
-date: 2024-01-27T15:08:32.957Z
-tags: website, rank6, totalfailure
+date: 2024-01-27T15:08:32.159Z
+tags: website, rank1
 editor: markdown
 ---
 
-# babbel.com IPv6 compatibility
+# www.canva.com IPv6 compatibility
 
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 > Do not edit this page manually, it WILL get overwritten.
 {.is-info}
 
-IPv6 ranking: rank6, totalfailure :x: :wastebasket:
-Explanation: The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database.
+IPv6 ranking: rank1 :1st_place_medal:
+Explanation: The domain www.canva.com has an AAAA record, responds to ping, http and https.
 Last Update: 27.01.2024 16:08:32 CET
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs

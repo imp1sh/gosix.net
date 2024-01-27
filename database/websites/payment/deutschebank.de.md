@@ -1,13 +1,13 @@
 ---
-title: ebay.com
-description: Website ebay.com IPv6 compatibility
+title: deutschebank.de
+description: Website deutschebank.de IPv6 compatibility
 published: true
-date: 2024-01-27T12:37:17.109Z
+date: 2024-01-27T12:37:18.000Z
 tags: website, rank6, totalfailure
 editor: markdown
 ---
 
-# ebay.com IPv6 compatibility
+# deutschebank.de IPv6 compatibility
 
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 > Do not edit this page manually, it WILL get overwritten.
@@ -15,7 +15,7 @@ editor: markdown
 
 IPv6 ranking: rank6, totalfailure :x: :wastebasket:
 Explanation: The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database.
-Last Update: 27.01.2024 13:37:17 CET
+Last Update: 27.01.2024 13:37:18 CET
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

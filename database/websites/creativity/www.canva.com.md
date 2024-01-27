@@ -2,8 +2,8 @@
 title: www.canva.com
 description: Website www.canva.com IPv6 compatibility
 published: true
-date: 2024-01-27T15:40:20.011Z
-tags: website, rank1
+date: 2024-01-27T20:05:10.
+tags: website, 
 editor: markdown
 ---
 
@@ -13,9 +13,9 @@ editor: markdown
 > Do not edit this page manually, it WILL get overwritten.
 {.is-info}
 
-IPv6 ranking: rank1 :1st_place_medal:
-Explanation: The domain www.canva.com has an AAAA record, responds to ping, http and https.
-Last Update: 27.01.2024 16:40:20 CET
+IPv6 ranking:  
+Explanation: 
+Last Update: 27.01.2024 20:05:10 UTC
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

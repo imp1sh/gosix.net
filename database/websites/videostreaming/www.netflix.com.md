@@ -2,7 +2,7 @@
 title: www.netflix.com
 description: Website www.netflix.com IPv6 compatibility
 published: true
-date: 2024-01-27T15:37:27.239Z
+date: 2024-01-27T15:40:08.718Z
 tags: website, rank2
 editor: markdown
 ---
@@ -13,9 +13,9 @@ editor: markdown
 > Do not edit this page manually, it WILL get overwritten.
 {.is-info}
 
-IPv6 ranking: rank2 2nd_place_medal:
+IPv6 ranking: rank2 :2nd_place_medal:
 Explanation: The domain www.netflix.com has an AAAA record, does not respond to ping but supports both http and https.
-Last Update: 27.01.2024 16:37:27 CET
+Last Update: 27.01.2024 16:40:08 CET
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

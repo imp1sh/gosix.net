@@ -91,7 +91,7 @@ elif [ $ping == "true" ] && ([ $http == "false" ] && [ $https == "true" ]); then
 elif [ $ping == "false" ] && [ $http == "true" ] && [ $https == "true" ]; then
   rank="rank2"
   symbol="2nd_place_medal:"
-  comment= "The domain $domain has an AAAA record, does not respond to ping but supports both http and https."
+  comment="The domain $domain has an AAAA record, does not respond to ping but supports both http and https."
 elif [ $ping == "true" ] && [ $http == "true" ] && [ $https == "true" ]; then
   rank="rank1"
   symbol=":1st_place_medal:"

@@ -72,6 +72,10 @@ elif [ $ping == "false" ] && [ $http == "false" ] && [ $https == "false" ]; then
   rank="rank5"
   symbol=":arrow_double_down:"
   comment="The domain $domain has an AAAA record but does respond to neither ping/http/https"
+elif [ $ping == "true" ] && [http == "false" ] && [ https == "false" ]; then
+  rank="rank4"
+  symbol=":arrow_down:"
+  comment: "The domain $domain has an AAAA record, does respond to ping not not to http and https."
 elif [ $ping == "false" ] && ([ $http == "true" ] && [ $https == "false" ]); then
   rank="rank4"
   symbol=":arrow_down:"

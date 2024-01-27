@@ -1,20 +1,20 @@
 ---
-title: github.com
-description: Website github.com IPv6 compatibility
+title: proton.me
+description: Website proton.me IPv6 compatibility
 published: true
-date: 2024-01-26T22:45:57.119Z
+date: 2024-01-27T12:22:30.707Z
 tags: website, rank6, totalfailure
 editor: markdown
 ---
 
-# github.com IPv6 compatibility
+# proton.me IPv6 compatibility
 
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 {.is-info}
 
 IPv6 ranking: rank6, totalfailure :x: :wastebasket:
 Explanation: The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database.
-Last Update: 26.01.2024 23:45:57 CET
+Last Update: 27.01.2024 13:22:30 CET
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

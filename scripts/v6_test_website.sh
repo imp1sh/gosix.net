@@ -33,7 +33,7 @@ lastedit=$(date -u +"%Y-%m-%dT%H:%M:%S.%3NZ")
 lasteditreadable=$(date +"%d.%m.%Y %H:%M:%S %Z")
 
 # Check if the domain resolves to an AAAA record
-ipv6_address=$(dig +short AAAA "$domain")
+ipv6_address=$(./domaincheck.py $domain)
 
 if [ -z "$ipv6_address" ]; then
   echo "No AAAA record found for $domain"
@@ -42,7 +42,7 @@ fi
 
 # Further checks only when there is an IPv6 record (AAAA) in DNS
 if $aaaa; then
-  if ping -6 -c 1 -W 10  "$domain"; then
+  if ping -6 -c 1 -W 10  "$ipv6_address"; then
     ping=true
   else
     ping=false

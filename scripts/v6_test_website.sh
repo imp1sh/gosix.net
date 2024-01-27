@@ -105,6 +105,7 @@ editor: markdown
 # $domain IPv6 compatibility
 
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
+> Do not edit this page manually, it WILL get overwritten.
 {.is-info}
 
 IPv6 ranking: $rank $symbol

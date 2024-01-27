@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 declare -A domains=(
-  ["ai"]="openai.com"
+  ["ai"]="openai.com chat.openai.com"
   ["audiostreaming"]="deezer.com tidal.com spotify.com"
   ["bigtech"]="www.microsoft.com www.apple.com www.ibm.com"
   ["cars"]="bmw.de audi.de tesla.com mercedes-benz.de www.peugeot.fr renault.fr hyundai.com"

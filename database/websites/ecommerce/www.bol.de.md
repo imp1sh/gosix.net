@@ -1,13 +1,13 @@
 ---
-title: duolingo.com
-description: Website duolingo.com IPv6 compatibility
+title: www.bol.de
+description: Website www.bol.de IPv6 compatibility
 published: true
-date: 2024-01-27T21:16:56.
+date: 2024-01-27T21:16:55.
 tags: website, rank6, totalfailure
 editor: markdown
 ---
 
-# duolingo.com IPv6 compatibility
+# www.bol.de IPv6 compatibility
 
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 > Do not edit this page manually, it WILL get overwritten.
@@ -15,7 +15,7 @@ editor: markdown
 
 IPv6 ranking: rank6, totalfailure :x: :wastebasket:
 Explanation: The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database.
-Last Update: 27.01.2024 21:16:56 UTC
+Last Update: 27.01.2024 21:16:55 UTC
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

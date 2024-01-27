@@ -2,7 +2,7 @@
 title: zoom.us
 description: Website zoom.us IPv6 compatibility
 published: true
-date: 2024-01-27T15:08:34.504Z
+date: 2024-01-27T15:25:09.254Z
 tags: website, rank1
 editor: markdown
 ---
@@ -15,7 +15,7 @@ editor: markdown
 
 IPv6 ranking: rank1 :1st_place_medal:
 Explanation: The domain zoom.us has an AAAA record, responds to ping, http and https.
-Last Update: 27.01.2024 16:08:34 CET
+Last Update: 27.01.2024 16:25:09 CET
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

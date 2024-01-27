@@ -2,7 +2,7 @@
 title: Test Criteria website
 description: This howto defines what tests to make for a website check
 published: true
-date: 2024-01-27T15:32:33.458Z
+date: 2024-01-27T15:35:19.784Z
 tags: website, howto, criteria
 editor: markdown
 dateCreated: 2024-01-20T09:53:28.658Z
@@ -23,7 +23,7 @@ There is a [bash script](https://github.com/imp1sh/gosix.net/blob/main/scripts/v
 
 ## How to rank
 | Ranking | AAAA | ICMPv6 echo request | HTTP | HTTPS |
-| - | - | - | - |
+| - | - | - | - | - |
 | rank1 | :radio_button: | :radio_button: | :radio_button: | :radio_button: |
 | rank2 | :radio_button: | :white_circle: | :radio_button: | :radio_button: |
 | rank3 | :radio_button: | :radio_button: | support either http or https but not both | |

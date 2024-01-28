@@ -33,7 +33,7 @@ fi
 
 aaaa=true
 lastedit=$(date -u +"%Y-%m-%dT%H:%M:%S.%3NZ")
-lasteditreadable=$(date +"%d.%m.%Y %H:%M:%S %Z")
+lasteditreadable=$(date +"%d.%m.%Y %H:%M %Z")
 
 # Check if the domain resolves to an AAAA record
 ipv6_address=$(./domaincheck.py $domain)

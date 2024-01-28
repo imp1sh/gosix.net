@@ -2,7 +2,7 @@
 title: www.hsbc.com
 description: Website www.hsbc.com IPv6 compatibility
 published: true
-date: 2024-01-28T04:22:28.
+date: 2024-01-28T09:57:58.
 tags: website, rank1
 editor: markdown
 ---
@@ -15,7 +15,7 @@ editor: markdown
 
 IPv6 ranking: rank1 :1st_place_medal:
 Explanation: The domain www.hsbc.com has an AAAA record, responds to ping, http and https.
-Last Update: 28.01.2024 04:22:28 UTC
+Last Update: 28.01.2024 09:57:58 UTC
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

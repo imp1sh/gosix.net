@@ -2,7 +2,7 @@
 title: groupebpce.com
 description: Website groupebpce.com IPv6 compatibility
 published: true
-date: 2024-01-28T10:08:56.
+date: 2024-01-28T10:14:25.
 tags: website, rank6, totalfailure
 editor: markdown
 ---
@@ -13,9 +13,11 @@ editor: markdown
 > Do not edit this page manually, it WILL get overwritten.
 {.is-info}
 
-IPv6 ranking: rank6, totalfailure :x: :wastebasket:
-Explanation: The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database.
-Last Update: 28.01.2024 10:08:56 UTC
+|   |   |
+| - | - |
+| IPv6 ranking | rank6, totalfailure :x: :wastebasket: |
+| Explanation | The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database. |
+| Last Update | 28.01.2024 10:14:25 UTC |
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

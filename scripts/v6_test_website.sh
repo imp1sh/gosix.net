@@ -128,9 +128,11 @@ editor: markdown
 > Do not edit this page manually, it WILL get overwritten.
 {.is-info}
 
-IPv6 ranking: $rank $symbol
-Explanation: $comment
-Last Update: $lasteditreadable
+|   |   |
+| - | - |
+| IPv6 ranking | $rank $symbol |
+| Explanation | $comment |
+| Last Update | $lasteditreadable |
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

@@ -2,7 +2,7 @@
 title: www.netaachen.de
 description: Website www.netaachen.de IPv6 compatibility
 published: true
-date: 2024-01-28T10:24:22.
+date: 2024-01-28T10:40:40.
 tags: website, rank1
 editor: markdown
 ---
@@ -17,7 +17,7 @@ editor: markdown
 | - | - |
 | IPv6 ranking | rank1 :1st_place_medal: |
 | Explanation | The domain www.netaachen.de has an AAAA record, responds to ping, http and https. |
-| Last Update | 28.01.2024 10:24:22 UTC |
+| Last Update | 28.01.2024 10:40:40 UTC |
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

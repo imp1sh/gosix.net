@@ -2,7 +2,7 @@
 title: www.spdb.com.cn
 description: Website www.spdb.com.cn IPv6 compatibility
 published: true
-date: 2024-01-28T10:24:32.
+date: 2024-01-28T10:40:51.
 tags: website, rank2
 editor: markdown
 ---
@@ -17,7 +17,7 @@ editor: markdown
 | - | - |
 | IPv6 ranking | rank2 :2nd_place_medal: |
 | Explanation | The domain www.spdb.com.cn has an AAAA record, does respond to http and https but not to ping. |
-| Last Update | 28.01.2024 10:24:32 UTC |
+| Last Update | 28.01.2024 10:40:51 UTC |
 
 ## The Imperative of Supporting IPv6 for Websites: Addressing Today's Challenges and Tomorrow's Needs
 In the ever-evolving landscape of the internet, the adoption of Internet Protocol version 6 (IPv6) has become increasingly crucial for websites. IPv6, the next-generation internet protocol, offers numerous advantages over its predecessor, IPv4, and is essential for ensuring the continued growth, security, and accessibility of online platforms. This is particularly true when considering the challenges faced by users behind Carrier-Grade Network Address Translation (CGNAT) and the potential complications arising when clients lack IPv6 connectivity altogether.

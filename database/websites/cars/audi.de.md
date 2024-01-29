@@ -2,8 +2,8 @@
 title: audi.de
 description: audi.de Website IPv6 compatibility
 published: true
-date: 2024-01-29T09:19:18
-tags: website, rank5
+date: 2024-01-29T10:20:01
+tags: website, rank6
 editor: markdown
 ---
 
@@ -20,9 +20,9 @@ Audi, a German luxury car manufacturer, renowned for innovative design and cutti
 | - | - |
 | Domainname | audi.de
 | Category | cars |
-| IPv6 ranking | rank5 :arrow_double_down: |
-| Explanation | The domain has an AAAA record but does respond to neither ping/http/https |
-| Last Update | 2024-01-29 09:19:18 |
+| IPv6 ranking | rank6 :x: :wastebasket: |
+| Explanation | The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database. |
+| Last Update | 2024-01-29 10:20:01 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,8 +2,8 @@
 title: www.bankcomm.com
 description: www.bankcomm.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T09:17:29
-tags: website, rank1
+date: 2024-01-29T10:18:12
+tags: website, rank4
 editor: markdown
 ---
 
@@ -18,9 +18,9 @@ editor: markdown
 | - | - |
 | Domainname | www.bankcomm.com
 | Category | payment |
-| IPv6 ranking | rank1 :1st_place_medal: |
-| Explanation | The domain has an AAAA record, responds to ping, http and https. |
-| Last Update | 2024-01-29 09:17:29 |
+| IPv6 ranking | rank4 :arrow_down: |
+| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
+| Last Update | 2024-01-29 10:18:12 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

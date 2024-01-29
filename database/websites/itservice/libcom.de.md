@@ -2,7 +2,7 @@
 title: libcom.de
 description: libcom.de Website IPv6 compatibility
 published: true
-date: 2024-01-29T09:18:29
+date: 2024-01-29T10:19:39
 tags: website, rank1
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
 | Category | itservice |
 | IPv6 ranking | rank1 :1st_place_medal: |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
-| Last Update | 2024-01-29 09:18:29 |
+| Last Update | 2024-01-29 10:19:39 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

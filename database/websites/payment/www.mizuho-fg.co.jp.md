@@ -2,8 +2,8 @@
 title: www.mizuho-fg.co.jp
 description: www.mizuho-fg.co.jp Website IPv6 compatibility
 published: true
-date: 2024-01-29T09:19:17
-tags: website, rank5
+date: 2024-01-29T10:18:09
+tags: website, rank6
 editor: markdown
 ---
 
@@ -18,9 +18,9 @@ editor: markdown
 | - | - |
 | Domainname | www.mizuho-fg.co.jp
 | Category | payment |
-| IPv6 ranking | rank5 :arrow_double_down: |
-| Explanation | The domain has an AAAA record but does respond to neither ping/http/https |
-| Last Update | 2024-01-29 09:19:17 |
+| IPv6 ranking | rank6 :x: :wastebasket: |
+| Explanation | The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database. |
+| Last Update | 2024-01-29 10:18:09 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

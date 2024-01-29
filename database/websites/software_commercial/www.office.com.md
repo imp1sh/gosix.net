@@ -21,7 +21,7 @@ None
 | Domainname | www.office.com
 | Category | software_commercial |
 | IPv6 ranking | rank1 :1st_place_medal: |
-| Explanation | The domain $domain has an AAAA record, responds to ping, http and https. |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Last Update | 2024-01-29 00:52:40 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!

@@ -21,7 +21,7 @@ None
 | Domainname | www.axa.de
 | Category | insurance |
 | IPv6 ranking | rank5 :arrow_double_down: |
-| Explanation | The domain $domain has an AAAA record but does respond to neither ping/http/https |
+| Explanation | The domain has an AAAA record but does respond to neither ping/http/https |
 | Last Update | 2024-01-29 00:52:48 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!

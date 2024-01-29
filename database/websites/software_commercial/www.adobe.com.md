@@ -2,7 +2,7 @@
 title: www.adobe.com
 description: www.adobe.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T04:22:55
+date: 2024-01-29T09:19:18
 tags: website, rank1
 editor: markdown
 ---
@@ -22,7 +22,7 @@ Adobe is a renowned software company, offering a diverse suite of creative tools
 | Category | software_commercial |
 | IPv6 ranking | rank1 :1st_place_medal: |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
-| Last Update | 2024-01-29 04:22:55 |
+| Last Update | 2024-01-29 09:19:18 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

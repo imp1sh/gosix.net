@@ -2,7 +2,7 @@
 title: www.doopedia.co.kr
 description: www.doopedia.co.kr Website IPv6 compatibility
 published: true
-date: 2024-01-29T04:21:24
+date: 2024-01-29T09:18:02
 tags: website, rank5
 editor: markdown
 ---
@@ -22,7 +22,7 @@ Doopedia.co.kr is a Korean online encyclopedia, providing comprehensive informat
 | Category | wiki |
 | IPv6 ranking | rank5 :arrow_double_down: |
 | Explanation | The domain has an AAAA record but does respond to neither ping/http/https |
-| Last Update | 2024-01-29 04:21:24 |
+| Last Update | 2024-01-29 09:18:02 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

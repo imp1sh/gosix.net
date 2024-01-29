@@ -2,7 +2,7 @@
 title: paypal.com
 description: paypal.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T04:22:03
+date: 2024-01-29T09:18:05
 tags: website, rank5
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
 | Category | payment |
 | IPv6 ranking | rank5 :arrow_double_down: |
 | Explanation | The domain has an AAAA record but does respond to neither ping/http/https |
-| Last Update | 2024-01-29 04:22:03 |
+| Last Update | 2024-01-29 09:18:05 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

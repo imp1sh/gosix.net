@@ -2,7 +2,7 @@
 title: zoom.us
 description: zoom.us Website IPv6 compatibility
 published: true
-date: 2024-01-29T04:21:03
+date: 2024-01-29T09:17:37
 tags: website, rank1
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
 | Category | communication |
 | IPv6 ranking | rank1 :1st_place_medal: |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
-| Last Update | 2024-01-29 04:21:03 |
+| Last Update | 2024-01-29 09:17:37 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

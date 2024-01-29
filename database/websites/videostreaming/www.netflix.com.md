@@ -2,7 +2,7 @@
 title: www.netflix.com
 description: www.netflix.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T16:23:51
+date: 2024-01-29T16:39:38
 tags: website, rank4
 editor: markdown
 ---
@@ -20,7 +20,11 @@ editor: markdown
 | Category | videostreaming |
 | IPv6 ranking | rank4 :arrow_down: |
 | Explanation | The domain has an AAAA record, does not respond to ping and only supports either http or https. |
-| Last Update | 2024-01-29 16:23:51 |
+| Amount of AAAA records for domain | 3 |
+| ICMPv6 success rate | 0.0%|
+| HTTP success rate | 100.0% |
+| HTTPS success rate | 0.0% |
+| Last Check Timestamp | 2024-01-29 16:39:38 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

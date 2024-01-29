@@ -2,7 +2,7 @@
 title: www.bankcomm.com
 description: www.bankcomm.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T16:24:08
+date: 2024-01-29T16:40:04
 tags: website, rank4
 editor: markdown
 ---
@@ -20,7 +20,11 @@ editor: markdown
 | Category | payment |
 | IPv6 ranking | rank4 :arrow_down: |
 | Explanation | The domain has an AAAA record, does not respond to ping and only supports either http or https. |
-| Last Update | 2024-01-29 16:24:08 |
+| Amount of AAAA records for domain | 1 |
+| ICMPv6 success rate | 0.0%|
+| HTTP success rate | 100.0% |
+| HTTPS success rate | 0.0% |
+| Last Check Timestamp | 2024-01-29 16:40:04 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: deezer.com
 description: deezer.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T16:24:40
+date: 2024-01-29T16:40:24
 tags: website, rank6
 editor: markdown
 ---
@@ -22,7 +22,11 @@ Deezer is a popular music streaming service, offering a vast catalog of songs, p
 | Category | audiostreaming |
 | IPv6 ranking | rank6 :x: :wastebasket: |
 | Explanation | The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database. |
-| Last Update | 2024-01-29 16:24:40 |
+| Amount of AAAA records for domain | 0 |
+| ICMPv6 success rate | 0%|
+| HTTP success rate | 0% |
+| HTTPS success rate | 0% |
+| Last Check Timestamp | 2024-01-29 16:40:24 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: www.cebbank.com
 description: www.cebbank.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T16:24:40
+date: 2024-01-29T16:39:53
 tags: website, rank2
 editor: markdown
 ---
@@ -20,7 +20,11 @@ editor: markdown
 | Category | payment |
 | IPv6 ranking | rank2 :2nd_place_medal: |
 | Explanation | The domain has an AAAA record, does respond to http and https but not to ping. |
-| Last Update | 2024-01-29 16:24:40 |
+| Amount of AAAA records for domain | 1 |
+| ICMPv6 success rate | 0.0%|
+| HTTP success rate | 100.0% |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-01-29 16:39:53 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

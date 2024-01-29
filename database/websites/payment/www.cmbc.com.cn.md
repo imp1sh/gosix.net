@@ -2,7 +2,7 @@
 title: www.cmbc.com.cn
 description: www.cmbc.com.cn Website IPv6 compatibility
 published: true
-date: 2024-01-29T16:23:17
+date: 2024-01-29T16:39:14
 tags: website, rank3
 editor: markdown
 ---
@@ -20,7 +20,11 @@ editor: markdown
 | Category | payment |
 | IPv6 ranking | rank3 :3rd_place_medal: |
 | Explanation | The domain has an AAAA record, does respond to ping and anly supports either http or https. |
-| Last Update | 2024-01-29 16:23:17 |
+| Amount of AAAA records for domain | 1 |
+| ICMPv6 success rate | 100.0%|
+| HTTP success rate | 0.0% |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-01-29 16:39:14 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

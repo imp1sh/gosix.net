@@ -2,8 +2,8 @@
 title: www.broadcom.com
 description: www.broadcom.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T21:32:34
-tags: website, rank2
+date: 2024-01-29T21:43:55
+tags: website, rank1
 editor: markdown
 ---
 
@@ -18,13 +18,13 @@ editor: markdown
 | - | - |
 | Domainname | www.broadcom.com
 | Category | bigtech |
-| IPv6 ranking | rank2 :2nd_place_medal: |
-| Explanation | The domain has an AAAA record, does respond to http and https but not to ping. |
+| IPv6 ranking | rank1 :1st_place_medal: |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 2 |
-| ICMPv6 success rate | 0.0%|
+| ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-29 21:32:34 |
+| Last Check Timestamp | 2024-01-29 21:43:55 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

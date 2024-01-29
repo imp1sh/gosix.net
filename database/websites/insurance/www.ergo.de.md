@@ -2,7 +2,7 @@
 title: www.ergo.de
 description: www.ergo.de Website IPv6 compatibility
 published: true
-date: 2024-01-29T10:18:30
+date: 2024-01-29T10:27:38
 tags: website, rank6
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
 | Category | insurance |
 | IPv6 ranking | rank6 :x: :wastebasket: |
 | Explanation | The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database. |
-| Last Update | 2024-01-29 10:18:30 |
+| Last Update | 2024-01-29 10:27:38 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: www.spdb.com.cn
 description: www.spdb.com.cn Website IPv6 compatibility
 published: true
-date: 2024-01-29T10:18:41
+date: 2024-01-29T10:28:14
 tags: website, rank2
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
 | Category | payment |
 | IPv6 ranking | rank2 :2nd_place_medal: |
 | Explanation | The domain has an AAAA record, does respond to http and https but not to ping. |
-| Last Update | 2024-01-29 10:18:41 |
+| Last Update | 2024-01-29 10:28:14 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

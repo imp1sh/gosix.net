@@ -2,8 +2,8 @@
 title: chat.openai.com
 description: chat.openai.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T10:27:11
-tags: website, rank5
+date: 2024-01-29T16:24:01
+tags: website, rank1
 editor: markdown
 ---
 
@@ -20,9 +20,9 @@ chat fqdn by openai
 | - | - |
 | Domainname | chat.openai.com
 | Category | ai |
-| IPv6 ranking | rank5 :arrow_double_down: |
-| Explanation | The domain has an AAAA record and responds to ping but does not respond to neither http/https |
-| Last Update | 2024-01-29 10:27:11 |
+| IPv6 ranking | rank1 :1st_place_medal: |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
+| Last Update | 2024-01-29 16:24:01 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,8 +2,8 @@
 title: www.ccb.com
 description: www.ccb.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T10:27:55
-tags: website, rank4
+date: 2024-01-29T16:24:17
+tags: website, rank5
 editor: markdown
 ---
 
@@ -18,9 +18,9 @@ editor: markdown
 | - | - |
 | Domainname | www.ccb.com
 | Category | payment |
-| IPv6 ranking | rank4 :arrow_down: |
-| Explanation | The domain has an AAAA record, does not respond to ping and only supports either http or https. |
-| Last Update | 2024-01-29 10:27:55 |
+| IPv6 ranking | rank5 :arrow_double_down: |
+| Explanation | The domain has an AAAA record and responds to ping but does not respond to neither http/https |
+| Last Update | 2024-01-29 16:24:17 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: www.noris.de
 description: www.noris.de Website IPv6 compatibility
 published: true
-date: 2024-01-29T10:29:02
+date: 2024-01-29T16:23:52
 tags: website, rank5
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
 | Category | datacenter |
 | IPv6 ranking | rank5 :arrow_double_down: |
 | Explanation | The domain has an AAAA record and responds to ping but does not respond to neither http/https |
-| Last Update | 2024-01-29 10:29:02 |
+| Last Update | 2024-01-29 16:23:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

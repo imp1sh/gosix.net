@@ -2,8 +2,8 @@
 title: www.cmbchina.com
 description: www.cmbchina.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T10:28:26
-tags: website, rank1
+date: 2024-01-29T16:24:32
+tags: website, rank4
 editor: markdown
 ---
 
@@ -18,9 +18,9 @@ editor: markdown
 | - | - |
 | Domainname | www.cmbchina.com
 | Category | payment |
-| IPv6 ranking | rank1 :1st_place_medal: |
-| Explanation | The domain has an AAAA record, responds to ping, http and https. |
-| Last Update | 2024-01-29 10:28:26 |
+| IPv6 ranking | rank4 :arrow_down: |
+| Explanation | The domain has an AAAA record, does not respond to ping and only supports either http or https. |
+| Last Update | 2024-01-29 16:24:32 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

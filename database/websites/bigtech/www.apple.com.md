@@ -2,7 +2,7 @@
 title: www.apple.com
 description: www.apple.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T01:06:26
+date: 2024-01-29T04:22:01
 tags: website, rank1
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
 | Category | bigtech |
 | IPv6 ranking | rank1 :1st_place_medal: |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
-| Last Update | 2024-01-29 01:06:26 |
+| Last Update | 2024-01-29 04:22:01 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

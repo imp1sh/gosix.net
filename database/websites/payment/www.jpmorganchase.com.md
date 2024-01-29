@@ -2,7 +2,7 @@
 title: www.jpmorganchase.com
 description: www.jpmorganchase.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T01:06:52
+date: 2024-01-29T04:22:29
 tags: website, rank5
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
 | Category | payment |
 | IPv6 ranking | rank5 :arrow_double_down: |
 | Explanation | The domain has an AAAA record but does respond to neither ping/http/https |
-| Last Update | 2024-01-29 01:06:52 |
+| Last Update | 2024-01-29 04:22:29 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: deezer.com
 description: deezer.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T01:07:09
+date: 2024-01-29T04:22:55
 tags: website, rank5
 editor: markdown
 ---
@@ -22,7 +22,7 @@ Deezer is a popular music streaming service, offering a vast catalog of songs, p
 | Category | audiostreaming |
 | IPv6 ranking | rank5 :arrow_double_down: |
 | Explanation | The domain has an AAAA record but does respond to neither ping/http/https |
-| Last Update | 2024-01-29 01:07:09 |
+| Last Update | 2024-01-29 04:22:55 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

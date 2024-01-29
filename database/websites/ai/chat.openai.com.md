@@ -26,6 +26,3 @@ chat fqdn by openai
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
-
-## What is chat.openai.com about?
-None

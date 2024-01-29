@@ -13,8 +13,6 @@ editor: markdown
 > Do not edit this page manually, it will get overwritten.
 {.is-info}
 
-None
-
 
 |   |   |
 | - | - |
@@ -26,6 +24,3 @@ None
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
-
-## What is www.freenet.de about?
-None

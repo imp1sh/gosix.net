@@ -2,7 +2,7 @@
 title: www.hetzner.com
 description: www.hetzner.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T16:40:15
+date: 2024-01-29T17:01:32
 tags: website, rank1
 editor: markdown
 ---
@@ -24,7 +24,7 @@ editor: markdown
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-29 16:40:15 |
+| Last Check Timestamp | 2024-01-29 17:01:32 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

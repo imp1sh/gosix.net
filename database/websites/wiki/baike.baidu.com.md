@@ -2,8 +2,8 @@
 title: baike.baidu.com
 description: baike.baidu.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T16:39:24
-tags: website, rank5
+date: 2024-01-29T17:00:58
+tags: website, rank4
 editor: markdown
 ---
 
@@ -18,13 +18,13 @@ editor: markdown
 | - | - |
 | Domainname | baike.baidu.com
 | Category | wiki |
-| IPv6 ranking | rank5 :arrow_double_down: |
-| Explanation | The domain has an AAAA record and responds to ping but does not respond to neither http/https |
+| IPv6 ranking | rank4 :arrow_down: |
+| Explanation | The domain has an AAAA record, does not respond to ping and only supports either http or https. |
 | Amount of AAAA records for domain | 1 |
-| ICMPv6 success rate | 100.0%|
+| ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-29 16:39:24 |
+| Last Check Timestamp | 2024-01-29 17:00:58 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,8 +2,8 @@
 title: bank.pingan.com
 description: bank.pingan.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T17:00:58
-tags: website, rank6
+date: 2024-01-29T21:32:19
+tags: website, rank2
 editor: markdown
 ---
 
@@ -18,13 +18,13 @@ editor: markdown
 | - | - |
 | Domainname | bank.pingan.com
 | Category | payment |
-| IPv6 ranking | rank6 :x: :wastebasket: |
-| Explanation | The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database. |
-| Amount of AAAA records for domain | 0 |
-| ICMPv6 success rate | 72.727275%|
+| IPv6 ranking | rank2 :2nd_place_medal: |
+| Explanation | The domain has an AAAA record, does respond to http and https but not to ping. |
+| Amount of AAAA records for domain | 10 |
+| ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 90.909094% |
-| Last Check Timestamp | 2024-01-29 17:00:58 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-01-29 21:32:19 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: www.wikipedia.org
 description: www.wikipedia.org Website IPv6 compatibility
 published: true
-date: 2024-01-29T20:05:42
+date: 2024-01-29T21:32:13
 tags: website, rank4
 editor: markdown
 ---
@@ -24,7 +24,7 @@ editor: markdown
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-29 20:05:42 |
+| Last Check Timestamp | 2024-01-29 21:32:13 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

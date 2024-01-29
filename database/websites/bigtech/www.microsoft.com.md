@@ -2,8 +2,8 @@
 title: www.microsoft.com
 description: www.microsoft.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T17:01:12
-tags: website, rank3
+date: 2024-01-29T21:32:20
+tags: website, rank4
 editor: markdown
 ---
 
@@ -18,13 +18,13 @@ editor: markdown
 | - | - |
 | Domainname | www.microsoft.com
 | Category | bigtech |
-| IPv6 ranking | rank3 :3rd_place_medal: |
-| Explanation | The domain has an AAAA record, does respond to ping and anly supports either http or https. |
-| Amount of AAAA records for domain | 5 |
-| ICMPv6 success rate | 100.0%|
+| IPv6 ranking | rank4 :arrow_down: |
+| Explanation | The domain has an AAAA record, does not respond to ping and only supports either http or https. |
+| Amount of AAAA records for domain | 3 |
+| ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-29 17:01:12 |
+| Last Check Timestamp | 2024-01-29 21:32:20 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

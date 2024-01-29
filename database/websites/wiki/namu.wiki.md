@@ -2,8 +2,8 @@
 title: namu.wiki
 description: namu.wiki Website IPv6 compatibility
 published: true
-date: 2024-01-29T17:01:04
-tags: website, rank1
+date: 2024-01-29T21:32:21
+tags: website, rank2
 editor: markdown
 ---
 
@@ -18,13 +18,13 @@ editor: markdown
 | - | - |
 | Domainname | namu.wiki
 | Category | wiki |
-| IPv6 ranking | rank1 :1st_place_medal: |
-| Explanation | The domain has an AAAA record, responds to ping, http and https. |
+| IPv6 ranking | rank2 :2nd_place_medal: |
+| Explanation | The domain has an AAAA record, does respond to http and https but not to ping. |
 | Amount of AAAA records for domain | 2 |
-| ICMPv6 success rate | 100.0%|
+| ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-29 17:01:04 |
+| Last Check Timestamp | 2024-01-29 21:32:21 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

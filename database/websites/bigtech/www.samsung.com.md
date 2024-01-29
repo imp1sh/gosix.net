@@ -2,7 +2,7 @@
 title: www.samsung.com
 description: www.samsung.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T00:53:16
+date: 2024-01-29T01:07:00
 tags: website, rank5
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
 | Category | bigtech |
 | IPv6 ranking | rank5 :arrow_double_down: |
 | Explanation | The domain has an AAAA record but does respond to neither ping/http/https |
-| Last Update | 2024-01-29 00:53:16 |
+| Last Update | 2024-01-29 01:07:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

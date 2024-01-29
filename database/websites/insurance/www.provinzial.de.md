@@ -2,7 +2,7 @@
 title: www.provinzial.de
 description: www.provinzial.de Website IPv6 compatibility
 published: true
-date: 2024-01-29T00:51:58
+date: 2024-01-29T01:05:42
 tags: website, rank5
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
 | Category | insurance |
 | IPv6 ranking | rank5 :arrow_double_down: |
 | Explanation | The domain has an AAAA record but does respond to neither ping/http/https |
-| Last Update | 2024-01-29 00:51:58 |
+| Last Update | 2024-01-29 01:05:42 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

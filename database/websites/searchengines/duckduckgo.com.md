@@ -2,7 +2,7 @@
 title: duckduckgo.com
 description: duckduckgo.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T00:52:09
+date: 2024-01-29T01:06:15
 tags: website, rank5
 editor: markdown
 ---
@@ -20,7 +20,7 @@ editor: markdown
 | Category | searchengines |
 | IPv6 ranking | rank5 :arrow_double_down: |
 | Explanation | The domain has an AAAA record but does respond to neither ping/http/https |
-| Last Update | 2024-01-29 00:52:09 |
+| Last Update | 2024-01-29 01:06:15 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

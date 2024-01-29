@@ -2,7 +2,7 @@
 title: Test Criteria website
 description: This howto defines what tests to make for a website check
 published: true
-date: 2024-01-27T21:37:55.033Z
+date: 2024-01-29T10:10:56.308Z
 tags: website, howto, criteria
 editor: markdown
 dateCreated: 2024-01-20T09:53:28.658Z
@@ -28,6 +28,7 @@ There is a [bash script](https://github.com/imp1sh/gosix.net/blob/main/scripts/v
 | rank2 | :radio_button: | :white_circle: | :radio_button: | :radio_button: |
 | rank3 | :radio_button: | :radio_button: | support either http or https but not both | |
 | rank4 | :radio_button: | :white_circle: | support either http or https but not both | |
+| rank5 | :radio_button: | :radio_button: | :white_circle: | :white_circle: |
 | rank5 | :radio_button: | :white_circle: | :white_circle: | :white_circle: |
 | rank6 | :white_circle: | :white_circle: | :white_circle: | :white_circle: |
 

@@ -2,7 +2,7 @@
 title: www.netaachen.de
 description: www.netaachen.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T11:05:56
+date: 2024-01-30T11:40:09
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ NetAachen is a German Internet service provider based in Aachen. It offers commu
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 11:05:56 |
+| Last Check Timestamp | 2024-01-30 11:40:09 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

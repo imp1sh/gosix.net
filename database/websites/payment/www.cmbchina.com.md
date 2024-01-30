@@ -2,8 +2,8 @@
 title: www.cmbchina.com
 description: www.cmbchina.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T11:06:19
-tags: website, rank4
+date: 2024-01-30T11:39:50
+tags: website, rank3
 editor: markdown
 ---
 
@@ -20,13 +20,13 @@ China Merchants Bank's official website, www.cmbchina.com, offers comprehensive 
 | - | - |
 | Domainname | www.cmbchina.com
 | Category | payment |
-| IPv6 ranking | rank4 :arrow_down: |
-| Explanation | The domain has an AAAA record, does not respond to ping and only supports either http or https. |
+| IPv6 ranking | rank3 :3rd_place_medal: |
+| Explanation | The domain has an AAAA record, does respond to ping and anly supports either http or https. |
 | Amount of AAAA records for domain | 1 |
-| ICMPv6 success rate | 0.0%|
+| ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 11:06:19 |
+| Last Check Timestamp | 2024-01-30 11:39:50 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

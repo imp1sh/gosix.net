@@ -2,7 +2,7 @@
 title: google.com
 description: google.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T11:06:32
+date: 2024-01-30T11:40:01
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Google.com, owned by Alphabet Inc., is the world's leading search engine known f
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 11:06:32 |
+| Last Check Timestamp | 2024-01-30 11:40:01 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

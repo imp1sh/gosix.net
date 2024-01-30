@@ -2,7 +2,7 @@
 title: www.intesasanpaolo.com
 description: www.intesasanpaolo.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T11:05:53
+date: 2024-01-30T11:40:08
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Intesa Sanpaolo is a leading Italian banking group offering financial services, 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 11:05:53 |
+| Last Check Timestamp | 2024-01-30 11:40:08 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

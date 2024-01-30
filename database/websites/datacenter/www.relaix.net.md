@@ -2,7 +2,7 @@
 title: www.relaix.net
 description: www.relaix.net Website IPv6 compatibility
 published: true
-date: 2024-01-30T11:05:34
+date: 2024-01-30T11:39:17
 tags: website, rank1
 editor: markdown
 ---
@@ -26,14 +26,13 @@ RelAix is a local professional ISP and Datacenter operator from Aachen.
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 11:05:34 |
+| Last Check Timestamp | 2024-01-30 11:39:17 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
 
 ## What is www.relaix.net about?
-RelAix Networks GmbH is a company known for its innovative approach to networking solutions, particularly within the industrial domain. With a focus on artificial intelligence, RelAix Networks offers state-of-the-art AI-based technologies designed to enhance the performance and reliability of communication networks. Their products aim to offer predictive maintenance, anomaly detection, and network optimization, ensuring high uptime and efficiency for industrial applications.
+RelAix Networks GmbH is a company known for its innovative approach to networking solutions, particularly within the industrial domain.
 
-The key offering from RelAix Networks is their AI-driven platform, www.relaix.net, which provides users with advanced tools for network monitoring and management. This platform leverages machine learning algorithms to analyze network traffic in real-time, identify potential issues before they occur, and facilitate smart decision-making processes. By integrating intelligence into the network infrastructure, RelAix Networks GmbH empowers businesses to maintain a competitive edge in an increasingly connected world, where uptime and data-driven decision-making are critical to success.
-
-With a user-friendly interface and customizable features, www.relaix.net is positioned to cater to the diverse needs of modern industries, ranging from manufacturing to logistics. RelAix Networks' commitment to continuous innovation, coupled with robust security measures, makes their AI networking platform a valuable asset for businesses looking to harness the potential of Industry 4.0.
+RelAix Networks is primarily active in the business sector and, in addition to high-performance fiber optic lines, also offers data center operations according to the most modern standards.
+Their holistic services in the IT service sector make them a very successful IT company that is very popular with customers.

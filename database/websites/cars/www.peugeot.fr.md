@@ -2,7 +2,7 @@
 title: www.peugeot.fr
 description: www.peugeot.fr Website IPv6 compatibility
 published: true
-date: 2024-01-30T11:06:03
+date: 2024-01-30T11:40:09
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ As of my last update in April 2023, "www.peugeot.fr" is the official website for
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 11:06:03 |
+| Last Check Timestamp | 2024-01-30 11:40:09 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

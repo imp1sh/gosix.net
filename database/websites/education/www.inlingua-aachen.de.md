@@ -2,7 +2,7 @@
 title: www.inlingua-aachen.de
 description: www.inlingua-aachen.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T11:05:54
+date: 2024-01-30T11:39:17
 tags: website, rank6
 editor: markdown
 ---
@@ -26,16 +26,12 @@ Inlingua Sprachschule in Aachen, Germany is part of the global inlingua language
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 11:05:54 |
+| Last Check Timestamp | 2024-01-30 11:39:17 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
 
 ## What is www.inlingua-aachen.de about?
-Currently, I cannot access external websites like www.inlingua-aachen.de because my browsing capability is disabled. However, I can provide you with a general description based on what institutions like inlingua Sprachschule typically offer.
+inlingua International AG is a language school network founded in 1968[1] and based in Bern (Switzerland).[2] It serves as an umbrella organization for the legally independent language centers affiliated with it, which operate under a license agreement. In addition to monitoring its own brand, inlingua International AG also runs its own publishing house for teaching materials. Inlingua Aachen is a branch of the AG in the city of Aachen
 
-Inlingua Sprachschule Aachen is likely a branch of the global network of inlingua language schools specializing in language training and cultural education. Offering a diverse range of language courses, inlingua Aachen provides students and professionals with the tools to master new languages in an immersive learning environment.
-
-The school probably offers a variety of language programs tailored to different needs, including standard and intensive courses, private tutoring, business language training, and specialized language certification preparation. Inlingua's methodology emphasizes practical communication skills, ensuring that students not only learn grammatical structures and vocabulary but also gain confidence in speaking and understanding the language in real-world contexts.
-
-Inlingua Aachen, like other inlingua centers, is likely staffed with experienced and qualified language instructors who employ the inlingua method of teaching, which focuses on direct use of the target language during lessons. The school's offerings may also include cultural integration workshops and activities to facilitate students' acclimation to the local language and culture, providing a holistic learning experience.
+As of 2018, around 300 language centers operate under the inlingua brand in 35 countries in Europe, Africa, Asia, North and South America.

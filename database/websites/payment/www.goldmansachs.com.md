@@ -2,7 +2,7 @@
 title: www.goldmansachs.com
 description: www.goldmansachs.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:36:34
+date: 2024-01-30T14:38:18
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Goldman Sachs Group, Inc. operates www.goldmansachs.com, offering financial serv
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 14:36:34 |
+| Last Check Timestamp | 2024-01-30 14:38:18 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

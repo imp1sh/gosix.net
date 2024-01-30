@@ -2,7 +2,7 @@
 title: en.pinduoduo.com
 description: en.pinduoduo.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:37:12
+date: 2024-01-30T14:38:18
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ en.pinduoduo.com is Pinduoduo Inc.'s online platform offering value-for-money me
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 14:37:12 |
+| Last Check Timestamp | 2024-01-30 14:38:18 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

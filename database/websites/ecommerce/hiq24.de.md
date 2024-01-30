@@ -2,7 +2,7 @@
 title: hiq24.de
 description: hiq24.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:36:48
+date: 2024-01-30T14:38:24
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ HiQ Computer is a local computer store in Alsdorf near Aachen. They also sell on
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 14:36:48 |
+| Last Check Timestamp | 2024-01-30 14:38:24 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

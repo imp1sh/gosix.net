@@ -2,7 +2,7 @@
 title: www.relaix.net
 description: www.relaix.net Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:37:12
+date: 2024-01-30T14:38:44
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ RelAix is a local professional ISP and Datacenter operator from Aachen.
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 14:37:12 |
+| Last Check Timestamp | 2024-01-30 14:38:44 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

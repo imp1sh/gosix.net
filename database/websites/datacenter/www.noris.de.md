@@ -2,7 +2,7 @@
 title: www.noris.de
 description: www.noris.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:38:24
+date: 2024-01-30T14:45:38
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Noris Network AG operates noris.de, offering IT outsourcing, cloud solutions, an
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 14:38:24 |
+| Last Check Timestamp | 2024-01-30 14:45:38 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,7 +40,9 @@ The website outlines noris network AG’s commitment to quality and innovation, 
 
 
 
-## Associated IP addresses
+<details>
+<summary>Associated IP addresses</summary>
 
-- 2001:780:6:f101::1
+2001:780:6:f101::1
 
+</details>

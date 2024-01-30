@@ -2,7 +2,7 @@
 title: www.bankcomm.com
 description: www.bankcomm.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:38:37
+date: 2024-01-30T14:45:50
 tags: website, rank4
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Bank of Communications (www.bankcomm.com) is a major Chinese bank, offering dive
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 14:38:37 |
+| Last Check Timestamp | 2024-01-30 14:45:50 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -38,7 +38,9 @@ The website www.bankcomm.com serves as the digital gateway to the services offer
 
 
 
-## Associated IP addresses
+<details>
+<summary>Associated IP addresses</summary>
 
-- 2408:8026:400:e00::3
+2408:8026:400:e00::3
 
+</details>

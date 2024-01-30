@@ -2,7 +2,7 @@
 title: www.rabobank.com
 description: www.rabobank.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:39:20
+date: 2024-01-30T14:46:22
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Rabobank.com is the official website of the Dutch multinational banking and fina
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 14:39:20 |
+| Last Check Timestamp | 2024-01-30 14:46:22 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,13 +40,15 @@ As a cooperative bank, Rabobank stands out for its customer-centric policies and
 
 
 
-## Associated IP addresses
+<details>
+<summary>Associated IP addresses</summary>
 
-- 2a02:26f0:280:4::213:7863
+2a02:26f0:280:4::213:7863
 
-- 2a02:26f0:280:4::213:784a
+2a02:26f0:280:4::213:784a
 
-- 2a02:26f0:e300::5f64:9211
+2a02:26f0:e300::5f64:9211
 
-- 2a02:26f0:e300::5f64:9212
+2a02:26f0:e300::5f64:9212
 
+</details>

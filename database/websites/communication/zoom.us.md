@@ -2,7 +2,7 @@
 title: zoom.us
 description: zoom.us Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:38:18
+date: 2024-01-30T14:45:38
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Zoom.us is a web-based video conferencing service by Zoom Video Communications, 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 14:38:18 |
+| Last Check Timestamp | 2024-01-30 14:45:38 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -38,7 +38,9 @@ Zoom caters to various users, from individuals and small teams to large enterpri
 
 
 
-## Associated IP addresses
+<details>
+<summary>Associated IP addresses</summary>
 
-- 2407:30c0:182::aa72:3402
+2407:30c0:182::aa72:3402
 
+</details>

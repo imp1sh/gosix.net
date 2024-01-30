@@ -2,7 +2,7 @@
 title: www.telekom.de
 description: www.telekom.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:38:44
+date: 2024-01-30T14:45:51
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ editor: markdown
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 14:38:44 |
+| Last Check Timestamp | 2024-01-30 14:45:51 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: libcom.de
 description: libcom.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:38:18
+date: 2024-01-30T14:45:38
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Libcom.de is a small company owned by Jochen Demmer offering professional IT ser
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 14:38:18 |
+| Last Check Timestamp | 2024-01-30 14:45:38 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -38,7 +38,9 @@ Libcom.de aims to spread open source in both the private, commercial and public 
 
 
 
-## Associated IP addresses
+<details>
+<summary>Associated IP addresses</summary>
 
-- 2001:4dd0:28d4:5000::18
+2001:4dd0:28d4:5000::18
 
+</details>

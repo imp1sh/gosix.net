@@ -2,7 +2,7 @@
 title: www.wikimedia.org
 description: www.wikimedia.org Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:38:30
+date: 2024-01-30T14:45:44
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Wikimedia.org is the central domain for the Wikimedia Foundation, hosting the di
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 14:38:30 |
+| Last Check Timestamp | 2024-01-30 14:45:44 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,7 +40,9 @@ At www.wikimedia.org, visitors can access these diverse resources or contribute 
 
 
 
-## Associated IP addresses
+<details>
+<summary>Associated IP addresses</summary>
 
-- 2a02:ec80:300:ed1a::1
+2a02:ec80:300:ed1a::1
 
+</details>

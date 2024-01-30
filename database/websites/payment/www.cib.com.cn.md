@@ -2,7 +2,7 @@
 title: www.cib.com.cn
 description: www.cib.com.cn Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:38:18
+date: 2024-01-30T14:46:14
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ The website www.cib.com.cn is the official online portal for China Industrial Ba
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 0.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 14:38:18 |
+| Last Check Timestamp | 2024-01-30 14:46:14 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,7 +42,9 @@ Please note that for real-time details or specific queries about the website's c
 
 
 
-## Associated IP addresses
+<details>
+<summary>Associated IP addresses</summary>
 
-- 2a01:53c0:ff0c::36
+2a01:53c0:ff0c::36
 
+</details>

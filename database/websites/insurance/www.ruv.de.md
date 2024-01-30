@@ -2,7 +2,7 @@
 title: www.ruv.de
 description: www.ruv.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:39:07
+date: 2024-01-30T14:46:02
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ R+V Versicherung AG's website, www.ruv.de, serves as an online portal for one of
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 14:39:07 |
+| Last Check Timestamp | 2024-01-30 14:46:02 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: www.ccb.com
 description: www.ccb.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:39:18
+date: 2024-01-30T14:46:14
 tags: website, rank4
 editor: markdown
 ---
@@ -26,7 +26,7 @@ China Construction Bank (CCB) is one of China's "Big Four" banks, offering a wid
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 14:39:18 |
+| Last Check Timestamp | 2024-01-30 14:46:14 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,9 +40,13 @@ Known for its robust emphasis on innovation and technology, www.ccb.com reflects
 
 
 
-## Associated IP addresses
+<details>
+<summary>Associated IP addresses</summary>
 
-- 2408:864e:c05::149
+2408:864e:c05::149
 
-- 2409:8700:c21:e0::78
+2409:8700:c21:e0::78
 
+240e:604:104:31::25
+
+</details>

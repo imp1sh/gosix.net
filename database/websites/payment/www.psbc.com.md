@@ -2,7 +2,7 @@
 title: www.psbc.com
 description: www.psbc.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:38:52
+date: 2024-01-30T14:45:59
 tags: website, rank1
 editor: markdown
 ---
@@ -23,10 +23,10 @@ www.psbc.com is the official website of the Postal Savings Bank of China (PSBC),
 | IPv6 ranking | rank1 :1st_place_medal: |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 9 |
-| ICMPv6 success rate | 100.0%|
+| ICMPv6 success rate | 88.88889%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 14:38:52 |
+| Last Check Timestamp | 2024-01-30 14:45:59 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,23 +40,25 @@ For business clients, www.psbc.com provides information and the ability to manag
 
 
 
-## Associated IP addresses
+<details>
+<summary>Associated IP addresses</summary>
 
-- 2408:8710:20:11a1::c4
+2408:8710:20:11a1::c4
 
-- 2408:8726:1001:182::60
+2408:8726:1001:182::60
 
-- 2408:8630:2090:8:68::3a
+2408:8630:2090:8:68::3a
 
-- 2408:8752:e00:80::5c
+2408:8752:e00:80::5c
 
-- 2408:8744:d05:12::47
+2408:8744:d05:12::47
 
-- 2408:872f:20:210::16e
+2408:872f:20:210::16e
 
-- 2408:875c:0:80::6c
+2408:875c:0:80::6c
 
-- 2408:8719:100:31::41
+2408:8719:100:31::41
 
-- 2408:8720:806:300:70::19
+2408:8720:806:300:70::19
 
+</details>

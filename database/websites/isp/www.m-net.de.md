@@ -2,7 +2,7 @@
 title: www.m-net.de
 description: www.m-net.de Website IPv6 compatibility
 published: true
-date: 2024-01-29T21:44:04
+date: 2024-01-30T00:05:14
 tags: website, rank3
 editor: markdown
 ---
@@ -24,7 +24,7 @@ editor: markdown
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-29 21:44:04 |
+| Last Check Timestamp | 2024-01-30 00:05:14 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

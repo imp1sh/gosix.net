@@ -2,7 +2,7 @@
 title: renault.fr
 description: renault.fr Website IPv6 compatibility
 published: true
-date: 2024-01-29T21:43:32
+date: 2024-01-30T00:04:41
 tags: website, rank6
 editor: markdown
 ---
@@ -12,6 +12,8 @@ editor: markdown
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 > Do not edit this page manually, it will get overwritten.
 {.is-info}
+
+Renault is a French multinational automobile manufacturer that produces a range of cars and vans. Known for its role in motor sport, particularly rallying and Formula 1, the company's key offerings include electric cars, commercial vehicles, and automotive financing.
 
 
 |   |   |
@@ -24,7 +26,7 @@ editor: markdown
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-29 21:43:32 |
+| Last Check Timestamp | 2024-01-30 00:04:41 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

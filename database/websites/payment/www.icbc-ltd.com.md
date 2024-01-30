@@ -2,7 +2,7 @@
 title: www.icbc-ltd.com
 description: www.icbc-ltd.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T21:43:24
+date: 2024-01-30T00:04:25
 tags: website, rank1
 editor: markdown
 ---
@@ -24,7 +24,7 @@ editor: markdown
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-29 21:43:24 |
+| Last Check Timestamp | 2024-01-30 00:04:25 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

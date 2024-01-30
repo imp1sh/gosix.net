@@ -2,7 +2,7 @@
 title: paypal.com
 description: paypal.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T21:43:09
+date: 2024-01-30T00:04:23
 tags: website, rank6
 editor: markdown
 ---
@@ -24,7 +24,7 @@ editor: markdown
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-29 21:43:09 |
+| Last Check Timestamp | 2024-01-30 00:04:23 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

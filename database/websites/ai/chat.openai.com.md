@@ -2,7 +2,7 @@
 title: chat.openai.com
 description: chat.openai.com Website IPv6 compatibility
 published: true
-date: 2024-01-29T21:43:32
+date: 2024-01-30T00:04:41
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ chat fqdn by openai
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-29 21:43:32 |
+| Last Check Timestamp | 2024-01-30 00:04:41 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

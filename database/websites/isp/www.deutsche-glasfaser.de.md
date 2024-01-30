@@ -2,7 +2,7 @@
 title: www.deutsche-glasfaser.de
 description: www.deutsche-glasfaser.de Website IPv6 compatibility
 published: true
-date: 2024-01-29T21:43:09
+date: 2024-01-30T00:05:05
 tags: website, rank6
 editor: markdown
 ---
@@ -12,6 +12,8 @@ editor: markdown
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 > Do not edit this page manually, it will get overwritten.
 {.is-info}
+
+Deutsche Glasfaser is a German telecommunications company specializing in providing fiber-optic internet services. It offers high-speed internet, telephony, and television services to private households, housing industry, and businesses across Germany.
 
 
 |   |   |
@@ -24,7 +26,7 @@ editor: markdown
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-29 21:43:09 |
+| Last Check Timestamp | 2024-01-30 00:05:05 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

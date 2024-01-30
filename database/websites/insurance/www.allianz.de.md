@@ -2,7 +2,7 @@
 title: www.allianz.de
 description: www.allianz.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:15
+date: 2024-01-30T14:21:21
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Allianz.de is the official website of Allianz SE, offering comprehensive insuran
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 12:46:15 |
+| Last Check Timestamp | 2024-01-30 14:21:21 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,166 @@ Allianz.de is the official website of Allianz SE, one of the leading integrated 
 The website serves as a digital gateway for customers to explore and access the myriad of insurance products and services offered by the company. From personal insurance policies like health, life, and property to commercial insurance and specialized risk management solutions, allianz.de provides detailed information and the convenience of online purchasing and management of policies. Additionally, the website reflects Allianz's commitment to customer service and digital innovation by offering tools for claims processing, seeking advice from experts, or calculating premiums with instant quotes.
 
 Allianz.de not only epitomizes the corporate ethos of trust and security that Allianz upholds but it also continuously evolves to include user-centered design and state-of-the-art technology for an optimized customer experience. The platform represents the modern face of Allianz SE, highlighting its role as a leading insurer while embracing the digital age with open arms.
+
+
+
+## Associated IP addresses
+
+- 2600:9000:2490:1000:19:bc8b:b200:93a1
+
+- 2600:9000:2490:2600:19:bc8b:b200:93a1
+
+- 2600:9000:2490:ac00:19:bc8b:b200:93a1
+
+- 2600:9000:2490:c600:19:bc8b:b200:93a1
+
+- 2600:9000:2490:f200:19:bc8b:b200:93a1
+
+- 2600:9000:2490:1a00:19:bc8b:b200:93a1
+
+- 2600:9000:2490:f600:19:bc8b:b200:93a1
+
+- 2600:9000:2490:f000:19:bc8b:b200:93a1
+
+- 2600:9000:243d:e600:19:bc8b:b200:93a1
+
+- 2600:9000:243d:cc00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:2800:19:bc8b:b200:93a1
+
+- 2600:9000:243d:dc00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:a00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:e000:19:bc8b:b200:93a1
+
+- 2600:9000:243d:ce00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:bc00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:3a00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:8400:19:bc8b:b200:93a1
+
+- 2600:9000:243d:fc00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:d200:19:bc8b:b200:93a1
+
+- 2600:9000:243d:4e00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:3c00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:3400:19:bc8b:b200:93a1
+
+- 2600:9000:243d:8e00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:da00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:2200:19:bc8b:b200:93a1
+
+- 2600:9000:243d:6000:19:bc8b:b200:93a1
+
+- 2600:9000:243d:8c00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:d000:19:bc8b:b200:93a1
+
+- 2600:9000:243d:9c00:19:bc8b:b200:93a1
+
+- 2600:9000:2490:0:19:bc8b:b200:93a1
+
+- 2600:9000:2490:600:19:bc8b:b200:93a1
+
+- 2600:9000:2490:b600:19:bc8b:b200:93a1
+
+- 2600:9000:2490:1400:19:bc8b:b200:93a1
+
+- 2600:9000:2490:9200:19:bc8b:b200:93a1
+
+- 2600:9000:2490:c00:19:bc8b:b200:93a1
+
+- 2600:9000:2490:7800:19:bc8b:b200:93a1
+
+- 2600:9000:243d:c600:19:bc8b:b200:93a1
+
+- 2600:9000:243d:0:19:bc8b:b200:93a1
+
+- 2600:9000:243d:f800:19:bc8b:b200:93a1
+
+- 2600:9000:243d:9000:19:bc8b:b200:93a1
+
+- 2600:9000:243d:3e00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:5a00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:c800:19:bc8b:b200:93a1
+
+- 2600:9000:243d:fe00:19:bc8b:b200:93a1
+
+- 2600:9000:2490:5200:19:bc8b:b200:93a1
+
+- 2600:9000:2490:6400:19:bc8b:b200:93a1
+
+- 2600:9000:2490:6c00:19:bc8b:b200:93a1
+
+- 2600:9000:2490:8600:19:bc8b:b200:93a1
+
+- 2600:9000:2490:a800:19:bc8b:b200:93a1
+
+- 2600:9000:2490:ba00:19:bc8b:b200:93a1
+
+- 2600:9000:2490:3a00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:be00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:fa00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:4600:19:bc8b:b200:93a1
+
+- 2600:9000:243d:5e00:19:bc8b:b200:93a1
+
+- 2600:9000:243d:de00:19:bc8b:b200:93a1
+
+- 2600:9000:2490:6800:19:bc8b:b200:93a1
+
+- 2600:9000:2490:4000:19:bc8b:b200:93a1
+
+- 2600:9000:2490:3200:19:bc8b:b200:93a1
+
+- 2600:9000:2490:b800:19:bc8b:b200:93a1
+
+- 2600:9000:2490:ae00:19:bc8b:b200:93a1
+
+- 2600:9000:2490:9600:19:bc8b:b200:93a1
+
+- 2600:9000:2490:5c00:19:bc8b:b200:93a1
+
+- 2600:9000:2490:6a00:19:bc8b:b200:93a1
+
+- 2600:9000:2490:a00:19:bc8b:b200:93a1
+
+- 2600:9000:2490:c000:19:bc8b:b200:93a1
+
+- 2600:9000:2490:b000:19:bc8b:b200:93a1
+
+- 2600:9000:2490:2200:19:bc8b:b200:93a1
+
+- 2600:9000:2490:3800:19:bc8b:b200:93a1
+
+- 2600:9000:2490:ea00:19:bc8b:b200:93a1
+
+- 2600:9000:2490:2800:19:bc8b:b200:93a1
+
+- 2600:9000:2490:7e00:19:bc8b:b200:93a1
+
+- 2600:9000:2490:e400:19:bc8b:b200:93a1
+
+- 2600:9000:2490:3600:19:bc8b:b200:93a1
+
+- 2600:9000:2490:6600:19:bc8b:b200:93a1
+
+- 2600:9000:2490:5800:19:bc8b:b200:93a1
+
+- 2600:9000:2490:d200:19:bc8b:b200:93a1
+
+- 2600:9000:2490:3000:19:bc8b:b200:93a1
+

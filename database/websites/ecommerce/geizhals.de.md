@@ -2,7 +2,7 @@
 title: geizhals.de
 description: geizhals.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:39
+date: 2024-01-30T14:21:10
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Geizhals.de by Preisvergleich Internet Services AG is a consumer price compariso
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:39 |
+| Last Check Timestamp | 2024-01-30 14:21:10 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Geizhals.de, operated by the Austrian company Preisvergleich Internet Services A
 The website's strength lies in its accurate and up-to-date database, which is meticulously maintained to ensure that users receive the best possible deals available across different stores. Geizhals facilitates an efficient shopping experience by enabling users to filter results based on specific criteria such as price, brand, or technical specifications, ensuring that they can find the exact product that meets their requirements.
 
 Additionally, Geizhals.de goes beyond being just a price comparison tool; it serves as a community hub for savvy buyers. The platform also offers alert functions where users can set price thresholds for desired products and receive notifications when these prices are met, making it a valuable resource for those looking to make informed purchasing decisions. With its user-centric approach and robust feature set, Geizhals.de stands as a testament to Preisvergleich Internet Services AG's commitment to helping consumers find the best value for their money.
+
+

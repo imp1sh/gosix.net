@@ -2,7 +2,7 @@
 title: www.pinterest.com
 description: www.pinterest.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:31
+date: 2024-01-30T14:20:59
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Pinterest (www.pinterest.com) by Pinterest, Inc. is a visual discovery engine wh
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:31 |
+| Last Check Timestamp | 2024-01-30 14:20:59 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Pinterest (www.pinterest.com) is a social media platform and visual discovery en
 On Pinterest, content can range from home decor inspiration, fashion trends, DIY craft ideas, to recipes and fitness tips. Each pin typically includes an image or video, a description, and a link to the original source. Users can browse through an endless feed of pins curated to their preferences or search for specific topics to discover related pins. The platform is known for its highly visual interface that appeals to individuals looking to visually explore and curate content relevant to their lifestyle and interests.
 
 Pinterest has evolved into a valuable tool for businesses as well, providing a platform to showcase products and reach potential customers. Users can "follow" boards or other users to get updates on new content, creating a dynamic and interactive community. With the added functionality of promoted pins and buyable pins, Pinterest serves as a bridge between inspiration-seeking individuals and businesses looking to capture the attention of consumers through visual appeal.
+
+

@@ -2,7 +2,7 @@
 title: www.walmart.com
 description: www.walmart.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:37
+date: 2024-01-30T14:20:51
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Walmart.com is Walmart Inc.'s online retail platform, offering a wide assortment
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:37 |
+| Last Check Timestamp | 2024-01-30 14:20:51 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ www.walmart.com is the online retail platform of Walmart Inc., one of the world'
 Walmart.com extends Walmart’s commitment to affordability, offering competitive prices and rolling out frequent discounts and promotions. Customers can benefit from features like the Walmart Pickup service, where they can shop online and collect their items from a local store without extra fees, as well as home delivery for a wide range of products. Additionally, the site integrates Walmart's customer loyalty program, offering personalized deals and savings opportunities.
 
 The platform also includes customer reviews, product recommendations, and easy-to-navigate categories to help users find what they're looking for. Walmart Inc. continually invests in its online presence, ensuring Walmart.com remains user-friendly and keeps up with evolving e-commerce trends, further solidifying the company's position as a major player in both the online and offline retail markets.
+
+

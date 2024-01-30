@@ -2,7 +2,7 @@
 title: www.theguardian.com
 description: www.theguardian.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:38
+date: 2024-01-30T14:21:10
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ editor: markdown
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:45:38 |
+| Last Check Timestamp | 2024-01-30 14:21:10 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,16 @@ The Guardian is a renowned British news organization with a rich heritage, havin
 www.theguardian.com exemplifies modern journalism in the digital age, offering both free content and a membership model to support its operations without erecting a complete paywall. The site emphasizes investigative reporting, insightful analysis, and comprehensive coverage of both UK and international events. It has a reputation for progressive and left-of-center reporting, championing issues like social justice, environmental sustainability, and human rights. The Guardian's approach to news is data-informed and multimedia-rich, often incorporating interactive elements, podcasts, and video to enhance the storytelling experience.
 
 A pioneer in the online news arena, The Guardian invests in new technologies to better serve its audience. It actively engages with its readers through comments and community sections, acknowledging the importance of reader feedback and contribution. The publication’s dedication to truthful and transparent reporting, along with its progressive agenda, has secured it a loyal readership around the globe.
+
+
+
+## Associated IP addresses
+
+- 2a04:4e42:600::367
+
+- 2a04:4e42:200::367
+
+- 2a04:4e42:400::367
+
+- 2a04:4e42::367
+

@@ -2,7 +2,7 @@
 title: www.psbc.com
 description: www.psbc.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:03
+date: 2024-01-30T14:20:31
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ www.psbc.com is the official website of the Postal Savings Bank of China (PSBC),
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 12:46:03 |
+| Last Check Timestamp | 2024-01-30 14:20:31 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,30 @@ The China Post Group Corporation's website, www.psbc.com, serves as the digital 
 On the www.psbc.com website, individual users can find essential banking services such as opening savings accounts, applying for loans, credit cards, and performing online transactions. It also acts as a platform for engaging with digital banking facilities like mobile banking and internet banking, catering to the tech-savvy population that prefers the convenience of managing their finances online.
 
 For business clients, www.psbc.com provides information and the ability to manage corporate accounts, obtain finance, engage in treasury activities, and access a suite of tailored financial solutions. The site also functions as a gateway for users to learn about the latest news and developments regarding the bank, highlighting its efforts in financial inclusion, innovation in banking technology, and its commitment to serving the diverse needs of the Chinese population, including those in rural and underserved areas.
+
+
+
+## Associated IP addresses
+
+- 2408:8719:100:31::41
+
+- 2408:8744:d05:12::47
+
+- 2408:8630:2090:8:68::3a
+
+- 2408:8710:20:11a1::c4
+
+- 2408:8726:1001:182::60
+
+- 2408:875c:0:80::6c
+
+- 2408:872f:20:210::16e
+
+- 2408:8752:e00:80::5c
+
+- 2408:8720:806:300:70::19
+
+- 2408:874d:a00:9::4
+
+- 2408:874f:3001:1:40::4e
+

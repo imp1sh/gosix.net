@@ -2,7 +2,7 @@
 title: edition.cnn.com
 description: edition.cnn.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:37
+date: 2024-01-30T14:20:51
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ CNN (Cable News Network) is an American news-based pay television channel owned 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:45:37 |
+| Last Check Timestamp | 2024-01-30 14:20:51 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,24 @@ CNN.com, an integral arm of CNN (Cable News Network), is an American news-based 
 The site caters to a diverse audience, offering a range of content from international and political news to health, entertainment, and lifestyle segments. CNN.com is known for its fast, in-depth, and digital-first approach, often being one of the first to report on significant events shaping our world. It utilizes an extensive network of reporters and correspondents who provide journalistic insights, coupled with engaging video and interactive content designed to inform and captivate its users.
 
 With its commitment to journalistic excellence, CNN.com has established itself as a trusted source for news and information in the digital age. Its user-friendly interface and availability on multiple platforms ensure that readers can stay informed anytime, anywhere, reinforcing its position as a leader in the digital news sphere.
+
+
+
+## Associated IP addresses
+
+- 2a04:4e42:800::773
+
+- 2a04:4e42:a00::773
+
+- 2a04:4e42:200::773
+
+- 2a04:4e42::773
+
+- 2a04:4e42:e00::773
+
+- 2a04:4e42:600::773
+
+- 2a04:4e42:c00::773
+
+- 2a04:4e42:400::773
+

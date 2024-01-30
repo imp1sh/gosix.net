@@ -2,7 +2,7 @@
 title: www.mizuho-fg.co.jp
 description: www.mizuho-fg.co.jp Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:16
+date: 2024-01-30T14:21:22
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Mizuho Financial Group is a major banking institution in Japan, offering a range
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:16 |
+| Last Check Timestamp | 2024-01-30 14:21:22 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Mizuho Financial Group, known formally as Mizuho Financial Group, Inc. (株式�
 The website is a hub for clients, investors, and the general public to access the latest financial data, press releases, investor relations information, and corporate social responsibility (CSR) initiatives. It provides deep insights into the various areas of expertise Mizuho Financial Group caters to – from personal finance solutions to large-scale transactions for institutional clients. The website's design reflects the group's commitment to professionalism and user engagement, offering easy navigation to relevant sections like annual reports, governance structures, and international network information.
 
 What sets Mizuho apart is its dedication to integrating financial services with innovative solutions. The website highlights the group's strategic focus on digital transformation and sustainable finance, which are key to its growth and future-oriented business approach. The ethos of the conglomerate is to contribute to the economic growth and well-being of society, a philosophy that resonates throughout their online presence on www.mizuho-fg.co.jp.
+
+

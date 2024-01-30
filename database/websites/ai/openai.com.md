@@ -2,7 +2,7 @@
 title: openai.com
 description: openai.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:31
+date: 2024-01-30T14:20:59
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ OpenAI.com by OpenAI offers advanced AI research and applications, including the
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:31 |
+| Last Check Timestamp | 2024-01-30 14:20:59 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -39,3 +39,5 @@ At the core of OpenAI's ethos is the belief that AI should not only push the bou
 From the OpenAI website, enthusiasts and professionals alike can explore research papers, blog posts about the latest discoveries, and a myriad of AI-powered tools. The site is a hub for innovation and a testament to OpenAI's open-source ethos that encourages collaboration, sharing of resources, and the democratization of AI technology. OpenAI also offers APIs, such as the one used for GPT-3, allowing developers to harness the power of their models for various applications.
 
 Let me know if you need a shorter text or more details on a specific aspect of OpenAI.
+
+

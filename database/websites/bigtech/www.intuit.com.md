@@ -2,7 +2,7 @@
 title: www.intuit.com
 description: www.intuit.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:13
+date: 2024-01-30T14:21:10
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Intuit Inc. is a financial software company that offers products like TurboTax, 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:13 |
+| Last Check Timestamp | 2024-01-30 14:21:10 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Intuit Inc. is a financial software company that serves millions of customers wo
 One of Intuit's most notable products is QuickBooks, a leading accounting software that helps small to medium-sized businesses manage their finances with ease. QuickBooks offers a range of features such as invoicing, expense tracking, inventory management, and payroll processing. Another flagship product is TurboTax, a user-friendly software that guides individuals through the process of filing their tax returns, ensuring accuracy and maximizing deductions.
 
 The company's official website, www.intuit.com, serves as a central hub for its products and services. The website provides detailed information about all of Intuit's offerings, including specialized versions for different markets and industries. Users can find support, purchase software, and access a wealth of resources aimed at empowering them to take control of their financial lives. As a testament to their commitment to customer success, Intuit has established a strong online presence to provide users with tools and insights for financial growth and efficiency.
+
+

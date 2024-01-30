@@ -2,7 +2,7 @@
 title: www.telekom.de
 description: www.telekom.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:39
+date: 2024-01-30T14:21:10
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ editor: markdown
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:39 |
+| Last Check Timestamp | 2024-01-30 14:21:10 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ www.telekom.de is the official website for Deutsche Telekom AG, one of the world
 The website is meticulously designed with a user-friendly interface, ensuring an efficient and seamless experience for users seeking information or services. Telekom.de provides comprehensive support through customer service portals and options for personalizing plans, paying bills, or shopping for new devices and accessories.
 
 As a reflection of Deutsche Telekom's commitment to innovation, www.telekom.de also highlights the company's forays into emerging technologies such as 5G, smart home applications, and cybersecurity. It stands as a testament to their brand image, reinforcing the message of connectivity and cutting-edge technology that Deutsche Telekom embodies on a global scale.
+
+

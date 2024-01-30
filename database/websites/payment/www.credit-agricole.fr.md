@@ -2,7 +2,7 @@
 title: www.credit-agricole.fr
 description: www.credit-agricole.fr Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:14
+date: 2024-01-30T14:21:10
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Crédit Agricole's official website, www.credit-agricole.fr, offers banking serv
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:14 |
+| Last Check Timestamp | 2024-01-30 14:21:10 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ www.credit-agricole.fr is the official website of Crédit Agricole, a premier ba
 The site boasts a user-friendly interface that allows clients to carry out various transactions such as transferring funds, paying bills, and monitoring account activity. Customers can also access personalized financial advice and customer support through the website. For prospective clients, www.credit-agricole.fr provides detailed information about the bank's products and services, including conditions, rates, and the application process.
 
 As a cornerstone of Crédit Agricole's digital strategy, the website is designed to ensure a secure and efficient banking experience, with features such as multi-factor authentication to protect customer data. In an age where digital banking is more important than ever, www.credit-agricole.fr stands as a testament to Crédit Agricole's dedication to meeting the evolving needs of its clients through technology.
+
+

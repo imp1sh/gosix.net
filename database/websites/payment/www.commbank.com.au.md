@@ -2,7 +2,7 @@
 title: www.commbank.com.au
 description: www.commbank.com.au Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:01
+date: 2024-01-30T14:20:59
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Commbank.com.au is the official site of the Commonwealth Bank of Australia, offe
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:01 |
+| Last Check Timestamp | 2024-01-30 14:20:59 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ www.commbank.com.au is the official online portal for the Commonwealth Bank of A
 The website serves as a digital hub for customers to conduct a variety of financial transactions and activities. Through this platform, users can access their bank accounts, transfer funds, apply for loans, manage investments, and learn about the bank's products and services. The website is designed with the customer in mind, offering a user-friendly interface and robust security measures to safeguard personal and financial information.
 
 CBA's commitment to innovation is also reflected in the features available on its website and associated banking apps, which include cutting-edge tools such as spending trackers, budgeting aids, and financial well-being scores. These online resources are complemented by educational content aimed at helping customers make informed financial decisions. As a leader in the Australian banking sector, www.commbank.com.au represents the bank's ongoing efforts to deliver convenient, secure, and comprehensive banking solutions to its vast customer base.
+
+

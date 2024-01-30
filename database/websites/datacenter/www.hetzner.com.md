@@ -2,7 +2,7 @@
 title: www.hetzner.com
 description: www.hetzner.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:32
+date: 2024-01-30T14:20:59
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Hetzner Online GmbH offers web hosting services, dedicated servers, and cloud so
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 12:45:32 |
+| Last Check Timestamp | 2024-01-30 14:20:59 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,10 @@ Hetzner Online GmbH is a well-respected web hosting company and data center oper
 With a focus on reliability and performance, Hetzner offers competitively priced hosting solutions for individuals and businesses of all sizes. Their product portfolio caters to a diverse set of needs, ensuring scalability and flexibility. Hetzner is known for its straightforward approach, transparent pricing with no hidden costs, and robust customer support which is appreciated by its international customer base.
 
 Hetzner's infrastructure is equipped with cutting-edge technology, ensuring high levels of security and uptime. They also provide an intuitive management interface with a wide range of tools and options for customers to manage their services efficiently. Over the years, Hetzner has won multiple awards for its services and contributions to the hosting industry, underlining its position as a dependable and innovative hosting provider.
+
+
+
+## Associated IP addresses
+
+- 2a01:4f8:0:1::7:1
+

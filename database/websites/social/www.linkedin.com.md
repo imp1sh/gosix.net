@@ -2,7 +2,7 @@
 title: www.linkedin.com
 description: www.linkedin.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:37
+date: 2024-01-30T14:20:59
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ LinkedIn is a professional networking site that enables users to connect with co
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:45:37 |
+| Last Check Timestamp | 2024-01-30 14:20:59 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -35,3 +35,10 @@ To see how this test was performed, please have a look at [our website test crit
 LinkedIn is a professional networking platform designed by LinkedIn Corporation to facilitate business-oriented connections and networking among its users. It serves as a virtual resume, marketing, recruitment, and professional development space where individuals can display their job experience, skills, education, and accomplishments to potential employers, colleagues, and business partners. Operated via www.linkedin.com, this online social network is geared towards career and business professionals looking to expand their professional circles, explore job opportunities, and engage with industry-relevant content.
 
 The platform enables users to create individual profiles that highlight professional qualifications, connect with other professionals, join industry groups, and follow companies and influencers. Users can receive and give endorsements for skills they possess or appreciate in their connections, which bolsters the credibility of their professional expertise. Additionally, LinkedIn offers a job search engine, company pages for brand visibility, and provides a pulse on industry trends and insights through articles and posts. The LinkedIn Corporation consistently develops new features for the website to enhance networking capabilities and user engagement, making it an invaluable resource for professionals worldwide.
+
+
+
+## Associated IP addresses
+
+- 2620:1ec:21::14
+

@@ -2,7 +2,7 @@
 title: www.citigroup.com
 description: www.citigroup.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:46
+date: 2024-01-30T14:20:53
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Citigroup Inc.'s www.citigroup.com is the official website providing information
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:46 |
+| Last Check Timestamp | 2024-01-30 14:20:53 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Citigroup Inc. is a global financial services conglomerate and the parent compan
 On www.citigroup.com, visitors can access detailed information about the company’s financial performance, including annual reports, investor relations, and stock performance data. The site also serves as a gateway to Citigroup's newsroom where press releases, updates, and thought leadership articles are available, giving users a view into the company’s initiatives, achievements, and strategic direction. Additionally, the website's interface is usually streamlined and user-friendly, enabling clients and investors to navigate the services offered with ease and find relevant contact information for customer support and corporate offices.
 
 Citigroup prides itself on being a responsible corporate citizen, and this is reflected on its website through sections that highlight the company's commitments to sustainability, community development, and diversity. Visitors can read about Citigroup's efforts in these areas, suggesting a commitment to not only financial success but also to social and environmental responsibility. Overall, www.citigroup.com is a reflection of Citigroup's professionalism and dedication to providing high-standard banking solutions on a global scale.
+
+

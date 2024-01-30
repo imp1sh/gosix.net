@@ -2,7 +2,7 @@
 title: spotify.com
 description: spotify.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:15
+date: 2024-01-30T14:20:52
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Spotify.com is a music streaming platform by Spotify AB offering millions of tra
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:46:15 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,10 @@ Spotify.com is the online portal for Spotify AB's flagship product, Spotify, whi
 The service operates on a freemium model, offering a basic ad-supported service at no cost, as well as a premium subscription that includes benefits like offline listening, improved audio quality, and an ad-free experience. Spotify's platform is as much about personalization as it is about discovery; it utilizes sophisticated algorithms to recommend music tailored to each user's taste. The platform is accessible via a web player, desktop applications, and mobile apps, catering to the needs of listeners who want music on the go or at home.
 
 Spotify.com not only serves as the face of the service but also provides users with account management options, customer support, and access to the Spotify community. The website enhances the overall user experience by incorporating social features that allow users to share music, create collaborative playlists, and connect with friends and artists. Spotify's impact on the music industry is notable; it has normalized streaming as a method of consumption while ensuring artists are compensated through its revenue-sharing model.
+
+
+
+## Associated IP addresses
+
+- 2600:1901:1:c36::
+

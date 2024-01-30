@@ -2,7 +2,7 @@
 title: www.dailymotion.com
 description: www.dailymotion.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:39
+date: 2024-01-30T14:21:10
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ DailyMotion, owned by Vivendi, is a video-sharing platform offering a vast array
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:39 |
+| Last Check Timestamp | 2024-01-30 14:21:10 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Dailymotion is a video-sharing technology platform primarily owned by Vivendi, a
 With an international presence, Dailymotion attracts over 300 million users who watch 3.5 billion videos on its player each month (as per the information available until my knowledge cutoff date in April 2023). The platform is particularly known for being more lenient in terms of the content policy compared to YouTube, which has attracted a diverse range of content creators. Additionally, it offers a monetization feature, enabling creators to earn revenue from their videos, further enhancing its appeal.
 
 Vivendi's ownership of Dailymotion has strategically positioned the platform to leverage Vivendi's extensive media and entertainment assets, which includes Universal Music Group and Canal+ Group. This synergy has the potential to enrich the content catalogue of Dailymotion and expand its user base by integrating premium content within its ecosystem. With a commitment to offering high-quality and diverse content, Dailymotion continues to be a key player in the video-sharing platform market.
+
+

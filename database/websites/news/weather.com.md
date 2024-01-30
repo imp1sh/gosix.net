@@ -2,7 +2,7 @@
 title: weather.com
 description: weather.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:31
+date: 2024-01-30T14:20:53
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Weather.com, by The Weather Company, provides reliable forecasts, radar maps, an
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:45:31 |
+| Last Check Timestamp | 2024-01-30 14:20:53 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,16 @@ Weather.com, also known as The Weather Channel's website, is a comprehensive onl
 Beyond the standard forecasts, weather.com offers a range of features such as radar maps, satellite imagery, and personalization options for local weather. The site includes articles and videos covering climate, science, and safety tips related to weather phenomena. Interactive tools, like the allergy tracker and flu reports, help users stay informed about environmental factors that can affect health. The combination of accurate forecasting technology and multimedia content makes Weather.com a go-to destination for individuals, businesses, and organizations needing reliable weather-related information.
 
 The Weather Company has established itself as a trusted name in weather forecasting partly due to its integration with IBM's advanced computing capabilities, including artificial intelligence and data analytics. These technologies enhance the site's predictive accuracy and user experience, allowing weather.com to deliver precise and actionable weather insights to millions of users daily.
+
+
+
+## Associated IP addresses
+
+- 2a02:26f0:280:29a::2e03
+
+- 2a02:26f0:280:283::2e03
+
+- 2a02:26f0:3500:894::2e03
+
+- 2a02:26f0:3500:891::2e03
+

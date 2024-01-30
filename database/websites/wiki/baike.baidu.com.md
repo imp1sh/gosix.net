@@ -2,7 +2,7 @@
 title: baike.baidu.com
 description: baike.baidu.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:05
+date: 2024-01-30T14:21:02
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Baike Baidu (百度百科) is a Chinese online encyclopedia provided by Baidu, I
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:46:05 |
+| Last Check Timestamp | 2024-01-30 14:21:02 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,10 @@ Baike.baidu.com, powered by Baidu, Inc., is a large-scale Chinese-language colla
 The platform functions through user contributions with an account registration requirement to ensure traceability and accountability of edits. Unlike Wikipedia, Baidu Baike adopts a more controlled approach to content management by having a stricter auditing system to oversee the information being posted or modified. This includes verifying content for accuracy, appropriateness, and compliance with Chinese laws and regulations, which aligns with Baidu's adherence to local internet governance.
 
 The success of Baike.baidu.com can be attributed to its integration with Baidu's search engine, optimizing the visibility of its content in search results. Its user-friendly interface, local language advantage, and copious volume of content tailored to Chinese users have solidified its position as an essential online resource. Nonetheless, Baike's editorial policy receives criticism due to censorship and limited editorial freedoms compared to its Western counterparts. Despite these concerns, it remains a go-to source for millions seeking information in the Chinese language on a multitude of subjects.
+
+
+
+## Associated IP addresses
+
+- 240c:4003:111:adc7:0:ff:b0f2:3dbe
+

@@ -2,7 +2,7 @@
 title: hiq24.de
 description: hiq24.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:37
+date: 2024-01-30T14:20:42
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ HiQ Computer is a local computer store in Alsdorf near Aachen. They also sell on
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:37 |
+| Last Check Timestamp | 2024-01-30 14:20:42 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -34,3 +34,5 @@ To see how this test was performed, please have a look at [our website test crit
 ## What is hiq24.de about?
 HiQ Computer is a traditional company from Alsdorf. In addition to selling computer hardware, they also offer IT services for private and corporate customers.
 HiQ Computer was founded by Thomas Wierskowski in the early 1990s. At times it was so popular that people lined up on the street to buy something.
+
+

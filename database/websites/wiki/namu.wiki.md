@@ -2,7 +2,7 @@
 title: namu.wiki
 description: namu.wiki Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:40
+date: 2024-01-30T14:21:29
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Namuwiki, also known as 나무위키 in Korean, is a popular collaborative web-b
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 12:46:40 |
+| Last Check Timestamp | 2024-01-30 14:21:29 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,12 @@ Namu.wiki is a Korean collaborative online encyclopedia that operates on a wiki 
 Namu.wiki distinguishes itself with a rich repository of cultural and internet meme-related content, reflecting the diverse interests of its Korean user base. It embraces a mix of formal and informal language, allowing for a broader range of topics and a more approachable tone. Articles on the site cover everything from historical events, scientific concepts, and biographies to pop culture, gaming, and internet phenomena.
 
 Unlike some other encyclopedias, namu.wiki is known for its liberal approach to content, sometimes leading to highly detailed pages on niche subjects. This inclusivity has led to a vibrant and active community, with users continually updating and refining the information. However, like any user-curated knowledge base, the reliability of content can vary and is dependent on the contributions and oversight of its user community.
+
+
+
+## Associated IP addresses
+
+- 2606:4700::6810:b52d
+
+- 2606:4700::6810:b42d
+

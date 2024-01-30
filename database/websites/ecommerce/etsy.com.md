@@ -2,7 +2,7 @@
 title: etsy.com
 description: etsy.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:37
+date: 2024-01-30T14:20:59
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Etsy.com is an online marketplace for unique and creative goods, specializing in
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:37 |
+| Last Check Timestamp | 2024-01-30 14:20:59 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Etsy.com is a global marketplace renowned for its vast assortment of unique item
 On Etsy, shoppers can find a multitude of items including custom jewelry, personalized gifts, wedding accessories, home decor, clothing, and art. The site prides itself on the diversity of products available, many of which are customizable, offering a personal connection between the creator and the customer. Etsy's emphasis on human interactions in commerce differentiates it from other online retailers. 
 
 For sellers, Etsy offers an accessible entry point into e-commerce, complete with tools and resources to set up a virtual storefront, manage inventory, and engage with customers. Its dedicated focus on handmade and vintage items cultivates a niche but passionate market segment that appreciates craftsmanship and sustainability. This makes Etsy not just a place to shop but also a community to be part of, championing creativity and individuality in the increasingly digital world of retail.
+
+

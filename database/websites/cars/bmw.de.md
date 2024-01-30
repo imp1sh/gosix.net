@@ -2,7 +2,7 @@
 title: bmw.de
 description: bmw.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:37
+date: 2024-01-30T14:20:42
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ BMW.de is the official website for Bayerische Motoren Werke AG (BMW), a German m
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:37 |
+| Last Check Timestamp | 2024-01-30 14:20:42 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ BMW.de is the official website for BMW AG (Bayerische Motoren Werke Aktiengesell
 The website also provides current offers and deals, services for existing BMW owners, and information about the company's innovations and technological advancements. Users can schedule test drives, request a brochure, or find their nearest BMW dealership. Furthermore, the platform keeps enthusiasts and customers engaged with news about BMW motorsports endeavors, brand events, and the company's future vision for mobility and sustainability.
 
 BMW.de is designed to be user-friendly, reflecting the brand's commitment to modern luxury and performance. As with its vehicles, BMW AG ensures its online presence showcases the same levels of sophistication, user experience, and attention to detail that one would expect from the renowned carmaker.
+
+

@@ -2,7 +2,7 @@
 title: www.inlingua-aachen.de
 description: www.inlingua-aachen.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:31
+date: 2024-01-30T14:20:37
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Inlingua Sprachschule in Aachen, Germany is part of the global inlingua language
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:31 |
+| Last Check Timestamp | 2024-01-30 14:20:37 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -35,3 +35,5 @@ To see how this test was performed, please have a look at [our website test crit
 inlingua International AG is a language school network founded in 1968[1] and based in Bern (Switzerland).[2] It serves as an umbrella organization for the legally independent language centers affiliated with it, which operate under a license agreement. In addition to monitoring its own brand, inlingua International AG also runs its own publishing house for teaching materials. Inlingua Aachen is a branch of the AG in the city of Aachen
 
 As of 2018, around 300 language centers operate under the inlingua brand in 35 countries in Europe, Africa, Asia, North and South America.
+
+

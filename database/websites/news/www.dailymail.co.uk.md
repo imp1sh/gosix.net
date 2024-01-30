@@ -2,7 +2,7 @@
 title: www.dailymail.co.uk
 description: www.dailymail.co.uk Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:32
+date: 2024-01-30T14:20:59
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ The Daily Mail is a British tabloid offering news, comment, and features. Hosted
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:45:32 |
+| Last Check Timestamp | 2024-01-30 14:20:59 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,12 @@ www.dailymail.co.uk is the online platform for the Daily Mail, a British daily m
 The website is a go-to source for a mix of news, including politics, crime, celebrity gossip, and health stories, catering to a wide audience with varying interests. It has gained a reputation for its sensationalist approach to news reporting and is also well-known for its comments section, where readers actively engage with the stories, often creating a lively forum for public discourse.
 
 As an online entity, www.dailymail.co.uk operates with a certain immediacy, delivering up-to-the-minute news and features on a 24/7 basis. It is particularly adept at catering to the visual appetite of its readers, with an abundant use of photographs and videos to complement its articles. While the platform has attracted criticism over the years for the accuracy and tone of some of its reporting, it remains an immensely popular source of news and entertainment for millions of readers worldwide.
+
+
+
+## Associated IP addresses
+
+- 2a02:26f0:3500:2af::16c2
+
+- 2a02:26f0:3500:2bd::16c2
+

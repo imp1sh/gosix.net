@@ -2,7 +2,7 @@
 title: gitlab.com
 description: gitlab.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:16
+date: 2024-01-30T14:20:52
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ GitLab.com is a web-based DevOps lifecycle tool that provides a Git repository m
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 12:46:16 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,10 @@ GitLab Inc. provides a web-based DevOps lifecycle tool known as GitLab, which is
 Designed with collaboration at its core, GitLab enables teams to work together on code, share insights, and efficiently handle code reviews, making it a popular choice among both small teams and large enterprises. GitLab.com serves as a repository hosting service which offers free public and private repositories, with private projects allowing controlled visibility only to team members. The platform scales from an essential free tier to more advanced premium tiers, catering to various needs with additional features, deeper insights, and support options.
 
 As part of GitLab's commitment to an open-core development model, much of its codebase is open source, fostering a community where users can contribute to the product's development. GitLab Inc. continuously updates the platform, integrating the latest tools and best practices in software development, security, and operations.
+
+
+
+## Associated IP addresses
+
+- 2606:4700:90:0:f22e:fbec:5bed:a9b9
+

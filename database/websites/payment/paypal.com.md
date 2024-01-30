@@ -2,7 +2,7 @@
 title: paypal.com
 description: paypal.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:38
+date: 2024-01-30T14:20:51
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ PayPal.com is an online payment platform by PayPal Holdings, Inc. that enables u
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:38 |
+| Last Check Timestamp | 2024-01-30 14:20:51 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ PayPal.com is a highly acclaimed online payment system owned by PayPal Holdings,
 One of the standout features of PayPal is its buyer protection policy, which helps customers in case of fraud or when purchased items are not received, or significantly different from described. This has largely contributed to its widespread acceptance among e-commerce sites and online service providers. For sellers, PayPal offers tools for managing payments and the confidence that comes with advanced security and fraud prevention systems.
 
 PayPal Holdings, Inc. has also focused on innovation, constantly updating their platform to include new features such as contactless payments and integration with smart devices. Furthermore, the company has expanded its service offerings by acquiring payment-related businesses and rolling out products like PayPal Credit and PayPal Working Capital, showcasing its commitment to providing comprehensive financial solutions for its diverse user base.
+
+

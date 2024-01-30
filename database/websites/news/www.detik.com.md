@@ -2,7 +2,7 @@
 title: www.detik.com
 description: www.detik.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:39
+date: 2024-01-30T14:20:52
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Detik.com, owned by Trans Corp, is a leading Indonesian digital media platform, 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:39 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ www.detik.com is one of Indonesia's foremost online news and information portals
 The website is known for its up-to-the-minute coverage of events, covering diverse categories such as politics, economy, technology, sports, entertainment, and lifestyle. With its commitment to journalistic integrity and speedy reporting, detik.com has established itself as a reliable source of information for readers in Indonesia and for those interested in Indonesian affairs. The platform is designed to cater to a modern audience, providing not only news but also engaging multimedia content and a user-friendly experience. 
 
 Detik.com's accessibility through various devices and its strong presence on social media platforms ensures that it remains at the forefront of the digital news industry in Indonesia. By integrating with Trans Corp’s extensive network that includes television and other media outlets, detik.com leverages cross-platform storytelling and a wide-reaching distribution network, thereby maintaining its position as a go-to destination for news and current events.
+
+

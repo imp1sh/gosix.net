@@ -2,7 +2,7 @@
 title: www.m-net.de
 description: www.m-net.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:14
+date: 2024-01-30T14:21:10
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ M-net Telekommunikations GmbH is a German ISP that offers fiber-optic internet, 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:46:14 |
+| Last Check Timestamp | 2024-01-30 14:21:10 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -35,3 +35,10 @@ To see how this test was performed, please have a look at [our website test crit
 M-net Telekommunikations GmbH, commonly referred to as M-net, is a regional telecommunications provider in Germany that primarily serves the states of Bavaria and parts of Hessen. As a subsidiary of Stadtwerke München (SWM), the companies behind M-net have a strong local focus, reflecting their roots in municipal services. M-net's offerings encompass a broad range of services geared towards both private customers and business clients.
 
 At www.m-net.de, customers can discover M-net's portfolio, including high-speed fiber optic internet connections, telephone services, and television packages. The company is known for its significant investment in expanding the fiber optic network throughout its service area, providing customers with fast and reliable internet speeds. M-net's commitment to local customer service and support is a cornerstone of its business ethos, distinguishing it from larger, nationwide providers. With a clear focus on quality and sustainability, M-net aims to deliver advanced telecommunication solutions while contributing to the digital advancement of the regions it serves.
+
+
+
+## Associated IP addresses
+
+- 2001:a60:900e:3a:6d5f:d38:27:6567
+

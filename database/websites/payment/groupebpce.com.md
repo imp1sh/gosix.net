@@ -2,7 +2,7 @@
 title: groupebpce.com
 description: groupebpce.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:55
+date: 2024-01-30T14:21:22
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Groupe BPCE is a leading French banking group providing a wide range of financia
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:55 |
+| Last Check Timestamp | 2024-01-30 14:21:22 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -35,3 +35,5 @@ To see how this test was performed, please have a look at [our website test crit
 Groupe BPCE operates as a large French banking group that has firmly established itself as a significant player in the banking and insurance sectors, with a strong presence in the Eurozone. As one of France's leading banking institutions, Groupe BPCE encompasses a wide network of retail banks, including two major networks: Banque Populaire and Caisse d'Epargne, among other specialized financial services. By providing a comprehensive suite of services ranging from retail and commercial banking to investment solutions and insurance, they cater to a diverse clientele including individuals, professionals, businesses, local authorities and other customers.
 
 The group prides itself on a cooperative banking model, which is fundamentally different from shareholder-based firms, placing an emphasis on customer-centric values and local development. With a focus on innovation, digital transformation, and corporate social responsibility, Groupe BPCE is committed to developing sustainable finance solutions that meet the evolving needs of their clients. They strive to ensure financial inclusivity while contributing positively to the economies they operate in. Groupe BPCE's vision is to be a trusted partner for their clients, providing solid support and expert guidance in all financial matters.
+
+

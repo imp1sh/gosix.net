@@ -2,7 +2,7 @@
 title: www.creditmutuel.fr
 description: www.creditmutuel.fr Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:37
+date: 2024-01-30T14:20:59
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Crédit Mutuel's official website, www.creditmutuel.fr, offers banking services,
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:37 |
+| Last Check Timestamp | 2024-01-30 14:20:59 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Crédit Mutuel is a major French bank, renowned for its cooperative and mutualis
 The bank's offerings include everyday banking accounts, savings and investment products, loans, mortgages, insurance, and asset management. Innovation is at the forefront of Crédit Mutuel's operations, with the website providing digital banking solutions like mobile apps, online payment systems, and cybersecurity services. The platform integrates modern banking conveniences while ensuring security and privacy for its users.
 
 As a cooperative bank, www.creditmutuel.fr reflects Crédit Mutuel's commitment to its members and the community. Profits are often reinvested into regional development projects or returned to members as dividends, cementing a relationship based on trust and shared benefits. This community-oriented approach distinguishes Crédit Mutuel in the competitive landscape of French banking.
+
+

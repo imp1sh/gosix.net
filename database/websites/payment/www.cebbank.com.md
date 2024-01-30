@@ -2,7 +2,7 @@
 title: www.cebbank.com
 description: www.cebbank.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:33
+date: 2024-01-30T14:20:37
 tags: website, rank2
 editor: markdown
 ---
@@ -26,7 +26,7 @@ China Everbright Bank (CEB) is a full-service Chinese banking corporation. Its w
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 12:46:33 |
+| Last Check Timestamp | 2024-01-30 14:20:37 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,20 @@ China Everbright Bank (CEB), whose online services are accessed through www.cebb
 The bank's website, www.cebbank.com, serves as a digital portal for customers, offering access to personal and corporate banking services. This includes account management, money transfer facilities, loan applications, investment product offerings, and wealth management. Designed to cater to the evolving digital-first customer base, the website provides a secure and convenient way for users to conduct their financial transactions and stay abreast of the bank’s latest offerings.
 
 CEB's commitment to incorporating technological innovations into its service delivery model is evident in the functionality of its website and the integration of internet banking into everyday finance. By fostering a user-friendly and efficient online environment, China Everbright Bank aims to enhance customer satisfaction and maintain its competitive edge in the rapidly changing financial landscape of China.
+
+
+
+## Associated IP addresses
+
+- 2408:8607:2500:0:2210::103
+
+- 2409:8700:1:d0:2310::103
+
+- 2408:8607:1d00:0:1210::103
+
+- 240e:604:204:800:1110::103
+
+- 240e:604:207:700:2110::103
+
+- 2409:8700:1801:110:1310::103
+

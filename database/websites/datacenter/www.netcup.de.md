@@ -2,7 +2,7 @@
 title: www.netcup.de
 description: www.netcup.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:39
+date: 2024-01-30T14:20:52
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Netcup is a German IT company based in Nürnberg, specializing in web hosting an
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:45:39 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,10 @@ Netcup GmbH is a German hosting company known for offering a wide array of web s
 What sets netcup GmbH apart is its focus on providing high-quality services at competitive prices. Their offerings are backed by robust and state-of-the-art data center infrastructure located in Germany, ensuring optimal performance, security, and data protection in accordance with stringent German data privacy laws. The company emphasizes customer satisfaction, with an accessible support team and user-friendly management interfaces.
 
 Netcup's web presence at www.netcup.de showcases their product portfolio with clear pricing and detailed service specifications. The website is designed to help customers easily navigate through different hosting plans and additional services, allowing for straightforward purchasing and management of their web properties. With ongoing promotional offers and a customer reward program, netcup GmbH proves to be an attractive option for those seeking comprehensive web services from a dependable provider.
+
+
+
+## Associated IP addresses
+
+- 2a03:4000::e01e
+

@@ -2,7 +2,7 @@
 title: www.adobe.com
 description: www.adobe.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:31
+date: 2024-01-30T14:20:27
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Adobe is a renowned software company, offering a diverse suite of creative tools
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:45:31 |
+| Last Check Timestamp | 2024-01-30 14:20:27 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -45,3 +45,24 @@ Adobe's commitment to accessibility is evident in Adobe Spark, a user-friendly t
 Adobe's subscription-based Creative Cloud model ensures users have access to the latest features and updates, fostering a dynamic and evolving ecosystem. The company's emphasis on collaboration, coupled with seamless integration between its applications, empowers individuals and teams to bring their creative visions to life.
 
 In essence, Adobe's software suite transcends mere tools; it is a catalyst for creative expression, enabling professionals and enthusiasts alike to push the boundaries of digital innovation. As a trailblazer in the creative software landscape, Adobe continues to shape the way we conceptualize, design, and communicate in the digital realm.
+
+
+
+## Associated IP addresses
+
+- 2a02:26f0:e300::5f64:923b
+
+- 2a02:26f0:e300::5f64:9239
+
+- 2a02:26f0:3500:12::1730:179d
+
+- 2a02:26f0:3500:12::1730:1797
+
+- 2a02:26f0:1700:16::b856:fbd8
+
+- 2a02:26f0:1700:16::b856:fbdd
+
+- 2001:4dd0:200:11a::51ad:c75a
+
+- 2001:4dd0:200:11a::51ad:c763
+

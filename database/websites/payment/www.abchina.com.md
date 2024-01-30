@@ -2,7 +2,7 @@
 title: www.abchina.com
 description: www.abchina.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:39
+date: 2024-01-30T14:21:42
 tags: website, rank5
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Agricultural Bank of China's website (www.abchina.com) serves as a digital gatew
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 0.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:46:39 |
+| Last Check Timestamp | 2024-01-30 14:21:42 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,16 @@ The Agricultural Bank of China (ABC), dominating www.abchina.com, is one of the 
 Upon visiting www.abchina.com, customers and visitors can access a wide array of services such as personal banking, corporate banking, e-banking, and investment banking. The site is equipped with tools and information on banking services including savings accounts, loans, credit cards, foreign exchange, wealth management, and much more. For businesses, ABC provides services such as trade financing, business loans, and treasury operations.
 
 The website is designed to be user-friendly, with a clear layout for users to easily navigate through the different banking and financial information. It caters to the needs of both domestic and international clients, illustrating ABC's global reach and commitment to providing secure, convenient, and comprehensive financial services to its customers around the world. However, for the latest and most detailed information, it is advisable to visit www.abchina.com directly as the website and its services are subject to change over time.
+
+
+
+## Associated IP addresses
+
+- 2408:8026:400:e::7001:1
+
+- 2408:860c:0:3b::7001:1
+
+- 2409:871e:8f01:2041::7001:1
+
+- 240e:688:400:3bb::7001:1
+

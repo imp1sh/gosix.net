@@ -2,7 +2,7 @@
 title: imgur.com
 description: imgur.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:15
+date: 2024-01-30T14:20:52
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Imgur.com, by Imgur, LLC, is an online platform where users can share and enjoy 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:15 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -35,3 +35,5 @@ To see how this test was performed, please have a look at [our website test crit
 Imgur.com, operated by Imgur, LLC, is a widely recognized online image sharing and image hosting service that has carved out a significant niche for itself on the internet. Founded by Alan Schaaf in 2009 while he was an undergraduate student at Ohio University, Imgur was created as a simple, user-friendly platform where individuals could upload and share images quickly without the need for a registration process. The platform has since evolved into a vibrant community where millions of users congregate to discover, share, and discuss viral images, memes, GIFs, and funny pictures.
 
 The site's straightforward design centers around its gallery, which is updated daily with new content submitted by users. This content is often categorized into various sections, such as "Most Viral" or sub-galleries themed around specific topics or events, making it easy for users to find and engage with content that interests them. Imgur stands out for its upvote and downvote system, which ensures that the most popular content surfaces to the top. This democratic approach to content curation has helped to cultivate an active community where humor and creativity thrive. Additionally, Imgur offers a suite of tools for image editing and sharing, making it a go-to resource for more than just entertainment – it's also used for hosting images embedded in forums, blogs, and social media.
+
+

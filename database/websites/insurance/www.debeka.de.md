@@ -2,7 +2,7 @@
 title: www.debeka.de
 description: www.debeka.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:40
+date: 2024-01-30T14:21:42
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Debeka (www.debeka.de) is a German financial services company, offering insuranc
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:40 |
+| Last Check Timestamp | 2024-01-30 14:21:42 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Debeka is one of the largest insurance and financial services providers in Germa
 Their website reiterates Debeka's commitment to customer service and personalized consultation, reflecting their cooperative ethos. Visitors to the site can expect to find detailed information on insurance plans, financial services, and pension products, alongside practical tools for quotes and policy management. In keeping with technological advancements, www.debeka.de offers user-friendly navigation, making it easier for customers to obtain information, update their policies, and make informed decisions about their financial security.
 
 Moreover, Debeka emphasizes its focus on providing value and security to its members. The organization maintains a robust presence in Germany, with numerous local offices ensuring accessibility and personalized service. The website www.debeka.de mirrors this approach by offering clear, transparent information and support options – a virtual extension of their commitment to being close to the customer.
+
+

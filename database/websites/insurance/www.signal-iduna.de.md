@@ -2,7 +2,7 @@
 title: www.signal-iduna.de
 description: www.signal-iduna.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:33
+date: 2024-01-30T14:21:28
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Signal Iduna Gruppe's website www.signal-iduna.de offers insurance and financial
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:33 |
+| Last Check Timestamp | 2024-01-30 14:21:28 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Signal Iduna Gruppe is a well-established insurance company in Germany, known fo
 On www.signal-iduna.de, visitors can access resources for understanding and choosing the right insurance coverage for their needs. The website is designed to be user-friendly, and it includes tools such as insurance calculators, informational brochures, and the option to directly contact consultants for personal advice. Additionally, the website provides an insight into the company's values and commitment to sustainability, reflecting its ethos of being a responsible and customer-centric insurer.
 
 Signal Iduna ensures that its online presence is not merely informational but also functional. The digital infrastructure supports customers with online claim filing, contract management, and access to personalized accounts where they can manage their policies and view their insurance details. This convenience, paired with their established reputation in the German insurance market, positions www.signal-iduna.de as an essential touchpoint for both existing and potential clients looking for reliable insurance solutions.
+
+

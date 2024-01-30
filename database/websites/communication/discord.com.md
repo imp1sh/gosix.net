@@ -2,7 +2,7 @@
 title: discord.com
 description: discord.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:46
+date: 2024-01-30T14:20:52
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Discord.com by Discord Inc. is a communication platform popular for its text, vo
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:46 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Discord Inc.'s discord.com is a modern instant messaging platform designed to cr
 Discord's strength lies in its versatility and its appeal to a broad audience. The platform supports text, image, video, and audio communication, catering to a multitude of user preferences. It enables server administrators to configure a wide array of permissions, roles, and customizations to maintain order and enhance the community experience. For gamers, Discord provides seamless integration with games and streaming services, which has helped it cement a dominant position in the gaming sphere.
 
 Another aspect that sets Discord apart is its emphasis on user privacy and security, including end-to-end encryption for voice calls and the ability to create private, invite-only servers. Moreover, the platform is accessible via web browsers, desktop applications, and mobile apps, ensuring constant connectivity for its users. As a Silicon Valley success story, Discord continues to grow and evolve, supporting millions of communities worldwide with a continued focus on user-centric design and functionality.
+
+

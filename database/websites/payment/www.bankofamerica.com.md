@@ -2,7 +2,7 @@
 title: www.bankofamerica.com
 description: www.bankofamerica.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:37
+date: 2024-01-30T14:20:51
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ www.bankofamerica.com is the official website of Bank of America, offering onlin
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:37 |
+| Last Check Timestamp | 2024-01-30 14:20:51 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ The website www.bankofamerica.com is the official online platform for the Bank o
 Serving individual consumers, small and middle-market businesses, as well as large corporations, the Bank of America website offers users access to services such as online banking, loan applications, credit card management, and financial education resources. Customers can easily review their accounts, transfer funds, pay bills, and apply for loans, all through secure online access. With cutting-edge technology and cybersecurity measures, the site ensures user data is protected with the utmost priority.
 
 Bank of America remains committed to fostering economic growth and sustainability, driving innovation, and facilitating the financial aspirations of millions. Through www.bankofamerica.com, the bank extends its presence and services globally, providing round-the-clock access to its financial products and personalized customer service, demonstrating its dedication to accommodating the evolving needs of its clients in an increasingly digital world.
+
+

@@ -2,7 +2,7 @@
 title: www.axa.de
 description: www.axa.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:31
+date: 2024-01-30T14:20:59
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ AXA Deutschland is a branch of AXA Group, a global insurance and asset managemen
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:31 |
+| Last Check Timestamp | 2024-01-30 14:20:59 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ AXA Deutschland is part of the AXA Group, one of the world’s largest insurance
 On the AXA Deutschland website, visitors can explore a wide range of insurance options such as health, life, auto, liability, property, and legal protection insurance. The site is designed to be user-friendly, allowing individuals to easily access information about the different products, get quotes, manage their accounts, or contact customer service for personalized support.
 
 In addition to insurance products, AXA Deutschland may also offer investment and retirement planning solutions, as well as services catered to corporate clients. The website typically features tools like calculators and mobile apps designed to enhance user experience, as well as valuable resources like articles and advice on various insurance and financial topics. All of these resources are aimed at helping customers make informed decisions and provide them with the protection and financial security they need.
+
+

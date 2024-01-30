@@ -2,7 +2,7 @@
 title: www.bmo.com
 description: www.bmo.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:39
+date: 2024-01-30T14:20:52
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ www.bmo.com is the official website of the Bank of Montreal (BMO), offering onli
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:39 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ www.bmo.com is the official website of the Bank of Montreal, commonly known as B
 On the website, customers can access a wide array of financial services, including checking and savings accounts, credit cards, mortgages, loans, and investment opportunities. The platform is designed with user experience in mind, featuring intuitive navigation and tools to help customers make informed financial decisions. BMO emphasizes digital innovation, providing services like online banking, mobile apps, and financial planning tools, which reflect their commitment to integrating technology with banking convenience.
 
 For business clients, www.bmo.com provides specialized services tailored to their unique needs, such as commercial lending, treasury and payment solutions, and industry-specific advice. BMO's online resources also offer insightful guidance on various financial topics and market trends, demonstrating their dedication to empowering clients with knowledge. The website stands testament to BMO's longstanding legacy of reliability, trust, and forward-thinking in the financial sector.
+
+

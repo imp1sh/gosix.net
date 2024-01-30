@@ -2,7 +2,7 @@
 title: www.salesforce.com
 description: www.salesforce.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:16
+date: 2024-01-30T14:21:29
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Salesforce.com, Inc. offers a customer relationship management (CRM) service tha
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:46:16 |
+| Last Check Timestamp | 2024-01-30 14:21:29 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,18 @@ Salesforce.com by Salesforce.com, Inc. is an industry-leading customer relations
 The platform is known for its flexibility and scalability, which caters to various business sizes and types, ranging from small startups to global enterprises. Salesforce.com offers a wide array of out-of-the-box solutions and the ability to customize the platform extensively to fit specific business needs, which makes it a powerful tool for businesses looking to streamline their operations, increase efficiency, and improve customer engagement and retention.
 
 Salesforce.com also emphasizes innovation with continuous updates and a robust ecosystem of applications through its AppExchange. This aligns with an array of industries and extends the platform's capabilities. The company's commitment to social responsibility and building a sustainable future is another cornerstone of its ethos, reflecting in its business model and community engagement initiatives. Salesforce.com, as a whole, represents not just a software solution but a comprehensive approach to modernize the way businesses interact with their customers in the digital age.
+
+
+
+## Associated IP addresses
+
+- 2a02:26f0:e300::211:93aa
+
+- 2a02:26f0:e300::211:93c3
+
+- 2a02:26f0:3500:18::1724:a296
+
+- 2a02:26f0:280:5::213:7823
+
+- 2a02:26f0:280:5::213:781e
+

@@ -2,7 +2,7 @@
 title: www.msn.com
 description: www.msn.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:31
+date: 2024-01-30T14:20:27
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ MSN.com is a web portal and online service offering news, entertainment, sports,
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:31 |
+| Last Check Timestamp | 2024-01-30 14:20:27 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ MSN.com, created and owned by Microsoft Corporation, is a web portal and related
 The homepage of MSN.com typically features a compilation of up-to-the-minute news stories, curated from various reputable sources, offering a broad look at world events, local news, and popular culture. Weather forecasts, stock market updates, and a search bar powered by Microsoft's Bing search engine are regular fixtures on the site as well. MSN also integrates with some of Microsoft's other services such as Outlook.com for email and Office Online for productivity tools, providing a seamless user experience across Microsoft's ecosystem.
 
 Microsoft has consistently updated MSN.com to stay competitive in today's dynamic digital landscape, where personalized content and ease of access across devices are key. The site's adaptability and integration with Microsoft's wide array of services make it a staple homepage for many users on the Internet, signifying its enduring relevance in the digital age.
+
+

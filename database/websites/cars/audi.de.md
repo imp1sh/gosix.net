@@ -2,7 +2,7 @@
 title: audi.de
 description: audi.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:46
+date: 2024-01-30T14:21:22
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Audi, a German luxury car manufacturer, renowned for innovative design and cutti
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:46 |
+| Last Check Timestamp | 2024-01-30 14:21:22 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -39,3 +39,5 @@ The brand's quattro all-wheel-drive system has become synonymous with superior t
 Audi's interiors showcase meticulous attention to detail, featuring advanced infotainment systems and luxurious materials. The brand's dedication to safety is reflected in its state-of-the-art driver assistance technologies. Audi's legacy extends beyond individual vehicles, encompassing a rich motorsports history that includes numerous victories in endurance racing.
 
 As a trailblazer in automotive technology, Audi embraces the era of connectivity and autonomy, striving to redefine the driving experience. Through continuous innovation and a dedication to progressive design, Audi maintains its status as a symbol of sophistication, setting new benchmarks in the ever-evolving automotive landscape.
+
+

@@ -2,7 +2,7 @@
 title: www.ign.com
 description: www.ign.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:46
+date: 2024-01-30T14:20:52
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ IGN is a leading online media platform owned by Ziff Davis, offering news, revie
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:46 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ IGN (Imagine Games Network) is an American video game and entertainment media we
 IGN’s content richness and diversity is one of its standout features. The website comprises several distinct sections, each catering to different aspects of the gaming and entertainment industry. The platform is an important resource for gamers seeking in-depth analysis, walkthroughs, and tips for the latest video game releases. It also features a bustling community of users who engage in forums and comment sections, fostering a vibrant social space for pop culture discussions.
 
 The IGN brand has expanded beyond its website to include mobile apps, a YouTube channel, and presence on social media platforms. This multi-channel approach enables IGN to reach audiences where they are, delivering multimedia content, including live streams, reviews, interviews, and roundtable discussions. Under Ziff Davis, IGN maintains its commitment to delivering engaging and informative content, solidifying its place as a go-to source for gaming and entertainment culture.
+
+

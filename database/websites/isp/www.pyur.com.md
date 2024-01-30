@@ -2,7 +2,7 @@
 title: www.pyur.com
 description: www.pyur.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:16
+date: 2024-01-30T14:21:22
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ PYUR (PŸUR) is a German telecommunication company offering internet, landline, 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:16 |
+| Last Check Timestamp | 2024-01-30 14:21:22 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Pyur (pronounced like 'pure') is the brand name used by Tele Columbus AG for the
 Pyur offers a range of telecommunications services for modern connectivity. In internet services, they provide high-speed broadband connections with various tiered packages to suit different customer needs and budgets. Additionally, Pyur offers digital TV services with a wide range of channels, including HD content, and convenient features like live pause and recording. Their telephony service typically includes flat-rate calls to German landlines, with the option for international packages.
 
 With a commitment to extending and enhancing their network, Pyur aims to provide customers with reliable and high-quality service. The company focuses not only on urban areas but also on expanding its services in rural regions, helping to bridge the digital divide. Pyur's mission is to deliver a seamless digital experience that caters to the evolving demands of modern households and individuals in Germany.
+
+

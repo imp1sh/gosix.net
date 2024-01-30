@@ -2,7 +2,7 @@
 title: www.smfg.co.jp
 description: www.smfg.co.jp Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:15
+date: 2024-01-30T14:20:52
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ The Sumitomo Mitsui Financial Group (SMFG) is a Japanese bank holding company of
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:46:15 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,20 @@ Sumitomo Mitsui Financial Group (SMFG) is one of Japan's largest financial insti
 The website www.smfg.co.jp showcases the group's financial performance, corporate news, and investor relations material, aiming to provide transparency to shareholders and potential investors. It also offers an overview of the group's global network, underscoring its international presence and collaboration with global partners. Furthermore, the website emphasizes SMFG's dedication to sustainability and corporate social responsibility, highlighting initiatives that contribute to society and the environment.
 
 With comprehensive insights into SMFG's business model, the website delineates the group's strategy to navigate the complex financial world, leveraging its rich heritage to adapt to the evolving market demands. The digital platform is a testament to SMFG's pursuit of excellence and customer-centric approach, providing a gateway to the myriad of services and opportunities the group offers to its clientele worldwide.
+
+
+
+## Associated IP addresses
+
+- 2a02:26f0:280:18b::111e
+
+- 2a02:26f0:280:192::111e
+
+- 2a02:26f0:3500:88b::111e
+
+- 2a02:26f0:3500:88e::111e
+
+- 2a02:26f0:7100:898::111e
+
+- 2a02:26f0:7100:89c::111e
+

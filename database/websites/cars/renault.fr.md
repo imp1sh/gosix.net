@@ -2,7 +2,7 @@
 title: renault.fr
 description: renault.fr Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:46
+date: 2024-01-30T14:21:22
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Renault is a French multinational automobile manufacturer that produces a range 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:46 |
+| Last Check Timestamp | 2024-01-30 14:21:22 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Renault.fr is the official website of the Renault Group, which is a renowned Fre
 Apart from showcasing their vehicles, renault.fr also provides comprehensive after-sales support, enabling owners to schedule maintenance, access service plans, and purchase genuine Renault parts and accessories. The portal is designed to offer an intuitive user experience, with tools for booking test drives, locating nearby dealerships, and accessing customer service. Moreover, it keeps visitors informed with the latest news from Renault Group, including technological advancements, partnerships, and involvement in motorsport, reflecting the brand's commitment to innovation and performance.
 
 By integrating modern digital tools, renault.fr bridges the gap between online research and offline purchasing, embracing the digital transformation within the automotive industry, and offering a seamless journey from the first click to driving a Renault vehicle off the dealership lot.
+
+

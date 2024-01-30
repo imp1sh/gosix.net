@@ -2,7 +2,7 @@
 title: deezer.com
 description: deezer.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:31
+date: 2024-01-30T14:20:59
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Deezer is a popular music streaming service, offering a vast catalog of songs, p
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:31 |
+| Last Check Timestamp | 2024-01-30 14:20:59 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -35,3 +35,5 @@ To see how this test was performed, please have a look at [our website test crit
 Deezer.com, developed by the French company Deezer S.A., is a music streaming service that offers users the ability to listen to music content from record labels including Sony, Universal Music Group, and Warner Music Group (among others) on various devices online or offline. Founded in 2007 by Daniel Marhely and Jonathan Benassaya, Deezer boasts a vast catalog of more than 73 million songs, which users can discover through its user-friendly interface. It operates on a freemium model, meaning that it provides a basic, ad-supported service for free, while premium features such as higher quality audio, no ads, and offline listening are offered via paid subscriptions.
 
 The platform distinguishes itself with its smart algorithm which suggests music to users based on their listening habits, ensuring a personalized experience. Deezer's "Flow" feature is particularly notable, using an intuitive blend of user preferences and the smart algorithm to play an endless stream of music tailored to one's taste. Furthermore, Deezer harnesses the collaboration of human editors and technology to curate and create playlists that can match moods, activities, or specific musical genres. Applicable across various devices, including smartphones, tablets, PCs, smart TVs, and even in cars, Deezer provides a seamless and connected music experience to users worldwide.
+
+

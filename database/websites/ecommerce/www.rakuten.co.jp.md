@@ -2,7 +2,7 @@
 title: www.rakuten.co.jp
 description: www.rakuten.co.jp Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:46
+date: 2024-01-30T14:20:52
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Rakuten.co.jp is an expansive Japanese e-commerce platform owned by Rakuten, Inc
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:46 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Rakuten, Inc. operates one of Japan's largest e-commerce platforms, www.rakuten.
 With its unique ecosystem, Rakuten integrates various services to enhance the customer journey. Its loyalty program, Rakuten Points, incentivizes shoppers by rewarding purchases with points that can be redeemed within the Rakuten network, including on travel bookings, credit card usage, and digital content consumption through their platforms like Rakuten TV or eBooks. Additionally, merchants benefit from Rakuten's business suite, which includes advertising, marketing support, and data analytics tools to optimize sales and customer engagement.
 
 Rakuten's success stems from its commitment to innovation and customer service. It has established itself not just as an e-commerce leader in Japan but also as a global contender with a presence in multiple countries. The marketplace's emphasis on diversity, convenience, and a customer-focused approach has garnered a loyal customer base and continues to drive the platform's expansion in the digital commerce arena.
+
+

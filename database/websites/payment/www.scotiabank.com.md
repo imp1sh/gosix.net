@@ -2,7 +2,7 @@
 title: www.scotiabank.com
 description: www.scotiabank.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:45
+date: 2024-01-30T14:20:52
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Scotiabank, officially known as The Bank of Nova Scotia, is a leading Canadian m
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:45 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Scotiabank, officially known as The Bank of Nova Scotia, operates the website ww
 The website serves as a digital hub for both personal and business banking customers, providing a secure platform for online banking, investment management, loan applications, and financial planning. Users can access their accounts, transfer funds, pay bills, and apply for credit products with ease. Strategic financial resources, expert insights, and global research are also available to support informed decision-making for investors and business clients.
 
 Scotiabank places a strong emphasis on innovation and customer service. The website reflects this with its user-friendly interface and accessibility features, ensuring customers can manage their financial needs conveniently and securely. Additionally, www.scotiabank.com highlights the bank's commitment to community involvement and sustainability, emphasizing its role as a socially responsible corporation with initiatives that positively impact society and the environment.
+
+

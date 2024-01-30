@@ -2,7 +2,7 @@
 title: www.wikimedia.org
 description: www.wikimedia.org Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:46
+date: 2024-01-30T14:21:22
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Wikimedia.org is the central domain for the Wikimedia Foundation, hosting the di
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:45:46 |
+| Last Check Timestamp | 2024-01-30 14:21:22 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ www.wikimedia.org is the central web portal for the Wikimedia Foundation's galax
 The Wikimedia Foundation's projects extend beyond Wikipedia, encompassing a variety of other initiatives designed to disseminate knowledge in multiple languages and formats. These include Wikimedia Commons, a repository of free-use images and media; Wiktionary, a multilingual dictionary and thesaurus; Wikiquote, a collection of quotations; and Wikibooks, which offers a range of textbooks and manuals. Other projects like Wikispecies, Wikinews, and Wikiversity cater to specific content niches such as taxonomy, news, and educational resources respectively. 
 
 At www.wikimedia.org, visitors can access these diverse resources or contribute to their development. The platform operates on principles of open source and transparency, relying on public contributions and volunteer stewardship. The Wikimedia projects' ethos of open content ensures that knowledge is not only accessible but can also be freely shared, edited, and expanded, reflecting the Wikimedia Foundation's commitment to the democratization of knowledge.
+
+

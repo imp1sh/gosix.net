@@ -2,7 +2,7 @@
 title: home.barclays
 description: home.barclays Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:39
+date: 2024-01-30T14:21:28
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Home.barclays is the official website of Barclays, a multinational banking and f
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:39 |
+| Last Check Timestamp | 2024-01-30 14:21:28 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Home.barclays is the official corporate website for Barclays, a British multinat
 On their website, customers and stakeholders can find a wealth of information about Barclays' operations, including insights into their strategy, governance, and performance. It serves as a portal for their latest news, investor relations, sustainability initiatives, and detailed reports on their economic impact around the world. The platform is designed to reflect Barclays' commitment to transparency and customer service, showcasing their efforts towards innovation and adaptation in the rapidly evolving financial landscape.
 
 The site also provides resources for clients to access their accounts, tools for financial management, and support. It acts as a bridge between the bank and its global community, reinforcing the company's brand identity and values, and emphasizing its dedication to carving a responsible path to growth. Whether for consumers looking for banking options or investors keeping an eye on the bank's fiscal health, home.barclays is the centralized hub for all things related to Barclays.
+
+

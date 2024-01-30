@@ -2,7 +2,7 @@
 title: www.bol.de
 description: www.bol.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:46
+date: 2024-01-30T14:20:53
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ editor: markdown
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:46 |
+| Last Check Timestamp | 2024-01-30 14:20:53 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ www.bol.de is an online bookstore operated by Thalia Bücher GmbH, one of the la
 With user-friendly design and navigational simplicity, bol.de provides an effortless browsing and purchasing process. The platform is known for its rich selection that encompasses not only popular fiction and nonfiction but also includes specialized genres such as textbooks, scientific literature, and hobby-specific materials. Bol.de supports local authors and the promotion of cultural literacy in addition to international titles, making it a significant player in the German book market.
 
 Thalia Bücher GmbH has integrated customer-focused features into bol.de, such as personalized recommendations, reviews, and author interviews, enhancing the shopping experience. The site also frequently offers deals and discounts, encouraging customer loyalty and book discovery. As reading habits evolve, bol.de by Thalia Bücher GmbH continues to adapt and expand its services to meet the demands of the modern reader.
+
+

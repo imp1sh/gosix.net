@@ -2,7 +2,7 @@
 title: www.asml.com
 description: www.asml.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:45
+date: 2024-01-30T14:20:52
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ ASML is a Dutch company and one of the world's leading manufacturers of chip-mak
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 12:45:45 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ ASML Holding N.V., headquartered in Veldhoven, the Netherlands, is a leading com
 ASML's photolithography machines, particularly their cutting-edge extreme ultraviolet (EUV) lithography systems, are essential for creating the next generation of semiconductors that are smaller, faster, and more energy-efficient. The company serves a global customer base that includes all of the world’s leading semiconductor manufacturers. ASML's innovations are fundamental to the production of the most advanced microchips found in a wide array of products, from smartphones and laptops to cars and data centers.
 
 With a strong emphasis on research and development, ASML invests heavily in pushing the boundaries of what's possible in chip production. Their collaborative nature involves working closely with customers and partners within the high-tech ecosystem to address the increasingly complex challenges of semiconductor scaling. ASML's website, www.asml.com, provides insight into their products, technological advancements, and contributions to the electronics industry. It also highlights the company’s commitment to sustainability and its corporate values.
+
+

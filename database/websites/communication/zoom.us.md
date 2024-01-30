@@ -2,7 +2,7 @@
 title: zoom.us
 description: zoom.us Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:14
+date: 2024-01-30T14:21:10
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Zoom.us is a web-based video conferencing service by Zoom Video Communications, 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 12:46:14 |
+| Last Check Timestamp | 2024-01-30 14:21:10 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -35,3 +35,10 @@ To see how this test was performed, please have a look at [our website test crit
 Zoom Video Communications, Inc. offers a remote conferencing service that combines video conferencing, online meetings, chat, and mobile collaboration. Known simply as Zoom, the platform has become synonymous with video calls, especially during the rise of remote work and virtual events caused by the COVID-19 pandemic. The service is recognized for its reliability, ease of use, and high-quality video and audio. Zoom provides a range of features such as screen sharing, virtual backgrounds, breakout rooms, webinar hosting, and end-to-end encryption for secure communication.
 
 Zoom caters to various users, from individuals and small teams to large enterprises. Its application is versatile, facilitating not only business meetings but also online education, telehealth appointments, and social gatherings. The ability to support large numbers of participants simultaneously and provide stable connections even with lower bandwidth has made Zoom a go-to choice for many organizations. Thanks to its user-friendly interface, participants can join meetings with a simple link, making it accessible even to those who are not particularly tech-savvy. Since its inception, Zoom has experienced exponential growth and has become integral to the way people communicate across the globe.
+
+
+
+## Associated IP addresses
+
+- 2407:30c0:182::aa72:3402
+

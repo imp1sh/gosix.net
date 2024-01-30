@@ -2,7 +2,7 @@
 title: www.zurich.de
 description: www.zurich.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:16
+date: 2024-01-30T14:21:29
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Zurich.de is the official website of Zurich Insurance in Germany, offering compr
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:16 |
+| Last Check Timestamp | 2024-01-30 14:21:29 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Zurich Insurance Group, a Swiss insurance company that's been in operation for w
 At www.zurich.de, visitors can find a wealth of information on various insurance offerings, including life, auto, property, and liability insurance, as well as financial products like savings and retirement plans. The site is designed to be user-friendly, providing easy navigation and tools for clients to obtain quotes, make claims, and access customer service. Educational resources and detailed guides help demystify insurance policies, making it easier for prospects and customers to make informed decisions about their coverage.
 
 Zurich's commitment to technology and customer experience is evident on the platform. Clients can manage their accounts online, access digital documents, and even chat with support for immediate assistance. The website emphasizes Zurich's dedication to sustainability and community support, highlighting their corporate responsibility initiatives. Overall, www.zurich.de stands as a testament to Zurich Insurance's longevity and its adaptation to the digital era, offering robust protection backed by convenience and reliability.
+
+

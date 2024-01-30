@@ -2,7 +2,7 @@
 title: proton.me
 description: proton.me Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:16
+date: 2024-01-30T14:20:52
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Proton.me by Proton Technologies AG offers secure online services like Proton Ma
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:16 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Proton.me, created by Proton Technologies AG, represents a suite of internet ser
 Beyond email, Proton.me extends its privacy-centric philosophy to other services such as ProtonVPN, which provides secure and anonymous internet browsing, and ProtonDrive, a file storage solution that offers privacy through end-to-end encryption. The company's mission is grounded in the belief that everyone should have the right to private and secure online communication. This commitment to privacy is underpinned by utilizing Swiss privacy laws, known to be some of the strongest in the world, and developing all services with a strong emphasis on user-friendly encryption technologies. 
 
 Proton Technologies AG continues to expand its product line while maintaining a strong stance on not exploiting user data, contrasting sharply with the practices of some major tech companies. The trust in Proton's products is also bolstered by their transparency and open-source approach, allowing independent security experts to vet and confirm the integrity of their privacy claims.
+
+

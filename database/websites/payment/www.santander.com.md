@@ -2,7 +2,7 @@
 title: www.santander.com
 description: www.santander.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:46
+date: 2024-01-30T14:20:53
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Banco Santander's official website, www.santander.com, offers banking services f
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:46 |
+| Last Check Timestamp | 2024-01-30 14:20:53 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ www.santander.com is the official website of Banco Santander, S.A., a leading mu
 The site is designed with user accessibility in mind, featuring a clean interface that enables easy navigation through its financial service offerings. Customers can log in to manage their accounts, perform transactions, and make use of online banking features that offer convenience and security. The website also provides detailed information on the bank's commitment to sustainability and community support, reflecting its dedication to responsible banking practices and social contribution.
 
 In addition to customer service, www.santander.com keeps investors and media professionals informed with the latest corporate news, financial reports, and investor relations information. This hub embodies the bank's effort to maintain transparency with stakeholders and to stay connected with its diverse clientele across the globe.
+
+

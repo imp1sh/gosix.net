@@ -2,7 +2,7 @@
 title: www.bbc.com
 description: www.bbc.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:32
+date: 2024-01-30T14:20:37
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ BBC.com is the official website of the British Broadcasting Corporation, offerin
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:32 |
+| Last Check Timestamp | 2024-01-30 14:20:37 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ www.bbc.com is the digital face of the British Broadcasting Corporation, one of 
 BBC.com's layout is user-friendly, designed to give visitors quick access to its diverse array of sections, including BBC News which is renowned for its international coverage and impartial reporting. The site also features a variety of blogs, podcasts, and videos that enrich the user experience with multimedia elements. Such content is crafted by a network of correspondents and experts dispersed around the world, ensuring that users get a truly global perspective.
 
 Offering a balanced mix of entertainment and information, www.bbc.com delivers content tailored to an international audience while maintaining the high standards associated with the BBC brand. The website also offers BBC iPlayer (geographically restricted to the UK) which allows users to catch up on their favorite BBC television and radio programs. As a hub of information and entertainment, www.bbc.com stands as a testament to the BBC's commitment to informing, educating, and entertaining audiences in the digital age.
+
+

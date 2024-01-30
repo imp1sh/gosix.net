@@ -2,7 +2,7 @@
 title: www.huk.de
 description: www.huk.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:16
+date: 2024-01-30T14:21:29
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ HUK-COBURG's www.huk.de is a German insurance company website offering car, life
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:16 |
+| Last Check Timestamp | 2024-01-30 14:21:29 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ HUK-COBURG is a German insurance company that specializes in various types of in
 www.huk.de provides an easy-to-navigate interface that allows users to obtain quotes, customize their insurance packages, and manage policies online. The website also provides helpful resources such as tips for filing claims, safety recommendations, and updates on new insurance products or changes in regulations. HUK-COBURG has designed its online presence to be both informative and customer-centric, emphasizing transparency, convenience, and support for their clients.
 
 For those seeking guidance, www.huk.de includes customer service options like direct contact with representatives, as well as a FAQ section that addresses common queries. HUK-COBURG's commitment to delivering value to its customers is apparent through their competitive pricing and customer service initiatives. The website reflects the company's reputation for reliability and trust in the German insurance market.
+
+

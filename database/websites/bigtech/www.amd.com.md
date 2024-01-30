@@ -2,7 +2,7 @@
 title: www.amd.com
 description: www.amd.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:31
+date: 2024-01-30T14:20:27
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Advanced Micro Devices, Inc. (AMD) is a leading semiconductor company that desig
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:31 |
+| Last Check Timestamp | 2024-01-30 14:20:27 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Advanced Micro Devices, Inc. (AMD) is a prominent semiconductor company known fo
 AMD's product lineup caters to a diverse audience, ranging from consumers to enterprises. The Ryzen series of desktop processors has gained significant market share, offering robust performance for gaming, content creation, and general computing tasks. In the GPU segment, the Radeon series competes with other industry giants, providing options for gamers and professionals alike. Additionally, with its EPYC server processors, AMD has strengthened its presence in data centers, cloud computing, and enterprise environments.
 
 The website www.amd.com is not only a platform for exploring and purchasing AMD's hardware solutions but also a resource for drivers, support, and company news. It's designed to assist customers in making informed decisions about their computing needs and to keep enthusiasts updated with the latest technological advancements and releases from AMD.
+
+

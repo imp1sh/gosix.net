@@ -2,7 +2,7 @@
 title: www.ing.com
 description: www.ing.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:01
+date: 2024-01-30T14:20:27
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ ING Group's official website, www.ing.com, offers information on global banking 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:01 |
+| Last Check Timestamp | 2024-01-30 14:20:27 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ ING Group, an international banking institution with Dutch origins, outlines its
 On its website, www.ing.com serves as a comprehensive portal for customers, investors, and job-seekers alike, presenting a breadth of information ranging from personal and business banking solutions to in-depth financial insights. ING addresses both individual and corporate needs, offering a range of services such as savings, mortgages, loans, and payment systems, as well as tailored advisory services for investments and complex financial transactions.
 
 Sustainability is a cornerstone of ING's philosophy, a commitment that is reflected through its financing projects, which heavily promote environmental and social growth. The website often showcases how ING integrates corporate responsibility into its operations, striving to contribute to a healthier society by supporting responsible finance and community initiatives. With transparency, ING.com provides not just a window into its services, but also its strategic direction, financial performance, and corporate values.
+
+

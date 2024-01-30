@@ -2,7 +2,7 @@
 title: www.facebook.com
 description: www.facebook.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:30
+date: 2024-01-30T14:20:52
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Facebook by Meta Platforms is a social networking site that allows users to conn
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:45:30 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,12 @@ Facebook, originally established by Mark Zuckerberg and his college roommates in
 As part of its evolution, Facebook has significantly broadened its ecosystem, integrating messaging services through Messenger, providing live video streaming, and expanding into virtual reality spaces with the development of technologies by Meta. The network also serves as a powerful tool for advertisers and businesses, offering targeted marketing capabilities courtesy of its sophisticated algorithms that curate content feeds and advertisements based on user behavior and preferences.
 
 Meta Platforms, Inc. aims to maintain Facebook’s relevancy in an ever-changing digital landscape by constantly innovating and adapting new features, enhancing user experience, and addressing privacy and security concerns. By doing so, Facebook strives to remain a central hub for personal and professional interaction and a pioneer in the expansion of the digital social experience.
+
+
+
+## Associated IP addresses
+
+- 2a03:2880:f176:84:face:b00c:0:25de
+
+- 2a03:2880:f13f:83:face:b00c:0:25de
+

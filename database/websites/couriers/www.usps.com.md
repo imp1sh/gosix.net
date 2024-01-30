@@ -2,7 +2,7 @@
 title: www.usps.com
 description: www.usps.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:45
+date: 2024-01-30T14:21:21
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ USPS.com is the official website of the United States Postal Service, offering p
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:45:45 |
+| Last Check Timestamp | 2024-01-30 14:21:21 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,10 @@ The United States Postal Service (USPS) operates www.usps.com as its official we
 Through its website, customers can access various tools and resources designed to streamline the mailing process. These include the ability to track packages, schedule pickups, buy postage, print shipping labels, find ZIP codes, and locate nearby post offices. The site also offers a detailed pricing guide for different mail classes and services, ensuring transparency and helping users make informed decisions about their postal needs.
 
 Additionally, www.usps.com serves as a gateway to other USPS initiatives and programs, such as Informed Delivery, which allows recipients to view digital previews of their incoming mail. The website is user-friendly and continuously updated to reflect the latest postal rates, news, and service adjustments. By combining traditional mailing services with the convenience of online access, USPS.com remains a critical tool for individuals and businesses alike in managing their postal requirements.
+
+
+
+## Associated IP addresses
+
+- 2606:2800:233:df95:1212:762c:504b:cf9d
+

@@ -2,7 +2,7 @@
 title: www.noris.de
 description: www.noris.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:46
+date: 2024-01-30T14:21:22
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Noris Network AG operates noris.de, offering IT outsourcing, cloud solutions, an
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:45:46 |
+| Last Check Timestamp | 2024-01-30 14:21:22 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,10 @@ Noris Network AG is a German information technology service provider that specia
 With its headquarters in Nuremberg and multiple data centers throughout Germany, noris network AG offers state-of-the-art infrastructure and IT services that prioritize security, reliability, and performance. At www.noris.de, potential clients can discover a range of services including managed hosting, cloud computing solutions such as Infrastructure as a Service (IaaS) and Platform as a Service (PaaS), network services, and comprehensive security measures that are tailored to the stringent requirements of various industries.
 
 The website outlines noris network AG’s commitment to quality and innovation, showcasing their certifications and adherence to German and European regulatory standards. Customers can delve into case studies, service descriptions, and the company’s approach to sustainability and green IT. Through www.noris.de, noris network AG demonstrates its role as a trusted partner for organizations seeking to leverage technology to gain scalability, agility, and a competitive edge in the fast-paced digital landscape.
+
+
+
+## Associated IP addresses
+
+- 2001:780:6:f101::1
+

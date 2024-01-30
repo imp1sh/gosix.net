@@ -2,7 +2,7 @@
 title: www.canva.com
 description: www.canva.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:31
+date: 2024-01-30T14:20:27
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Canva.com, by Canva Pty Ltd, is a graphic design platform that allows users to e
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 12:45:31 |
+| Last Check Timestamp | 2024-01-30 14:20:27 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -35,3 +35,12 @@ To see how this test was performed, please have a look at [our website test crit
 Canva, created by Canva Pty Ltd, is a user-friendly graphic design tool that offers a web-based platform for creating visual content with ease. Initially launched in 2013, Canva has become incredibly popular among professionals and amateurs alike due to its intuitive interface and a wide range of features. Users can create anything from social media graphics, presentations, posters, to other visual content by utilizing the drag-and-drop editor and vast library of templates, fonts, and images.
 
 The platform caters to both individuals and businesses, providing free and premium subscription models. With a robust set of tools, Canva enables users to collaborate in real time, share designs, and even print professional-quality marketing materials. The convenience of its cloud-based structure allows for access across different devices, making it a versatile choice for design projects on the go. Whether you're looking to create a quick Instagram post or a comprehensive branding package, Canva's all-encompassing suite is designed to help bring your visual ideas to life.
+
+
+
+## Associated IP addresses
+
+- 2606:4700::6810:e095
+
+- 2606:4700::6811:ef9f
+

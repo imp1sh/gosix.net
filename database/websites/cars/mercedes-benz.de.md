@@ -2,7 +2,7 @@
 title: mercedes-benz.de
 description: mercedes-benz.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:15
+date: 2024-01-30T14:20:52
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Mercedes-Benz.de, by Daimler AG, is the official site for Mercedes-Benz in Germa
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:15 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Mercedes-Benz.de is the German localized official website for Mercedes-Benz, a g
 The website provides an intuitive interface where users can explore the full lineup of Mercedes-Benz models, customize vehicles to their liking, schedule test drives, and even explore financing options. High-resolution images, detailed specifications, and immersive virtual tours give a compelling digital experience that mirrors the brand's focus on quality and customer satisfaction. Additionally, Mercedes-Benz.de offers the latest news on innovations, advancements in autonomous driving technology, sustainability efforts, and information on upcoming models.
 
 Daimler AG ensures that Mercedes-Benz.de is not only a platform for potential customers but also a resource for existing Mercedes-Benz owners. The site offers access to after-sales services, spare parts, and customer support, enhancing the overall ownership experience. Mercedes-Benz's commitment to excellence is reflected in every aspect of the website, from design to the wealth of information presented, epitomizing the company’s ethos of "The best or nothing."
+
+

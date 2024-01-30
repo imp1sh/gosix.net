@@ -2,7 +2,7 @@
 title: www.talanx.com
 description: www.talanx.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:45
+date: 2024-01-30T14:21:21
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Talanx AG operates as a multi-brand provider in the insurance and financial serv
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:45 |
+| Last Check Timestamp | 2024-01-30 14:21:21 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Talanx AG is a major European insurance company based in Hanover, Germany, that 
 The company's official website, www.talanx.com, serves as a digital gateway for clients and interested parties to learn about their services, which include life, health, property, casualty, and reinsurance. It reflects Talanx's commitment to delivering comprehensive solutions to its customers, whether they are private individuals, small and medium-sized enterprises, or large industrial companies. The site provides information on the company's history, governance, financial performance, and news. It also features sections on corporate responsibility and career opportunities, underscoring Talanx's role as a responsible employer and its dedication to social and environmental sustainability.
 
 Through www.talanx.com, Talanx AG communicates its vision of being a trusted and innovative insurance provider, highlighting the importance of customer-centric services adapted to the rapidly changing market landscape. Offering a blend of traditional values and modern efficiency, the website is a reflection of the group's dedication to stability, growth, and profitability.
+
+

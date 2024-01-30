@@ -2,7 +2,7 @@
 title: duolingo.com
 description: duolingo.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:16
+date: 2024-01-30T14:21:22
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Duolingo.com is an online platform by Duolingo, Inc. for language learning that 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:46:16 |
+| Last Check Timestamp | 2024-01-30 14:21:22 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Duolingo.com is an innovative and user-friendly language-learning platform creat
 One of Duolingo's core strengths lies in its adaptive learning technology, which tailors lessons according to the user's pace and performance, ensuring a personalized learning experience. The platform leverages streaks, points, and levels to motivate users to consistently engage with their chosen language. Each lesson is bite-sized, making it easy for learners to practice in short bursts throughout the day, ideal for busy individuals or those looking to incorporate a new language into their daily routine.
 
 Duolingo Inc. has continued to expand the platform's features, introducing podcasts, stories, and even virtual one-on-one conversations with AI characters for some of the languages, further enriching the learning experience. This commitment to evolving and enhancing the accessibility of language education has propelled Duolingo to become one of the foremost language learning applications, with a thriving community of millions of users worldwide.
+
+

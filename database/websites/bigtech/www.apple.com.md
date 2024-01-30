@@ -2,7 +2,7 @@
 title: www.apple.com
 description: www.apple.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:45
+date: 2024-01-30T14:20:52
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Apple Inc.'s official website, www.apple.com, showcases its innovative product l
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:45:45 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -35,3 +35,30 @@ To see how this test was performed, please have a look at [our website test crit
 Apple Inc.'s website, www.apple.com, is its official online storefront and information hub showcasing the brand's wide array of innovative products and services. As the digital face of one of the world's most valuable companies, the website maintains a sleek and minimalist design, synonymous with Apple's brand aesthetic. It provides a user-friendly interface where visitors can explore and purchase the latest Apple devices, including iPhones, iPads, MacBooks, and Apple Watches, as well as subscribe to services like Apple Music, Apple TV+, and iCloud.
 
 The website also serves as a comprehensive resource for customers, offering detailed product specifications, support services, and interactive features such as comparison tools to help users choose the right product for their needs. Users can access Apple's extensive knowledge base, schedule appointments at the Genius Bar for personal tech support, and join workshops or educational sessions. Apple.com often highlights the company's core values, emphasizing privacy, environmental responsibility, and accessibility in its technology. Whether launching innovative new products or offering seasonal promotions, www.apple.com remains at the forefront of Apple Inc.'s direct engagement with consumers and enthusiasts around the globe.
+
+
+
+## Associated IP addresses
+
+- 2a02:26f0:e300:184::1aca
+
+- 2a02:26f0:e300:18c::1aca
+
+- 2a02:26f0:c6:39c::1aca
+
+- 2a02:26f0:c6:388::1aca
+
+- 2a02:26f0:c6:38e::1aca
+
+- 2a02:26f0:3500:59b::1aca
+
+- 2a02:26f0:3500:584::1aca
+
+- 2a02:26f0:280:492::1aca
+
+- 2a02:26f0:280:4a3::1aca
+
+- 2a02:26f0:280:4b0::1aca
+
+- 2a02:26f0:280:485::1aca
+

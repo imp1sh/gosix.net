@@ -2,7 +2,7 @@
 title: www.imdb.com
 description: www.imdb.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:31
+date: 2024-01-30T14:20:27
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ IMDb, owned by Amazon, is an online database of information related to films, TV
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:31 |
+| Last Check Timestamp | 2024-01-30 14:20:27 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ IMDb, which stands for Internet Movie Database, is an online database owned by A
 IMDb offers a detailed catalogue featuring cast and crew biographies, production details, and box office data. Users can find virtually any information related to entertainment content such as ratings, reviews, character information, and quotes. It has also grown to include user-generated content like forums, polls, and lists, building a community aspect to the site.
 
 Over the years, IMDb has extended its service with IMDbPro, a subscription-based branch that offers contact information for industry insiders, and Box Office Mojo, a website tracking box office revenue. It also provides a platform for viewing trailers, giving showtimes, and ticket purchasing. Through Amazon's ownership, IMDb has further expanded its features and integrated with Amazon's Prime Video service, allowing Amazon Prime members to access streaming content directly through IMDb's interface.
+
+

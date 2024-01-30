@@ -2,7 +2,7 @@
 title: www.jp-bank.japanpost.jp
 description: www.jp-bank.japanpost.jp Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:39
+date: 2024-01-30T14:21:10
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Japan Post Bank, featured at www.jp-bank.japanpost.jp, offers diverse banking se
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:39 |
+| Last Check Timestamp | 2024-01-30 14:21:10 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ Japan Post Bank Co., Ltd., operating under the brand name "Yu-cho Bank" (ゆう�
 Japan Post Bank offers a wide array of financial services, ranging from savings accounts to insurance products and investment options. It is known for its relatively stable and low-risk savings products, such as the time-honored postal savings system, which is esteemed for its ease of use and reliability. The bank also provides services such as domestic and international remittances, ATM services, and loan products.
 
 Digital and online banking services by Japan Post Bank have been under expansion to cater to the growing needs of customers who prefer online transactions. Despite the rise of online banking, Japan Post Bank maintains its commitment to providing accessible services through physical post office outlets, thus continuing to serve as a vital financial linchpin for communities across Japan.
+
+

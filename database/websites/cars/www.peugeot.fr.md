@@ -2,7 +2,7 @@
 title: www.peugeot.fr
 description: www.peugeot.fr Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:46:16
+date: 2024-01-30T14:21:22
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ As of my last update in April 2023, "www.peugeot.fr" is the official website for
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:46:16 |
+| Last Check Timestamp | 2024-01-30 14:21:22 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -39,3 +39,16 @@ www.peugeot.fr is the official website for Peugeot automobiles in France, which 
 The site also typically features sections for after-sales services, such as maintenance and repair services, parts and accessories, and warranties. Peugeot aims to provide an engaging and user-friendly experience, with multimedia content such as images, videos, and interactive configurators that help visitors visualize their potential new vehicle. The website is also a hub for company news, promotions, and financing options, bridging the gap between the iconic French automaker and its consumer base in France.
 
 Remember, please verify this information by visiting the actual website or obtaining up-to-date data from a trusted source.
+
+
+
+## Associated IP addresses
+
+- 2a02:26f0:3500:18::1724:a29d
+
+- 2a02:26f0:3500:18::1724:a29f
+
+- 2a02:26f0:280:5::213:7804
+
+- 2a02:26f0:280:5::213:781a
+

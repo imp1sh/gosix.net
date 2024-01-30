@@ -2,7 +2,7 @@
 title: www.cib.com.cn
 description: www.cib.com.cn Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:46
+date: 2024-01-30T14:21:21
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ The website www.cib.com.cn is the official online portal for China Industrial Ba
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 0.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 12:45:46 |
+| Last Check Timestamp | 2024-01-30 14:21:21 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -39,3 +39,10 @@ The CIB website serves as a comprehensive resource for clients, providing a plat
 Additionally, the website may offer investor relations information such as annual reports, stock information, and corporate governance details, which are crucial for current and potential investors. With its commitment to sustainability and social responsibility, Industrial Bank has been recognized for integrating green finance principles into its operations, and such initiatives are often highlighted on its platform.
 
 Please note that for real-time details or specific queries about the website's content or the services offered by China Industrial Bank Co., Ltd., it would be necessary to visit www.cib.com.cn directly or contact the bank's customer service.
+
+
+
+## Associated IP addresses
+
+- 2a01:53c0:ff0c::36
+

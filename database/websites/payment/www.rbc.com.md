@@ -2,7 +2,7 @@
 title: www.rbc.com
 description: www.rbc.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:45:45
+date: 2024-01-30T14:20:52
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ www.rbc.com is the official website of the Royal Bank of Canada, offering online
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:45:45 |
+| Last Check Timestamp | 2024-01-30 14:20:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -37,3 +37,5 @@ RBC.com is the official website of the Royal Bank of Canada (RBC), which is one 
 On RBC's website, customers can access a vast range of online banking services, manage their accounts, apply for loans and credit cards, make investments, and arrange for insurance coverage. The platform is designed to be user-friendly, secure, and accessible, catering to both individual and business clients. RBC.com also serves as a portal for financial insights, market analysis, and economic commentary, reflecting the bank's expertise and thought leadership in the financial sector.
 
 Moreover, RBC is committed to community involvement and sustainability. The RBC website details the bank's corporate social responsibility initiatives, including charitable giving, environmental stewardship, and support for arts and culture. Through innovation, customer service, and a dedication to community enrichment, RBC aims to stand out as a leading financial services provider, not only in Canada but across its operational regions.
+
+

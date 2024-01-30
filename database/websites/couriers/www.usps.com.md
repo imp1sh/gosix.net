@@ -2,7 +2,7 @@
 title: www.usps.com
 description: www.usps.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:21:21
+date: 2024-01-30T14:37:36
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ USPS.com is the official website of the United States Postal Service, offering p
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 14:21:21 |
+| Last Check Timestamp | 2024-01-30 14:37:36 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

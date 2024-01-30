@@ -2,7 +2,7 @@
 title: www.intuit.com
 description: www.intuit.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:21:10
+date: 2024-01-30T14:36:33
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Intuit Inc. is a financial software company that offers products like TurboTax, 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 14:21:10 |
+| Last Check Timestamp | 2024-01-30 14:36:33 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

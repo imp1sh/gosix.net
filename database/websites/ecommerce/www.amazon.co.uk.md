@@ -2,7 +2,7 @@
 title: www.amazon.co.uk
 description: www.amazon.co.uk Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:20:42
+date: 2024-01-30T14:36:53
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ www.amazon.co.uk, operated by Amazon.com, Inc., is an expansive online marketpla
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 14:20:42 |
+| Last Check Timestamp | 2024-01-30 14:36:53 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,35 +40,19 @@ Consumers can take advantage of Amazon Prime, a subscription-based service on Am
 
 ## Associated IP addresses
 
-- 2600:9000:224a:2600:15:c9dc:593:6781
-
-- 2600:9000:224a:3400:15:c9dc:593:6781
-
-- 2600:9000:224a:a400:15:c9dc:593:6781
-
-- 2600:9000:224a:8000:15:c9dc:593:6781
-
-- 2600:9000:224a:2200:15:c9dc:593:6781
-
-- 2600:9000:224a:6600:15:c9dc:593:6781
-
-- 2600:9000:224a:fa00:15:c9dc:593:6781
-
-- 2600:9000:224a:f600:15:c9dc:593:6781
-
-- 2600:9000:211e:ac00:15:c9dc:593:6781
-
-- 2600:9000:211e:b200:15:c9dc:593:6781
+- 2600:9000:211e:f400:15:c9dc:593:6781
 
 - 2600:9000:211e:f600:15:c9dc:593:6781
 
-- 2600:9000:211e:3c00:15:c9dc:593:6781
+- 2600:9000:211e:fe00:15:c9dc:593:6781
 
-- 2600:9000:211e:4200:15:c9dc:593:6781
+- 2600:9000:211e:1e00:15:c9dc:593:6781
 
-- 2600:9000:211e:8c00:15:c9dc:593:6781
+- 2600:9000:211e:4400:15:c9dc:593:6781
 
-- 2600:9000:211e:9e00:15:c9dc:593:6781
+- 2600:9000:211e:6a00:15:c9dc:593:6781
 
-- 2600:9000:211e:a200:15:c9dc:593:6781
+- 2600:9000:211e:8400:15:c9dc:593:6781
+
+- 2600:9000:211e:a400:15:c9dc:593:6781
 

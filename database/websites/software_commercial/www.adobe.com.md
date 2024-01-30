@@ -2,7 +2,7 @@
 title: www.adobe.com
 description: www.adobe.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:20:27
+date: 2024-01-30T14:36:34
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Adobe is a renowned software company, offering a diverse suite of creative tools
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 14:20:27 |
+| Last Check Timestamp | 2024-01-30 14:36:34 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -50,19 +50,7 @@ In essence, Adobe's software suite transcends mere tools; it is a catalyst for c
 
 ## Associated IP addresses
 
-- 2a02:26f0:e300::5f64:923b
-
-- 2a02:26f0:e300::5f64:9239
-
-- 2a02:26f0:3500:12::1730:179d
-
-- 2a02:26f0:3500:12::1730:1797
-
-- 2a02:26f0:1700:16::b856:fbd8
-
-- 2a02:26f0:1700:16::b856:fbdd
+- 2001:4dd0:200:11a::51ad:c763
 
 - 2001:4dd0:200:11a::51ad:c75a
-
-- 2001:4dd0:200:11a::51ad:c763
 

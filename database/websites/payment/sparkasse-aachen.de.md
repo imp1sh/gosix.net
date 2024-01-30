@@ -2,7 +2,7 @@
 title: sparkasse-aachen.de
 description: sparkasse-aachen.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:20:52
+date: 2024-01-30T14:37:12
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Sparkasse Aachen is a German savings bank offering comprehensive financial servi
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 14:20:52 |
+| Last Check Timestamp | 2024-01-30 14:37:12 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: www.vodafone.de
 description: www.vodafone.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:21:29
+date: 2024-01-30T14:37:39
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ www.vodafone.de is the official website of Vodafone GmbH, offering information o
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 14:21:29 |
+| Last Check Timestamp | 2024-01-30 14:37:39 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

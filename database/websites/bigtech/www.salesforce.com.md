@@ -2,7 +2,7 @@
 title: www.salesforce.com
 description: www.salesforce.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:21:29
+date: 2024-01-30T14:37:39
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Salesforce.com, Inc. offers a customer relationship management (CRM) service tha
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 14:21:29 |
+| Last Check Timestamp | 2024-01-30 14:37:39 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,13 +42,7 @@ Salesforce.com also emphasizes innovation with continuous updates and a robust e
 
 ## Associated IP addresses
 
-- 2a02:26f0:e300::211:93aa
-
-- 2a02:26f0:e300::211:93c3
-
 - 2a02:26f0:3500:18::1724:a296
 
-- 2a02:26f0:280:5::213:7823
-
-- 2a02:26f0:280:5::213:781e
+- 2a02:26f0:3500:18::1724:a29d
 

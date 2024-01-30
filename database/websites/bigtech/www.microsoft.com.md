@@ -2,7 +2,7 @@
 title: www.microsoft.com
 description: www.microsoft.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:21:22
+date: 2024-01-30T14:36:45
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Microsoft.com is the official website for Microsoft Corporation, providing info 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 14:21:22 |
+| Last Check Timestamp | 2024-01-30 14:36:45 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,43 +42,13 @@ Moreover, Microsoft's online platform extends beyond transactions to encompass e
 
 ## Associated IP addresses
 
-- 2a02:26f0:e300:2a1::356e
+- 2a02:26f0:3500:2ab::356e
 
-- 2a02:26f0:e300:2a2::356e
+- 2a02:26f0:3500:2a9::356e
 
-- 2a02:26f0:e300:29d::356e
+- 2a02:26f0:3500:288::356e
 
-- 2a02:26f0:e300:29f::356e
+- 2a02:26f0:3500:2b7::356e
 
-- 2a02:26f0:e300:2b3::356e
-
-- 2a02:26f0:280:194::356e
-
-- 2a02:26f0:280:183::356e
-
-- 2a02:26f0:280:18d::356e
-
-- 2a02:26f0:280:190::356e
-
-- 2a02:26f0:280:192::356e
-
-- 2a02:26f0:280:193::356e
-
-- 2a02:26f0:280:19b::356e
-
-- 2a02:26f0:3500:289::356e
-
-- 2a02:26f0:3500:292::356e
-
-- 2a02:26f0:3500:295::356e
-
-- 2a02:26f0:3500:2a8::356e
-
-- 2a02:26f0:3500:2ad::356e
-
-- 2a02:26f0:3500:2b8::356e
-
-- 2a02:26f0:3500:2b9::356e
-
-- 2a02:26f0:3500:2b0::356e
+- 2a02:26f0:3500:283::356e
 

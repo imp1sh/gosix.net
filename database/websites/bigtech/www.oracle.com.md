@@ -2,7 +2,7 @@
 title: www.oracle.com
 description: www.oracle.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:21:28
+date: 2024-01-30T14:37:38
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Oracle Corporation's official site, www.oracle.com, provides info on its cloud a
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 14:21:28 |
+| Last Check Timestamp | 2024-01-30 14:37:38 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,8 +43,4 @@ The official website, www.oracle.com, serves as a comprehensive resource for inf
 - 2a02:26f0:280:489::a15
 
 - 2a02:26f0:280:4aa::a15
-
-- 2a02:26f0:c6:386::a15
-
-- 2a02:26f0:c6:381::a15
 

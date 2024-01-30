@@ -2,7 +2,7 @@
 title: www.globo.com
 description: www.globo.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:21:10
+date: 2024-01-30T14:37:25
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Globo.com is the internet arm of Grupo Globo, the largest media group in Brazil.
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 14:21:10 |
+| Last Check Timestamp | 2024-01-30 14:37:25 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

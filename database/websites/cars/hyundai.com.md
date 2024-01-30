@@ -2,7 +2,7 @@
 title: hyundai.com
 description: hyundai.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:21:28
+date: 2024-01-30T14:37:38
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Hyundai Motor Company's official website, hyundai.com, showcases its vehicle lin
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 14:21:28 |
+| Last Check Timestamp | 2024-01-30 14:37:38 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: www.ibm.com
 description: www.ibm.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:21:29
+date: 2024-01-30T14:37:00
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ IBM, also known as International Business Machines Corporation, is a global tech
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 14:21:29 |
+| Last Check Timestamp | 2024-01-30 14:37:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,17 +42,7 @@ IBM's online presence through their site mirrors their corporate ethos of "Think
 
 ## Associated IP addresses
 
-- 2a02:26f0:3500:583::1e89
-
-- 2a02:26f0:3500:58d::1e89
-
-- 2a02:26f0:c6:394::1e89
-
-- 2a02:26f0:c6:381::1e89
+- 2a02:26f0:280:493::1e89
 
 - 2a02:26f0:280:499::1e89
-
-- 2a02:26f0:280:4b3::1e89
-
-- 2a02:26f0:280:493::1e89
 

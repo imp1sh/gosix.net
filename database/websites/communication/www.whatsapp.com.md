@@ -2,7 +2,7 @@
 title: www.whatsapp.com
 description: www.whatsapp.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:20:53
+date: 2024-01-30T14:37:19
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ WhatsApp by Meta is a messaging app enabling users to send text, voice messages,
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 14:20:53 |
+| Last Check Timestamp | 2024-01-30 14:37:19 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,7 +42,5 @@ Meta Platforms, Inc., formerly known as Facebook, Inc., acquired WhatsApp in 201
 
 ## Associated IP addresses
 
-- 2a03:2880:f23f:c7:face:b00c:0:167
-
-- 2a03:2880:f277:1cd:face:b00c:0:167
+- 2a03:2880:f276:cd:face:b00c:0:167
 

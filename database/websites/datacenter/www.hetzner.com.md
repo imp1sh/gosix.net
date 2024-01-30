@@ -2,7 +2,7 @@
 title: www.hetzner.com
 description: www.hetzner.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T09:38:17
+date: 2024-01-30T11:05:40
 tags: website, rank1
 editor: markdown
 ---
@@ -12,6 +12,8 @@ editor: markdown
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 > Do not edit this page manually, it will get overwritten.
 {.is-info}
+
+Hetzner Online GmbH offers web hosting services, dedicated servers, and cloud solutions, known for high-performance and cost-effective data center products.
 
 
 |   |   |
@@ -24,7 +26,14 @@ editor: markdown
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 09:38:17 |
+| Last Check Timestamp | 2024-01-30 11:05:40 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
+
+## What is www.hetzner.com about?
+Hetzner Online GmbH is a well-respected web hosting company and data center operator based in Germany. Founded in 1997, Hetzner has established a strong reputation for providing high-quality hosting services, ranging from shared web hosting and virtual private servers to dedicated servers and co-location services. The company has made significant efforts in building environmentally-friendly data centers in Germany and Finland, placing a strong emphasis on energy efficiency and sustainability in their operations.
+
+With a focus on reliability and performance, Hetzner offers competitively priced hosting solutions for individuals and businesses of all sizes. Their product portfolio caters to a diverse set of needs, ensuring scalability and flexibility. Hetzner is known for its straightforward approach, transparent pricing with no hidden costs, and robust customer support which is appreciated by its international customer base.
+
+Hetzner's infrastructure is equipped with cutting-edge technology, ensuring high levels of security and uptime. They also provide an intuitive management interface with a wide range of tools and options for customers to manage their services efficiently. Over the years, Hetzner has won multiple awards for its services and contributions to the hosting industry, underlining its position as a dependable and innovative hosting provider.

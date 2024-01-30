@@ -2,7 +2,7 @@
 title: deezer.com
 description: deezer.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T09:38:36
+date: 2024-01-30T11:05:40
 tags: website, rank6
 editor: markdown
 ---
@@ -26,18 +26,12 @@ Deezer is a popular music streaming service, offering a vast catalog of songs, p
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 09:38:36 |
+| Last Check Timestamp | 2024-01-30 11:05:40 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
 
 ## What is deezer.com about?
-Deezer stands as a leading music streaming platform, providing a rich and diverse musical experience for users worldwide. With an extensive catalog spanning millions of songs, playlists, and podcasts, Deezer caters to a broad range of musical tastes. The platform allows users to explore genres, discover new artists, and create personalized playlists, tailoring the listening experience to individual preferences.
+Deezer.com, developed by the French company Deezer S.A., is a music streaming service that offers users the ability to listen to music content from record labels including Sony, Universal Music Group, and Warner Music Group (among others) on various devices online or offline. Founded in 2007 by Daniel Marhely and Jonathan Benassaya, Deezer boasts a vast catalog of more than 73 million songs, which users can discover through its user-friendly interface. It operates on a freemium model, meaning that it provides a basic, ad-supported service for free, while premium features such as higher quality audio, no ads, and offline listening are offered via paid subscriptions.
 
-Deezer's intuitive interface enhances user engagement, offering features like curated playlists, radio stations, and algorithm-based recommendations. Subscribers can access high-quality audio streaming, ensuring a premium listening experience. Deezer also supports offline listening, allowing users to enjoy their favorite tracks without an internet connection.
-
-The platform's commitment to inclusivity is evident in its global reach, bringing together artists and listeners from diverse cultural backgrounds. Deezer not only serves as a music discovery platform but also fosters a sense of community through shared playlists and collaborative features.
-
-In addition to music, Deezer incorporates podcasts, enabling users to explore a wide array of audio content, from interviews and storytelling to educational series. This multifaceted approach positions Deezer as a comprehensive audio entertainment hub.
-
-Deezer's continuous updates and partnerships with artists contribute to its dynamic nature, staying abreast of the ever-evolving music landscape. Whether users seek familiar tunes or wish to embark on a journey of musical exploration, Deezer remains a versatile and user-friendly platform that resonates with music enthusiasts globally.
+The platform distinguishes itself with its smart algorithm which suggests music to users based on their listening habits, ensuring a personalized experience. Deezer's "Flow" feature is particularly notable, using an intuitive blend of user preferences and the smart algorithm to play an endless stream of music tailored to one's taste. Furthermore, Deezer harnesses the collaboration of human editors and technology to curate and create playlists that can match moods, activities, or specific musical genres. Applicable across various devices, including smartphones, tablets, PCs, smart TVs, and even in cars, Deezer provides a seamless and connected music experience to users worldwide.

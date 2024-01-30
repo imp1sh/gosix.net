@@ -2,7 +2,7 @@
 title: www.citicbank.com
 description: www.citicbank.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T09:38:17
+date: 2024-01-30T11:06:03
 tags: website, rank6
 editor: markdown
 ---
@@ -12,6 +12,8 @@ editor: markdown
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 > Do not edit this page manually, it will get overwritten.
 {.is-info}
+
+"China CITIC Bank's official site www.citicbank.com offers financial services, including personal and corporate banking, loans, wealth management, and online services."
 
 
 |   |   |
@@ -24,7 +26,14 @@ editor: markdown
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 09:38:17 |
+| Last Check Timestamp | 2024-01-30 11:06:03 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
+
+## What is www.citicbank.com about?
+China CITIC Bank, known as CITICbank, is a prominent Chinese financial institution and a subsidiary of the multinational conglomerate CITIC Group. The bank provides a comprehensive range of financial products and services to its customers, which include individuals, businesses, and government entities. The services offered by China CITIC Bank encompass personal banking, corporate banking, and treasury operations, among others.
+
+Personal banking at China CITIC Bank includes deposit accounts, loans, credit cards, wealth management, and private banking services tailored to meet the financial needs of individual customers. Corporate clients can benefit from the bank's experience in providing commercial loans, trade financing, supply chain financing, and various cash management solutions, all designed to facilitate business operations and growth.
+
+The official website, www.citicbank.com, serves as a digital platform for China CITIC Bank, providing customers with access to their financial services online. Through this portal, customers can engage in internet banking, obtain financial information, and learn more about the bank's latest products and initiatives. The site reflects the bank's commitment to leveraging technology to improve customer convenience and satisfaction.

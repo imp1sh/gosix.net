@@ -2,7 +2,7 @@
 title: www.broadcom.com
 description: www.broadcom.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T09:38:23
+date: 2024-01-30T11:06:02
 tags: website, rank1
 editor: markdown
 ---
@@ -12,6 +12,8 @@ editor: markdown
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 > Do not edit this page manually, it will get overwritten.
 {.is-info}
+
+Broadcom Inc. is a global technology leader that designs, develops, and supplies a broad range of semiconductor and infrastructure software solutions.
 
 
 |   |   |
@@ -24,7 +26,12 @@ editor: markdown
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 09:38:23 |
+| Last Check Timestamp | 2024-01-30 11:06:02 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
+
+## What is www.broadcom.com about?
+Broadcom Inc. is a global technology leader that designs, develops, and supplies a broad range of semiconductor and infrastructure software solutions. The company's product portfolio serves the data center, networking, software, broadband, wireless, and storage and industrial markets with solutions for infrastructure software applications, data connectivity, optimized data, voice and video processing, and access aggregation.
+
+Broadcom's presence is marked by its commitment to innovation and excellence in the realm of connectivity, which has been essential for the proliferation of the internet and the communication landscape as we know it. The company has a historical legacy of technological advancement, often reflected in the variety of patents and intellectual properties they hold. With a robust approach to research and development, Broadcom continues to push the boundaries in integrated circuits and software solutions, thereby empowering a host of industries by enhancing their capabilities with reliable and high-performance technology.

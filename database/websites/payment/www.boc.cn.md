@@ -2,7 +2,7 @@
 title: www.boc.cn
 description: www.boc.cn Website IPv6 compatibility
 published: true
-date: 2024-01-30T09:38:23
+date: 2024-01-30T11:06:02
 tags: website, rank4
 editor: markdown
 ---
@@ -12,6 +12,8 @@ editor: markdown
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 > Do not edit this page manually, it will get overwritten.
 {.is-info}
+
+The official website of the Bank of China, www.boc.cn, provides comprehensive banking services including personal and corporate banking, international trade settlement, foreign currency exchange, and e-banking solutions.
 
 
 |   |   |
@@ -24,7 +26,14 @@ editor: markdown
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 09:38:23 |
+| Last Check Timestamp | 2024-01-30 11:06:02 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
+
+## What is www.boc.cn about?
+Bank of China (BOC), one of the country's "Big Four" state-owned commercial banks, serves as an international financial institution with a profound history and a significant role in China's financial system. The official website www.boc.cn is an online gateway that offers a comprehensive suite of banking services aimed at individual customers, businesses, and institutions both domestically and worldwide. Established in 1912, the BOC has played a pivotal part in China's economic development and remains integral to the country's international trade and finance.
+
+The website provides a user-friendly portal through which users can access information on a variety of financial products and services including personal banking, corporate banking, investment banking, and insurance services. For personal banking clients, it offers details on savings accounts, personal loans, credit cards, and wealth management services. Meanwhile, corporate clients can find resources on treasury operations, trade services, corporate loans, and more. It also features tools for internet banking, facilitating account management, transfers, bill payments, and other banking transactions online.
+
+Furthermore, www.boc.cn is not just a static information platform but also an interactive space that provides updates on currency exchange rates, financial news, and economic insights, enhancing its role as a navigator for those engaging in cross-border business activities. The BOC's emphasis on innovation and its embrace of digital transformation is evident in the functionality and design of the website, reflecting its commitment to serving clients across the globe efficiently in the digital era.

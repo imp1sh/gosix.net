@@ -2,7 +2,7 @@
 title: www.linkedin.com
 description: www.linkedin.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T09:38:33
+date: 2024-01-30T11:05:46
 tags: website, rank3
 editor: markdown
 ---
@@ -12,6 +12,8 @@ editor: markdown
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 > Do not edit this page manually, it will get overwritten.
 {.is-info}
+
+LinkedIn is a professional networking site that enables users to connect with colleagues, search for jobs, and enhance their career prospects. Owned by Microsoft.
 
 
 |   |   |
@@ -24,7 +26,12 @@ editor: markdown
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 09:38:33 |
+| Last Check Timestamp | 2024-01-30 11:05:46 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
+
+## What is www.linkedin.com about?
+LinkedIn is a professional networking platform designed by LinkedIn Corporation to facilitate business-oriented connections and networking among its users. It serves as a virtual resume, marketing, recruitment, and professional development space where individuals can display their job experience, skills, education, and accomplishments to potential employers, colleagues, and business partners. Operated via www.linkedin.com, this online social network is geared towards career and business professionals looking to expand their professional circles, explore job opportunities, and engage with industry-relevant content.
+
+The platform enables users to create individual profiles that highlight professional qualifications, connect with other professionals, join industry groups, and follow companies and influencers. Users can receive and give endorsements for skills they possess or appreciate in their connections, which bolsters the credibility of their professional expertise. Additionally, LinkedIn offers a job search engine, company pages for brand visibility, and provides a pulse on industry trends and insights through articles and posts. The LinkedIn Corporation consistently develops new features for the website to enhance networking capabilities and user engagement, making it an invaluable resource for professionals worldwide.

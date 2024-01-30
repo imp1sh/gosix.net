@@ -2,7 +2,7 @@
 title: www.dzbank.de
 description: www.dzbank.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T09:37:59
+date: 2024-01-30T11:06:02
 tags: website, rank3
 editor: markdown
 ---
@@ -12,6 +12,8 @@ editor: markdown
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 > Do not edit this page manually, it will get overwritten.
 {.is-info}
+
+DZ BANK AG is a central institution for more than 900 German cooperative banks and a commercial bank. Its www.dzbank.de website provides banking services, financial products, and corporate information.
 
 
 |   |   |
@@ -24,7 +26,14 @@ editor: markdown
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 09:37:59 |
+| Last Check Timestamp | 2024-01-30 11:06:02 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
+
+## What is www.dzbank.de about?
+DZ BANK AG serves as the central institution for more than 800 cooperative banks and their 8,500 branches that form the Volksbanken Raiffeisenbanken Cooperative Financial Network in Germany. As a cooperative bank, DZ BANK's responsibilities are multifaceted, ranging from serving as a corporate bank, central institution, and holding company for the group's specialized service providers.
+
+The website www.dzbank.de provides comprehensive information regarding the bank's financial products and services, including corporate banking, capital markets, and foreign trade solutions. Aimed at delivering robust support to its network, DZ BANK offers tailored services to cooperative banks, their clients ranging from retail to corporate sectors, and other institutional customers.
+
+Furthermore, the site delineates DZ BANK's commitment to sustainability and corporate social responsibility, reflecting its role in promoting ethical financial practices and contributing to the economic well-being of its members. It serves as an essential resource for stakeholders seeking insights into the bank's latest financial reports, market analyses, investment opportunities, and guidance on economic trends, all geared toward fostering the cooperative spirit that underpins Germany's financial ecosystem.

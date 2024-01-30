@@ -2,7 +2,7 @@
 title: www.espn.com
 description: www.espn.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T09:37:29
+date: 2024-01-30T11:05:33
 tags: website, rank1
 editor: markdown
 ---
@@ -12,6 +12,8 @@ editor: markdown
 > The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
 > Do not edit this page manually, it will get overwritten.
 {.is-info}
+
+ESPN.com is the online platform for ESPN, offering sports news, scores, and commentary, owned by The Walt Disney Company and Hearst Communications.
 
 
 |   |   |
@@ -24,7 +26,14 @@ editor: markdown
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 09:37:29 |
+| Last Check Timestamp | 2024-01-30 11:05:33 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
+
+## What is www.espn.com about?
+ESPN.com is a premier sports website owned by ESPN Inc., a joint venture between The Walt Disney Company (which holds an 80% stake) and Hearst Communications (which owns the remaining 20%). As the digital arm of ESPN (Entertainment and Sports Programming Network), ESPN.com provides comprehensive sports coverage, catering to a vast audience of sports enthusiasts from around the globe.
+
+The website serves as a hub for sports news, scores, analysis, and multimedia content across numerous sports leagues, including the NFL, NBA, MLB, NHL, college sports, soccer, and more. It also features live streaming of sporting events and on-demand replays through its streaming service, ESPN+. ESPN.com is known for its in-depth articles, expert commentary, and its popular ESPN Fantasy sports platform, which allows users to create and manage fantasy sports teams.
+
+Incorporating cutting-edge technology and multimedia elements such as video highlights, podcasts, and interactive social media elements, ESPN.com remains a go-to source for real-time sports updates and engaging sports content. It reflects ESPN's brand ethos of serving sports fans anytime, anywhere, and underscores The Walt Disney Company's commitment to expanding its reach in the sports media landscape through a strong online presence.

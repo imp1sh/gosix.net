@@ -2,7 +2,7 @@
 title: duckduckgo.com
 description: duckduckgo.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T11:40:09
+date: 2024-01-30T12:09:46
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ DuckDuckGo is a privacy-focused search engine that does not track users. It offe
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 11:40:09 |
+| Last Check Timestamp | 2024-01-30 12:09:46 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

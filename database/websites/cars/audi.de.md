@@ -2,7 +2,7 @@
 title: audi.de
 description: audi.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T11:39:38
+date: 2024-01-30T12:09:22
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Audi, a German luxury car manufacturer, renowned for innovative design and cutti
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 11:39:38 |
+| Last Check Timestamp | 2024-01-30 12:09:22 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

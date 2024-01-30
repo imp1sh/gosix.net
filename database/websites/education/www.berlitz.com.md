@@ -2,7 +2,7 @@
 title: www.berlitz.com
 description: www.berlitz.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T11:39:26
+date: 2024-01-30T12:09:21
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Berlitz.com is the official website of Berlitz Corporation, which offers languag
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 11:39:26 |
+| Last Check Timestamp | 2024-01-30 12:09:21 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

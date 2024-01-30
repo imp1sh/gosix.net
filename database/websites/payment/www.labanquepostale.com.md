@@ -2,7 +2,7 @@
 title: www.labanquepostale.com
 description: www.labanquepostale.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T11:40:01
+date: 2024-01-30T12:09:22
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ La Banque Postale is a French bank offering financial services such as savings, 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 11:40:01 |
+| Last Check Timestamp | 2024-01-30 12:09:22 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

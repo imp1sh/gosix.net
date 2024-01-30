@@ -2,7 +2,7 @@
 title: proton.me
 description: proton.me Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:09:45
+date: 2024-01-30T12:46:16
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Proton.me by Proton Technologies AG offers secure online services like Proton Ma
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:09:45 |
+| Last Check Timestamp | 2024-01-30 12:46:16 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

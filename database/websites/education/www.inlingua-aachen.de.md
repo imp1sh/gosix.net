@@ -2,7 +2,7 @@
 title: www.inlingua-aachen.de
 description: www.inlingua-aachen.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:09:07
+date: 2024-01-30T12:45:31
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Inlingua Sprachschule in Aachen, Germany is part of the global inlingua language
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:09:07 |
+| Last Check Timestamp | 2024-01-30 12:45:31 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

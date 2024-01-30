@@ -2,7 +2,7 @@
 title: www.zurich.de
 description: www.zurich.de Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:09:46
+date: 2024-01-30T12:46:16
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Zurich.de is the official website of Zurich Insurance in Germany, offering compr
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 12:09:46 |
+| Last Check Timestamp | 2024-01-30 12:46:16 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

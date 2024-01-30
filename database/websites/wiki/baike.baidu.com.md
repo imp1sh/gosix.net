@@ -2,7 +2,7 @@
 title: baike.baidu.com
 description: baike.baidu.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:09:37
+date: 2024-01-30T12:46:05
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Baike Baidu (百度百科) is a Chinese online encyclopedia provided by Baidu, I
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 12:09:37 |
+| Last Check Timestamp | 2024-01-30 12:46:05 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

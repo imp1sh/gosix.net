@@ -2,8 +2,8 @@
 title: bank.pingan.com
 description: bank.pingan.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T12:09:44
-tags: website, rank1
+date: 2024-01-30T12:46:14
+tags: website, rank6
 editor: markdown
 ---
 
@@ -20,13 +20,13 @@ Bank.pingan.com is the official online banking platform of Ping An Bank Co., Ltd
 | - | - |
 | Domainname | bank.pingan.com
 | Category | payment |
-| IPv6 ranking | rank1 :1st_place_medal: |
-| Explanation | The domain has an AAAA record, responds to ping, http and https. |
-| Amount of AAAA records for domain | 10 |
+| IPv6 ranking | rank6 :x: :wastebasket: |
+| Explanation | The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database. |
+| Amount of AAAA records for domain | 0 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 12:09:44 |
+| Last Check Timestamp | 2024-01-30 12:46:14 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

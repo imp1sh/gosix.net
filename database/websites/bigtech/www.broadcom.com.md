@@ -2,7 +2,7 @@
 title: www.broadcom.com
 description: www.broadcom.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:46:14
+date: 2024-01-31T14:22:21
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Broadcom Inc. is a global technology leader that designs, develops, and supplies
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 14:46:14 |
+| Last Check Timestamp | 2024-01-31 14:22:21 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

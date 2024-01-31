@@ -2,7 +2,7 @@
 title: wordpress.com
 description: wordpress.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:45:44
+date: 2024-01-31T14:22:00
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ WordPress.com is a user-friendly website creation platform offering hosting, the
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 14:45:44 |
+| Last Check Timestamp | 2024-01-31 14:22:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

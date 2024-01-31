@@ -2,7 +2,7 @@
 title: bank.pingan.com
 description: bank.pingan.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:46:43
+date: 2024-01-31T14:22:44
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Bank.pingan.com is the official online banking platform of Ping An Bank Co., Ltd
 | ICMPv6 success rate | 81.81818%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-30 14:46:43 |
+| Last Check Timestamp | 2024-01-31 14:22:44 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -39,30 +39,3 @@ The website "bank.pingan.com" features a user-friendly interface that provides c
 As a part of the Ping An Group, which is known for its leadership in financial and insurance services, Ping An Bank leverages cutting-edge technology to deliver innovative services. Its online platform reflects the bank's commitment to digital transformation in the financial industry, aiming to provide a seamless and integrated banking experience. With a focus on customer-centric approaches, Ping An Bank continues to expand its online presence, enhancing its digital capabilities to meet the evolving needs of its customers in the rapidly changing financial landscape.
 
 
-
-<details>
-<summary>Associated IP addresses</summary>
-
-2408:8752:600:9:8000:0:b00:100
-
-2408:8752:700:3:8000:0:b00:100
-
-2409:8c44:2:ff16:8000:0:b00:100
-
-2409:8c44:b00:ff07:8000:0:b00:86
-
-2409:8c44:b00:ff08:8000:0:b00:100
-
-2409:8c44:6100:200:8000:0:b00:11
-
-2409:8c4c:c00:337:8000:0:b00:86
-
-2409:8c4c:e00:210:8000::100
-
-2409:8c50:a00:2083:8000:0:b00:16
-
-2409:8c50:a00:2151::b00:100
-
-240e:c2:1800:35:8000:0:b00:100
-
-</details>

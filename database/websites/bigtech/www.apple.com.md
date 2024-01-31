@@ -2,7 +2,7 @@
 title: www.apple.com
 description: www.apple.com Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:46:00
+date: 2024-01-31T14:22:15
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Apple Inc.'s official website, www.apple.com, showcases its innovative product l
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 14:46:00 |
+| Last Check Timestamp | 2024-01-31 14:22:15 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -41,8 +41,8 @@ The website also serves as a comprehensive resource for customers, offering deta
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:59b::1aca
+2a02:26f0:280:492::1aca
 
-2a02:26f0:3500:584::1aca
+2a02:26f0:280:4a3::1aca
 
 </details>

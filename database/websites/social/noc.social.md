@@ -2,7 +2,7 @@
 title: noc.social
 description: noc.social Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:45:38
+date: 2024-01-31T14:22:01
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ NOC.Social is a Mastodon instance focused on IT professionals, providing a socia
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-30 14:45:38 |
+| Last Check Timestamp | 2024-01-31 14:22:01 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

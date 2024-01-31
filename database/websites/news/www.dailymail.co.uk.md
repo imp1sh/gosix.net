@@ -2,7 +2,7 @@
 title: www.dailymail.co.uk
 description: www.dailymail.co.uk Website IPv6 compatibility
 published: true
-date: 2024-01-30T14:46:14
+date: 2024-01-31T14:22:21
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ The Daily Mail is a British tabloid offering news, comment, and features. Hosted
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-30 14:46:14 |
+| Last Check Timestamp | 2024-01-31 14:22:21 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,8 +43,8 @@ As an online entity, www.dailymail.co.uk operates with a certain immediacy, deli
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:2af::16c2
+2a02:26f0:280:19c::16c2
 
-2a02:26f0:3500:2bd::16c2
+2a02:26f0:280:182::16c2
 
 </details>

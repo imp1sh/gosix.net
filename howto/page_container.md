@@ -1,28 +1,18 @@
 ---
-title: Page container howto
+title: Guideline Container
 description: Description on how to write a review for a container
 published: true
-date: 2024-01-31T16:30:29.260Z
+date: 2024-01-31T16:44:00.613Z
 tags: container, howto
 editor: markdown
 dateCreated: 2024-01-19T18:57:37.486Z
 ---
 
-# Page Container hotwo
+# Guidelines Container
 
-You should include
+When creating a new page, use the template function using the [container template](/templates/container).
 
-- [x] IPv6 Status
-- [x] Github Repo URL
-- [x] Container Registry URL
-- [x] The tag of the container the tests ran on
-- [x] If possible discussions or issues that refer to IPv6 support
-- [x] A short description of your experience. This text shall help people with less experience about the container and IPv6 to get an idea about the implementation status
-{.grid-list}
-
-You can also add a short description what the container is for.
-
-Below the database/container folder the structure shall be as follows:
+Make sure to place the doc into the right folder:
 
 - registry id (docker.io / ghcr.io)
   - maintainer_name (some images don't have this. In this case skip this step and contine with:)

@@ -2,7 +2,7 @@
 title: www.sap.com
 description: www.sap.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T18:13:55
+date: 2024-01-31T20:02:44
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ SAP SE's official website, www.sap.com, offers insights into its enterprise soft
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 18:13:55 |
+| Last Check Timestamp | 2024-01-31 20:02:44 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,8 +43,8 @@ Moreover, www.sap.com is more than just a catalog of products. It's a resource h
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:c6:2b1::1e22
+2a02:26f0:280:184::1e22
 
-2a02:26f0:c6:291::1e22
+2a02:26f0:280:195::1e22
 
 </details>

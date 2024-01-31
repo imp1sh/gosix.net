@@ -2,7 +2,7 @@
 title: www.doopedia.co.kr
 description: www.doopedia.co.kr Website IPv6 compatibility
 published: true
-date: 2024-01-31T18:13:12
+date: 2024-01-31T20:02:34
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Doopedia.co.kr is a Korean online encyclopedia, providing comprehensive informat
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 18:13:12 |
+| Last Check Timestamp | 2024-01-31 20:02:34 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

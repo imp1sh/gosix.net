@@ -2,7 +2,7 @@
 title: www.intel.com
 description: www.intel.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T18:13:55
+date: 2024-01-31T20:03:05
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Intel Corporation's official website, www.intel.com, offers information on their
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 18:13:55 |
+| Last Check Timestamp | 2024-01-31 20:03:05 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -41,8 +41,8 @@ By visiting www.intel.com, one can access a wealth of information about Intel's 
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:c6:286::1ea2
+2a02:26f0:e300:28d::1ea2
 
-2a02:26f0:c6:2b5::1ea2
+2a02:26f0:e300:29d::1ea2
 
 </details>

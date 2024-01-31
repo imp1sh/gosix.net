@@ -2,7 +2,7 @@
 title: generali.de
 description: generali.de Website IPv6 compatibility
 published: true
-date: 2024-01-31T18:14:10
+date: 2024-01-31T20:03:24
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Generali.de, run by Generali Deutschland AG, offers a broad range of insurance p
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 18:14:10 |
+| Last Check Timestamp | 2024-01-31 20:03:24 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

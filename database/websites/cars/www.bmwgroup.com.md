@@ -2,7 +2,7 @@
 title: www.bmwgroup.com
 description: www.bmwgroup.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T18:13:24
+date: 2024-01-31T20:02:45
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ The official website of BMW Group, presenting a wide array of information on the
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 18:13:24 |
+| Last Check Timestamp | 2024-01-31 20:02:45 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

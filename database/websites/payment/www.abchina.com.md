@@ -2,7 +2,7 @@
 title: www.abchina.com
 description: www.abchina.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T18:14:03
+date: 2024-01-31T20:03:31
 tags: website, rank5
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Agricultural Bank of China's website (www.abchina.com) serves as a digital gatew
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 0.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 18:14:03 |
+| Last Check Timestamp | 2024-01-31 20:03:31 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

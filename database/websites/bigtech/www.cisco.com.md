@@ -2,7 +2,7 @@
 title: www.cisco.com
 description: www.cisco.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T18:14:16
+date: 2024-01-31T20:03:24
 tags: website, rank3
 editor: markdown
 ---
@@ -22,11 +22,11 @@ www.cisco.com is Cisco Systems' official website, offering a comprehensive range
 | Category | bigtech |
 | IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
-| Amount of AAAA records for domain | 1 |
+| Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 18:14:16 |
+| Last Check Timestamp | 2024-01-31 20:03:24 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,6 +43,8 @@ Through intuitive navigation and detailed product information, site visitors can
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:88d::b33
+2a02:26f0:c6:29f::b33
+
+2a02:26f0:c6:29a::b33
 
 </details>

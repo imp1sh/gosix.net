@@ -2,7 +2,7 @@
 title: www.1und1.de
 description: www.1und1.de Website IPv6 compatibility
 published: true
-date: 2024-01-31T18:13:41
+date: 2024-01-31T20:03:02
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ www.1und1.de by United Internet AG is a German internet service provider offerin
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 18:13:41 |
+| Last Check Timestamp | 2024-01-31 20:03:02 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

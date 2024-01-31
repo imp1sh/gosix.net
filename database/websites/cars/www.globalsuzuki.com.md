@@ -2,7 +2,7 @@
 title: www.globalsuzuki.com
 description: www.globalsuzuki.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T18:13:33
+date: 2024-01-31T20:03:06
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ www.globalsuzuki.com is the official website of Suzuki Motor Corporation, showca
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 18:13:33 |
+| Last Check Timestamp | 2024-01-31 20:03:06 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

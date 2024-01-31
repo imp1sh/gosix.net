@@ -2,7 +2,7 @@
 title: www.wikipedia.org
 description: www.wikipedia.org Website IPv6 compatibility
 published: true
-date: 2024-01-31T18:14:10
+date: 2024-01-31T20:03:31
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Wikipedia.org, by the Wikimedia Foundation, is a free online encyclopedia with a
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 18:14:10 |
+| Last Check Timestamp | 2024-01-31 20:03:31 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,6 +43,6 @@ As a nonprofit organization, the Wikimedia Foundation operates on the principle 
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:ec80:600:ed1a::1
+2a02:ec80:300:ed1a::1
 
 </details>

@@ -2,14 +2,13 @@
 title: Imprint
 description: Imprint and privacy information
 published: true
-date: 2024-01-20T13:04:58.116Z
+date: 2024-01-31T15:45:27.552Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-20T13:04:34.343Z
 ---
 
 # Imprint
-
 
 
 Welcome to gosix.net! At gosix.net, we are committed to protecting your privacy and providing a transparent understanding of how we handle information. Please read the following privacy statement to learn more about our practices.
@@ -42,8 +41,10 @@ Imprint (Impressum):
 In accordance with German law, we provide the following information for our website:
 
 Responsible for Content:
+![v6_logo_cropped.png](/logos/v6_logo_cropped.png =100x)
 https://gosix.net
 Jochen Demmer
+
 [Contact me via Email](mailto:jochen@winteltosh.de)
 
 

@@ -1,8 +1,8 @@
 ---
 title: Jochen Demmer
-description: Jochen Demmer 
-published: true
-date: 2024-01-18T18:49:13.522Z
+description: Jochen Demmer
+published: false
+date: 2024-01-31T17:15:06.287Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-18T18:40:16.842Z

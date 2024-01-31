@@ -2,15 +2,14 @@
 title: www.cmbc.com.cn
 description: www.cmbc.com.cn Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:25
+date: 2024-01-31T21:47:20
 tags: website, rank3
 editor: markdown
 ---
 
 # www.cmbc.com.cn Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 China Merchants Bank (CMB) is a leading Chinese bank offering a wide range of financial services including retail and corporate banking, wealth management, and credit cards through www.cmbc.com.cn.
@@ -26,7 +25,7 @@ China Merchants Bank (CMB) is a leading Chinese bank offering a wide range of fi
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 0.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 21:23:25 |
+| Last Check Timestamp | 2024-01-31 21:47:20 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,6 +42,6 @@ CMB is renowned for its strategic foresight, especially in the areas of retail b
 <details>
 <summary>Associated IP addresses</summary>
 
-2a01:53c0:ff11::c
+2a01:53c0:ff02::9
 
 </details>

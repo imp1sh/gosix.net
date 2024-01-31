@@ -2,15 +2,14 @@
 title: www.ccb.com
 description: www.ccb.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:57
-tags: website, rank4
+date: 2024-01-31T21:47:38
+tags: website, rank3
 editor: markdown
 ---
 
 # www.ccb.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 China Construction Bank (CCB) is one of China's "Big Four" banks, offering a wide range of financial services including corporate and personal banking, wealth management, and investments.
@@ -20,13 +19,13 @@ China Construction Bank (CCB) is one of China's "Big Four" banks, offering a wid
 | - | - |
 | Domainname | www.ccb.com
 | Category | payment |
-| IPv6 ranking | flawed :arrow_down: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does not respond to ping and only supports either http or https. |
+| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
 | Amount of AAAA records for domain | 1 |
-| ICMPv6 success rate | 0.0%|
+| ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 21:23:57 |
+| Last Check Timestamp | 2024-01-31 21:47:38 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,6 +42,6 @@ Known for its robust emphasis on innovation and technology, www.ccb.com reflects
 <details>
 <summary>Associated IP addresses</summary>
 
-2409:874c:d10:a0::149
+240e:604:104:32::25
 
 </details>

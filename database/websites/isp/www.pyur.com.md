@@ -2,15 +2,14 @@
 title: www.pyur.com
 description: www.pyur.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:30
+date: 2024-01-31T21:47:25
 tags: website, rank6
 editor: markdown
 ---
 
 # www.pyur.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 PYUR (PŸUR) is a German telecommunication company offering internet, landline, and digital television services. It provides a variety of packages tailored to meet the needs of individuals and businesses. Key offerings include high-speed internet and customizable TV options.
@@ -26,7 +25,7 @@ PYUR (PŸUR) is a German telecommunication company offering internet, landline, 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:23:30 |
+| Last Check Timestamp | 2024-01-31 21:47:25 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

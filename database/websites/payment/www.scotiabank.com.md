@@ -2,15 +2,14 @@
 title: www.scotiabank.com
 description: www.scotiabank.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:57
+date: 2024-01-31T21:45:33
 tags: website, rank6
 editor: markdown
 ---
 
 # www.scotiabank.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Scotiabank, officially known as The Bank of Nova Scotia, is a leading Canadian multinational bank offering a wide range of personal, commercial, corporate, and investment banking services.
@@ -26,7 +25,7 @@ Scotiabank, officially known as The Bank of Nova Scotia, is a leading Canadian m
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:23:57 |
+| Last Check Timestamp | 2024-01-31 21:45:33 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,15 +2,14 @@
 title: www.alibaba.com
 description: www.alibaba.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:22:52
+date: 2024-01-31T21:46:23
 tags: website, rank6
 editor: markdown
 ---
 
 # www.alibaba.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Alibaba.com is a leading global e-commerce platform for wholesale trade, owned by Alibaba Group. It connects suppliers with buyers worldwide, offering a vast range of products.
@@ -26,7 +25,7 @@ Alibaba.com is a leading global e-commerce platform for wholesale trade, owned b
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:22:52 |
+| Last Check Timestamp | 2024-01-31 21:46:23 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

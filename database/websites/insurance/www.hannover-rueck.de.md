@@ -2,15 +2,14 @@
 title: www.hannover-rueck.de
 description: www.hannover-rueck.de Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:22:18
+date: 2024-01-31T21:45:53
 tags: website, rank6
 editor: markdown
 ---
 
 # www.hannover-rueck.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Hannover Rück SE operates www.hannover-rueck.de, offering insights into its services as one of the world's leading reinsurance companies, with solutions in property & casualty, life & health reinsurance.
@@ -26,7 +25,7 @@ Hannover Rück SE operates www.hannover-rueck.de, offering insights into its ser
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:22:18 |
+| Last Check Timestamp | 2024-01-31 21:45:53 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,15 +2,14 @@
 title: www.nissan-global.com
 description: www.nissan-global.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:22:17
+date: 2024-01-31T21:46:23
 tags: website, rank6
 editor: markdown
 ---
 
 # www.nissan-global.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 The official site of Nissan Motor, offering company news, product line-up, technology insights, investor relations, and sustainability information.
@@ -26,7 +25,7 @@ The official site of Nissan Motor, offering company news, product line-up, techn
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:22:17 |
+| Last Check Timestamp | 2024-01-31 21:46:23 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

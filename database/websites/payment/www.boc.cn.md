@@ -2,15 +2,14 @@
 title: www.boc.cn
 description: www.boc.cn Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:22:17
+date: 2024-01-31T21:45:52
 tags: website, rank2
 editor: markdown
 ---
 
 # www.boc.cn Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 The official website of the Bank of China, www.boc.cn, provides comprehensive banking services including personal and corporate banking, international trade settlement, foreign currency exchange, and e-banking solutions.
@@ -26,7 +25,7 @@ The official website of the Bank of China, www.boc.cn, provides comprehensive ba
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 21:22:17 |
+| Last Check Timestamp | 2024-01-31 21:45:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,6 +42,6 @@ Furthermore, www.boc.cn is not just a static information platform but also an in
 <details>
 <summary>Associated IP addresses</summary>
 
-2408:8606:2300:0:12::12
+2402:93c0:20::16
 
 </details>

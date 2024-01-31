@@ -2,15 +2,14 @@
 title: www.vodafone.de
 description: www.vodafone.de Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:22:08
+date: 2024-01-31T21:45:44
 tags: website, rank6
 editor: markdown
 ---
 
 # www.vodafone.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 www.vodafone.de is the official website of Vodafone GmbH, offering information on mobile plans, broadband services, and digital solutions in Germany.
@@ -26,7 +25,7 @@ www.vodafone.de is the official website of Vodafone GmbH, offering information o
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:22:08 |
+| Last Check Timestamp | 2024-01-31 21:45:44 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

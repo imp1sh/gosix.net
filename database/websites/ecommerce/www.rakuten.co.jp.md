@@ -2,15 +2,14 @@
 title: www.rakuten.co.jp
 description: www.rakuten.co.jp Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:21:58
+date: 2024-01-31T21:46:06
 tags: website, rank6
 editor: markdown
 ---
 
 # www.rakuten.co.jp Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Rakuten.co.jp is an expansive Japanese e-commerce platform owned by Rakuten, Inc. It offers a wide array of products and services ranging from electronics to fashion and travel bookings.
@@ -26,7 +25,7 @@ Rakuten.co.jp is an expansive Japanese e-commerce platform owned by Rakuten, Inc
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:21:58 |
+| Last Check Timestamp | 2024-01-31 21:46:06 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

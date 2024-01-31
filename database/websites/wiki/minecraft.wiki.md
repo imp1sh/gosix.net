@@ -2,15 +2,14 @@
 title: minecraft.wiki
 description: minecraft.wiki Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:14
+date: 2024-01-31T21:46:47
 tags: website, rank3
 editor: markdown
 ---
 
 # minecraft.wiki Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Minecraft Wiki by Fandom is an extensive resource and community hub where players find information, guides, and updates for the game Minecraft.
@@ -26,7 +25,7 @@ Minecraft Wiki by Fandom is an extensive resource and community hub where player
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 21:23:14 |
+| Last Check Timestamp | 2024-01-31 21:46:47 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,10 +42,10 @@ With its user-friendly interface and structured layout, Minecraft Wiki organized
 <details>
 <summary>Associated IP addresses</summary>
 
+2606:4700:20::681a:76b
+
 2606:4700:20::ac43:486a
 
 2606:4700:20::681a:66b
-
-2606:4700:20::681a:76b
 
 </details>

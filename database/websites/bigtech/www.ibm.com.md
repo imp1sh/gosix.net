@@ -2,15 +2,14 @@
 title: www.ibm.com
 description: www.ibm.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:24:12
+date: 2024-01-31T21:45:33
 tags: website, rank3
 editor: markdown
 ---
 
 # www.ibm.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 IBM, also known as International Business Machines Corporation, is a global technology company known for its computer hardware, software, and IT services.
@@ -26,7 +25,7 @@ IBM, also known as International Business Machines Corporation, is a global tech
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 21:24:12 |
+| Last Check Timestamp | 2024-01-31 21:45:33 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

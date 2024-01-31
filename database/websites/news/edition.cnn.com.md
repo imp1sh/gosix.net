@@ -2,15 +2,14 @@
 title: edition.cnn.com
 description: edition.cnn.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:37
+date: 2024-01-31T21:47:26
 tags: website, rank1
 editor: markdown
 ---
 
 # edition.cnn.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 CNN (Cable News Network) is an American news-based pay television channel owned by Turner Broadcasting System, a division of WarnerMedia News & Sports.
@@ -26,7 +25,7 @@ CNN (Cable News Network) is an American news-based pay television channel owned 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 21:23:37 |
+| Last Check Timestamp | 2024-01-31 21:47:26 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -45,18 +44,18 @@ With its commitment to journalistic excellence, CNN.com has established itself a
 
 2a04:4e42:400::773
 
+2a04:4e42:600::773
+
+2a04:4e42:a00::773
+
 2a04:4e42:e00::773
-
-2a04:4e42:800::773
-
-2a04:4e42:200::773
 
 2a04:4e42:c00::773
 
-2a04:4e42:600::773
+2a04:4e42:800::773
 
 2a04:4e42::773
 
-2a04:4e42:a00::773
+2a04:4e42:200::773
 
 </details>

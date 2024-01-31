@@ -2,15 +2,14 @@
 title: www.netcup.de
 description: www.netcup.de Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:22:42
+date: 2024-01-31T21:46:56
 tags: website, rank1
 editor: markdown
 ---
 
 # www.netcup.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Netcup is a German IT company based in Nürnberg, specializing in web hosting and server solutions. It offers domain registrations, virtual servers, dedicated servers, and high-quality hosting products for both private customers and businesses.
@@ -26,7 +25,7 @@ Netcup is a German IT company based in Nürnberg, specializing in web hosting an
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 21:22:42 |
+| Last Check Timestamp | 2024-01-31 21:46:56 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

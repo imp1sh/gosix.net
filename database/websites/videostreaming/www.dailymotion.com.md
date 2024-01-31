@@ -2,15 +2,14 @@
 title: www.dailymotion.com
 description: www.dailymotion.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:32
+date: 2024-01-31T21:47:25
 tags: website, rank6
 editor: markdown
 ---
 
 # www.dailymotion.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 DailyMotion, owned by Vivendi, is a video-sharing platform offering a vast array of content from users, independent creators, and premium partners.
@@ -26,7 +25,7 @@ DailyMotion, owned by Vivendi, is a video-sharing platform offering a vast array
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:23:32 |
+| Last Check Timestamp | 2024-01-31 21:47:25 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

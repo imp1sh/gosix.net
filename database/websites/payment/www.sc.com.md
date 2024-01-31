@@ -2,15 +2,14 @@
 title: www.sc.com
 description: www.sc.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:27
+date: 2024-01-31T21:47:12
 tags: website, rank1
 editor: markdown
 ---
 
 # www.sc.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Standard Chartered Bank's website www.sc.com offers banking services such as account management, loans, and investment opportunities, with a focus on Asia, Africa, and the Middle East.
@@ -26,7 +25,7 @@ Standard Chartered Bank's website www.sc.com offers banking services such as acc
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 21:23:27 |
+| Last Check Timestamp | 2024-01-31 21:47:12 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

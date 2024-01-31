@@ -2,15 +2,14 @@
 title: google.com
 description: google.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:38
+date: 2024-01-31T21:47:26
 tags: website, rank3
 editor: markdown
 ---
 
 # google.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Google.com, owned by Alphabet Inc., is the world's leading search engine known for providing quick, relevant search results and a range of online services.
@@ -22,11 +21,11 @@ Google.com, owned by Alphabet Inc., is the world's leading search engine known f
 | Category | searchengines |
 | IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
-| Amount of AAAA records for domain | 4 |
+| Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 21:23:38 |
+| Last Check Timestamp | 2024-01-31 21:47:26 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,12 +42,6 @@ Alphabet Inc., established in 2015, serves as the parent holding company of Goog
 <details>
 <summary>Associated IP addresses</summary>
 
-2a00:1450:400b:c03::65
-
-2a00:1450:400b:c03::66
-
-2a00:1450:400b:c03::8b
-
-2a00:1450:400b:c03::64
+2a00:1450:4001:82b::200e
 
 </details>

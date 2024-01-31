@@ -2,15 +2,14 @@
 title: handwiki.org
 description: handwiki.org Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:22:52
+date: 2024-01-31T21:47:00
 tags: website, rank6
 editor: markdown
 ---
 
 # handwiki.org Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 HandWiki is an online encyclopedia that allows users to create and edit articles related to science, technology, and humanities. Unlike many other encyclopedias, it allows for the inclusion of data computation scripts in its articles, thus promoting interactive learning.
@@ -26,7 +25,7 @@ HandWiki is an online encyclopedia that allows users to create and edit articles
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:22:52 |
+| Last Check Timestamp | 2024-01-31 21:47:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

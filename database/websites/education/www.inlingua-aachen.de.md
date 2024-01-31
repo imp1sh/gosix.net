@@ -2,15 +2,14 @@
 title: www.inlingua-aachen.de
 description: www.inlingua-aachen.de Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:22:33
+date: 2024-01-31T21:46:46
 tags: website, rank6
 editor: markdown
 ---
 
 # www.inlingua-aachen.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Inlingua Sprachschule in Aachen, Germany is part of the global inlingua language schools network. They offer a broad range of language courses to individuals and businesses, including German for foreigners, business English, and preparation for language exams.
@@ -26,7 +25,7 @@ Inlingua Sprachschule in Aachen, Germany is part of the global inlingua language
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:22:33 |
+| Last Check Timestamp | 2024-01-31 21:46:46 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

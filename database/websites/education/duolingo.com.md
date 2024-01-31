@@ -2,15 +2,14 @@
 title: duolingo.com
 description: duolingo.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:13
+date: 2024-01-31T21:46:36
 tags: website, rank6
 editor: markdown
 ---
 
 # duolingo.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Duolingo.com is an online platform by Duolingo, Inc. for language learning that uses gamified lessons to teach various languages through interactive exercises and quizzes.
@@ -26,7 +25,7 @@ Duolingo.com is an online platform by Duolingo, Inc. for language learning that 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:23:13 |
+| Last Check Timestamp | 2024-01-31 21:46:36 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

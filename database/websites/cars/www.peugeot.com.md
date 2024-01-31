@@ -2,15 +2,14 @@
 title: www.peugeot.com
 description: www.peugeot.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:22:46
-tags: website, rank1
+date: 2024-01-31T21:46:06
+tags: website, rank3
 editor: markdown
 ---
 
 # www.peugeot.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Peugeot.com is the official website of the Peugeot brand, known for its innovative and stylish vehicles. Part of Stellantis N.V., it offers car model info, services, and company news.
@@ -20,13 +19,13 @@ Peugeot.com is the official website of the Peugeot brand, known for its innovati
 | - | - |
 | Domainname | www.peugeot.com
 | Category | cars |
-| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, responds to ping, http and https. |
+| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 21:22:46 |
+| HTTPS success rate | 0.0% |
+| Last Check Timestamp | 2024-01-31 21:46:06 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

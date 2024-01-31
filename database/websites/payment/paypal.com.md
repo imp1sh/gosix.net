@@ -2,15 +2,14 @@
 title: paypal.com
 description: paypal.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:24:20
+date: 2024-01-31T21:47:58
 tags: website, rank6
 editor: markdown
 ---
 
 # paypal.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 PayPal.com is an online payment platform by PayPal Holdings, Inc. that enables users to send and receive money, make online purchases, and manage transactions securely.
@@ -26,7 +25,7 @@ PayPal.com is an online payment platform by PayPal Holdings, Inc. that enables u
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:24:20 |
+| Last Check Timestamp | 2024-01-31 21:47:58 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

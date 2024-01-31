@@ -2,15 +2,14 @@
 title: www.spdb.com.cn
 description: www.spdb.com.cn Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:24:12
+date: 2024-01-31T21:47:49
 tags: website, rank2
 editor: markdown
 ---
 
 # www.spdb.com.cn Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 The Shanghai Pudong Development Bank (SPDB) website, www.spdb.com.cn, is the official online platform for one of China's leading financial institutions, offering banking services and information.
@@ -26,7 +25,7 @@ The Shanghai Pudong Development Bank (SPDB) website, www.spdb.com.cn, is the off
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 21:24:12 |
+| Last Check Timestamp | 2024-01-31 21:47:49 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -41,6 +40,6 @@ With the advancement of technology, SPDB has also placed a strong emphasis on di
 <details>
 <summary>Associated IP addresses</summary>
 
-2405:3140:31:5101::1
+2405:3140:11:5101::1
 
 </details>

@@ -2,15 +2,14 @@
 title: www.mufg.jp
 description: www.mufg.jp Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:33
+date: 2024-01-31T21:47:16
 tags: website, rank6
 editor: markdown
 ---
 
 # www.mufg.jp Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Mitsubishi UFJ Financial Group (MUFG) is Japan's largest financial group, offering services in banking, trust assets, and securities through its key subsidiary, www.mufg.jp.
@@ -26,7 +25,7 @@ Mitsubishi UFJ Financial Group (MUFG) is Japan's largest financial group, offeri
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:23:33 |
+| Last Check Timestamp | 2024-01-31 21:47:16 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

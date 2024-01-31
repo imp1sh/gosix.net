@@ -2,15 +2,14 @@
 title: www.td.com
 description: www.td.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:24
+date: 2024-01-31T21:47:20
 tags: website, rank6
 editor: markdown
 ---
 
 # www.td.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 www.td.com is the official website of Toronto-Dominion Bank, offering online banking, investing services, and financial solutions in Canada and the U.S.
@@ -26,7 +25,7 @@ www.td.com is the official website of Toronto-Dominion Bank, offering online ban
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:23:24 |
+| Last Check Timestamp | 2024-01-31 21:47:20 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

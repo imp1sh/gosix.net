@@ -2,15 +2,14 @@
 title: www.honda.com
 description: www.honda.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:22:39
+date: 2024-01-31T21:46:03
 tags: website, rank1
 editor: markdown
 ---
 
 # www.honda.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 The official site of Honda Motor Co., Ltd. showcases its diverse lineup of vehicles, motorcycles, power products, innovations, company news, and investor information.
@@ -26,7 +25,7 @@ The official site of Honda Motor Co., Ltd. showcases its diverse lineup of vehic
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 21:22:39 |
+| Last Check Timestamp | 2024-01-31 21:46:03 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,8 +42,8 @@ Visitors to global.honda can expect to find the latest news on product launches,
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:e300:187::21b0
+2a02:26f0:280:4ab::21b0
 
-2a02:26f0:e300:183::21b0
+2a02:26f0:280:49f::21b0
 
 </details>

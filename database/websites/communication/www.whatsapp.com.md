@@ -2,15 +2,14 @@
 title: www.whatsapp.com
 description: www.whatsapp.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:40
+date: 2024-01-31T21:47:39
 tags: website, rank3
 editor: markdown
 ---
 
 # www.whatsapp.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 WhatsApp by Meta is a messaging app enabling users to send text, voice messages, make video calls, and share files globally. Secure and reliable, it offers end-to-end encryption.
@@ -26,7 +25,7 @@ WhatsApp by Meta is a messaging app enabling users to send text, voice messages,
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 21:23:40 |
+| Last Check Timestamp | 2024-01-31 21:47:39 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

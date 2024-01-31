@@ -2,15 +2,14 @@
 title: www.creditmutuel.fr
 description: www.creditmutuel.fr Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:33
+date: 2024-01-31T21:47:26
 tags: website, rank6
 editor: markdown
 ---
 
 # www.creditmutuel.fr Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Crédit Mutuel's official website, www.creditmutuel.fr, offers banking services, online accounts, loans, insurance, and personalized financial advice.
@@ -26,7 +25,7 @@ Crédit Mutuel's official website, www.creditmutuel.fr, offers banking services,
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:23:33 |
+| Last Check Timestamp | 2024-01-31 21:47:26 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

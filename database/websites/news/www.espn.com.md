@@ -2,15 +2,14 @@
 title: www.espn.com
 description: www.espn.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:23:32
+date: 2024-01-31T21:47:14
 tags: website, rank1
 editor: markdown
 ---
 
 # www.espn.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you think the data shown is wrong, please contact the administrators. 
-> Do not edit this page manually, it will get overwritten.
+> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 ESPN.com is the online platform for ESPN, offering sports news, scores, and commentary, owned by The Walt Disney Company and Hearst Communications.
@@ -26,7 +25,7 @@ ESPN.com is the online platform for ESPN, offering sports news, scores, and comm
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 21:23:32 |
+| Last Check Timestamp | 2024-01-31 21:47:14 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,20 +42,20 @@ Incorporating cutting-edge technology and multimedia elements such as video high
 <details>
 <summary>Associated IP addresses</summary>
 
-2600:9000:2077:1e00:e:fe33:5580:93a1
-
-2600:9000:2077:c000:e:fe33:5580:93a1
-
-2600:9000:2077:e00:e:fe33:5580:93a1
-
-2600:9000:2077:3000:e:fe33:5580:93a1
-
 2600:9000:2077:1200:e:fe33:5580:93a1
 
-2600:9000:2077:9800:e:fe33:5580:93a1
+2600:9000:2077:2600:e:fe33:5580:93a1
 
-2600:9000:2077:ec00:e:fe33:5580:93a1
+2600:9000:2077:7e00:e:fe33:5580:93a1
 
-2600:9000:2077:3a00:e:fe33:5580:93a1
+2600:9000:2077:6c00:e:fe33:5580:93a1
+
+2600:9000:2077:f400:e:fe33:5580:93a1
+
+2600:9000:2077:5a00:e:fe33:5580:93a1
+
+2600:9000:2077:1c00:e:fe33:5580:93a1
+
+2600:9000:2077:c000:e:fe33:5580:93a1
 
 </details>

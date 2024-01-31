@@ -2,7 +2,7 @@
 declare -A domains=(
   ["ai"]="openai.com chat.openai.com"
   ["audiostreaming"]="deezer.com tidal.com spotify.com"
-  ["bigtech"]="www.microsoft.com www.apple.com www.ibm.com"
+  ["bigtech"]="www.microsoft.com www.apple.com www.ibm.com www.nvidia.com www.tsmc.com www.broadcom.com www.samsung.com www.asml.com www.tencent.com www.oracle.com www.amd.com www.salesforce.com www.cisco.com www.sap.com en.pinduoduo.com www.alibaba.com www.intel.com www.intuit.com"
   ["cars"]="bmw.de audi.de tesla.com mercedes-benz.de www.peugeot.fr renault.fr hyundai.com"
   ["communication"]="discord.com zoom.us"
   ["creativity"]="www.canva.com"
@@ -21,7 +21,7 @@ declare -A domains=(
   ["social"]="twitter.com tiktok.com www.linkedin.com onlyfans.com imgur.com noc.social"
   ["software_commercial"]="www.office.com www.adobe.com"
   ["videostreaming"]="www.twitch.tv www.netflix.com"
-  ["wiki"]="wiki.junicast.de"
+  ["wiki"]="wiki.junicast.de www.wikipedia.org www.wikimedia.org minecraft.wiki handwiki.org baike.baidu.com www.baike.com namu.wiki www.doopedia.co.kr"
 )
 basepath="/opt/gosix.net/database/websites"
 

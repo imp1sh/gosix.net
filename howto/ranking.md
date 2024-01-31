@@ -2,7 +2,7 @@
 title: Rankings
 description: How does the ranking system work?
 published: true
-date: 2024-01-31T17:10:23.859Z
+date: 2024-01-31T17:11:10.989Z
 tags: howto, ranking
 editor: markdown
 dateCreated: 2024-01-19T19:54:35.804Z
@@ -21,3 +21,5 @@ There is a ranking of how good the IPv6 compatibility is
 | problematic | rank5 | :arrow_double_down: | `:arrow_double_down:` | IPv6 support is very incomplete, major flaws
 | nonexistent | rank6 | :x: | `:x:` | There is no IPv6 support at all |
 | totalfailure | totalfailure | :wastebasket: | `:wastebasket:` | This is a special award for companies that have no interest in the foreseeable future to support IPv6 |
+
+For each category there are different criteria, have a look into the `howto/test criteria` section

@@ -2,7 +2,7 @@
 title: containername
 description: short description about what the container does
 published: true
-date: 2024-01-31T16:40:05.525Z
+date: 2024-01-31T16:41:02.226Z
 tags: template
 editor: markdown
 dateCreated: 2024-01-31T16:40:05.525Z
@@ -20,3 +20,5 @@ Short description of what the container is about.
 |Examined Tag | Insert the Tag of the image you used for your examination |
 
 ## Comments
+
+Remove this line. Don't forget to set the right tags. It would be `container` and the rank, in this example `rank1`.

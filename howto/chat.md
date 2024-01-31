@@ -2,7 +2,7 @@
 title: Chat
 description: The IPv6 community main communcation channel
 published: true
-date: 2024-01-26T10:03:45.730Z
+date: 2024-01-31T16:19:14.460Z
 tags: howto, chat, matrix
 editor: markdown
 dateCreated: 2024-01-26T09:56:24.617Z
@@ -10,7 +10,7 @@ dateCreated: 2024-01-26T09:56:24.617Z
 
 # Chat / Get Help
 
-
+![matrix_logo.svg](/logos/matrix_logo.svg)
 
 Our primary communication hub is the [matrix room](https://matrix.to/#/#gosix.net:libcom.de) 💬.
 Here, community members converge to engage in lively discussions, share insights, and pose questions related to the vast array of topics covered on gosix.net.

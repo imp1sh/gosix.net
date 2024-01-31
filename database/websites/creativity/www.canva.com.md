@@ -2,7 +2,7 @@
 title: www.canva.com
 description: www.canva.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T14:21:53
+date: 2024-01-31T17:13:30
 tags: website, rank1
 editor: markdown
 ---
@@ -20,13 +20,13 @@ Canva.com, by Canva Pty Ltd, is a graphic design platform that allows users to e
 | - | - |
 | Domainname | www.canva.com
 | Category | creativity |
-| IPv6 ranking | rank1 :1st_place_medal: |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 14:21:53 |
+| Last Check Timestamp | 2024-01-31 17:13:30 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

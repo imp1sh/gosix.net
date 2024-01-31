@@ -2,7 +2,7 @@
 title: www.smfg.co.jp
 description: www.smfg.co.jp Website IPv6 compatibility
 published: true
-date: 2024-01-31T14:21:54
+date: 2024-01-31T17:13:31
 tags: website, rank3
 editor: markdown
 ---
@@ -20,13 +20,13 @@ The Sumitomo Mitsui Financial Group (SMFG) is a Japanese bank holding company of
 | - | - |
 | Domainname | www.smfg.co.jp
 | Category | payment |
-| IPv6 ranking | rank3 :3rd_place_medal: |
-| Explanation | The domain has an AAAA record, does respond to ping and anly supports either http or https. |
+| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 14:21:54 |
+| Last Check Timestamp | 2024-01-31 17:13:31 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,8 +43,8 @@ With comprehensive insights into SMFG's business model, the website delineates t
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:88b::111e
+2a02:26f0:c6:2aa::111e
 
-2a02:26f0:3500:88e::111e
+2a02:26f0:c6:2b8::111e
 
 </details>

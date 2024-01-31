@@ -2,7 +2,7 @@
 title: www.ibm.com
 description: www.ibm.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T14:22:24
+date: 2024-01-31T17:14:16
 tags: website, rank3
 editor: markdown
 ---
@@ -20,13 +20,13 @@ IBM, also known as International Business Machines Corporation, is a global tech
 | - | - |
 | Domainname | www.ibm.com
 | Category | bigtech |
-| IPv6 ranking | rank3 :3rd_place_medal: |
-| Explanation | The domain has an AAAA record, does respond to ping and anly supports either http or https. |
+| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 14:22:24 |
+| Last Check Timestamp | 2024-01-31 17:14:16 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,8 +43,8 @@ IBM's online presence through their site mirrors their corporate ethos of "Think
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:493::1e89
+2a02:26f0:3500:595::1e89
 
-2a02:26f0:280:4b3::1e89
+2a02:26f0:3500:58d::1e89
 
 </details>

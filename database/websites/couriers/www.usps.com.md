@@ -2,7 +2,7 @@
 title: www.usps.com
 description: www.usps.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T14:22:21
+date: 2024-01-31T17:14:10
 tags: website, rank3
 editor: markdown
 ---
@@ -20,13 +20,13 @@ USPS.com is the official website of the United States Postal Service, offering p
 | - | - |
 | Domainname | www.usps.com
 | Category | couriers |
-| IPv6 ranking | rank3 :3rd_place_medal: |
-| Explanation | The domain has an AAAA record, does respond to ping and anly supports either http or https. |
+| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
 | Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 14:22:21 |
+| Last Check Timestamp | 2024-01-31 17:14:10 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

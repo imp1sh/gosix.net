@@ -2,7 +2,7 @@
 title: www.td.com
 description: www.td.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T14:22:24
+date: 2024-01-31T17:14:16
 tags: website, rank6
 editor: markdown
 ---
@@ -20,13 +20,13 @@ www.td.com is the official website of Toronto-Dominion Bank, offering online ban
 | - | - |
 | Domainname | www.td.com
 | Category | payment |
-| IPv6 ranking | rank6 :x: :wastebasket: |
+| IPv6 ranking | nonexistent :x: [🔗](/howto/ranking) |
 | Explanation | The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database. |
 | Amount of AAAA records for domain | 0 |
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 14:22:24 |
+| Last Check Timestamp | 2024-01-31 17:14:16 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

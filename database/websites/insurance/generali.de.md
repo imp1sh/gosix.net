@@ -2,7 +2,7 @@
 title: generali.de
 description: generali.de Website IPv6 compatibility
 published: true
-date: 2024-01-31T14:22:37
+date: 2024-01-31T17:14:29
 tags: website, rank6
 editor: markdown
 ---
@@ -20,13 +20,13 @@ Generali.de, run by Generali Deutschland AG, offers a broad range of insurance p
 | - | - |
 | Domainname | generali.de
 | Category | insurance |
-| IPv6 ranking | rank6 :x: :wastebasket: |
+| IPv6 ranking | nonexistent :x: [🔗](/howto/ranking) |
 | Explanation | The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database. |
 | Amount of AAAA records for domain | 0 |
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 14:22:37 |
+| Last Check Timestamp | 2024-01-31 17:14:29 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

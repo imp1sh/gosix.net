@@ -2,7 +2,7 @@
 title: www.peugeot.fr
 description: www.peugeot.fr Website IPv6 compatibility
 published: true
-date: 2024-01-31T14:22:23
+date: 2024-01-31T17:14:15
 tags: website, rank3
 editor: markdown
 ---
@@ -20,13 +20,13 @@ As of my last update in April 2023, "www.peugeot.fr" is the official website for
 | - | - |
 | Domainname | www.peugeot.fr
 | Category | cars |
-| IPv6 ranking | rank3 :3rd_place_medal: |
-| Explanation | The domain has an AAAA record, does respond to ping and anly supports either http or https. |
+| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
-| HTTP success rate | 100.0% |
+| HTTP success rate | 50.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 14:22:23 |
+| Last Check Timestamp | 2024-01-31 17:14:15 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

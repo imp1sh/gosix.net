@@ -2,7 +2,7 @@
 title: www.rabobank.com
 description: www.rabobank.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T14:22:24
+date: 2024-01-31T17:14:15
 tags: website, rank3
 editor: markdown
 ---
@@ -20,13 +20,13 @@ Rabobank.com is the official website of the Dutch multinational banking and fina
 | - | - |
 | Domainname | www.rabobank.com
 | Category | payment |
-| IPv6 ranking | rank3 :3rd_place_medal: |
-| Explanation | The domain has an AAAA record, does respond to ping and anly supports either http or https. |
+| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 14:22:24 |
+| Last Check Timestamp | 2024-01-31 17:14:15 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,8 +43,8 @@ As a cooperative bank, Rabobank stands out for its customer-centric policies and
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:14::1724:a258
+2a02:26f0:e300::5f64:9212
 
-2a02:26f0:3500:14::1724:a24e
+2a02:26f0:e300::5f64:9211
 
 </details>

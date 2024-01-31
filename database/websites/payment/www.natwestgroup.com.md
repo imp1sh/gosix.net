@@ -2,7 +2,7 @@
 title: www.natwestgroup.com
 description: www.natwestgroup.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T14:22:14
+date: 2024-01-31T17:13:57
 tags: website, rank1
 editor: markdown
 ---
@@ -20,13 +20,13 @@ NatWest Group plc is a leading banking and financial services company, offering 
 | - | - |
 | Domainname | www.natwestgroup.com
 | Category | payment |
-| IPv6 ranking | rank1 :1st_place_medal: |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 14:22:14 |
+| Last Check Timestamp | 2024-01-31 17:13:57 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

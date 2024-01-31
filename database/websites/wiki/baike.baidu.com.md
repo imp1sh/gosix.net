@@ -2,7 +2,7 @@
 title: baike.baidu.com
 description: baike.baidu.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T14:22:23
+date: 2024-01-31T17:14:14
 tags: website, rank3
 editor: markdown
 ---
@@ -20,13 +20,13 @@ Baike Baidu (百度百科) is a Chinese online encyclopedia provided by Baidu, I
 | - | - |
 | Domainname | baike.baidu.com
 | Category | wiki |
-| IPv6 ranking | rank3 :3rd_place_medal: |
-| Explanation | The domain has an AAAA record, does respond to ping and anly supports either http or https. |
+| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
 | Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 14:22:23 |
+| Last Check Timestamp | 2024-01-31 17:14:14 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

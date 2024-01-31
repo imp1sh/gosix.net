@@ -2,7 +2,7 @@
 title: spotify.com
 description: spotify.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T14:22:07
+date: 2024-01-31T17:13:50
 tags: website, rank3
 editor: markdown
 ---
@@ -20,13 +20,13 @@ Spotify.com is a music streaming platform by Spotify AB offering millions of tra
 | - | - |
 | Domainname | spotify.com
 | Category | audiostreaming |
-| IPv6 ranking | rank3 :3rd_place_medal: |
-| Explanation | The domain has an AAAA record, does respond to ping and anly supports either http or https. |
+| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
 | Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 14:22:07 |
+| Last Check Timestamp | 2024-01-31 17:13:50 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

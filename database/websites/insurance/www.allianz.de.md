@@ -2,7 +2,7 @@
 title: www.allianz.de
 description: www.allianz.de Website IPv6 compatibility
 published: true
-date: 2024-01-31T14:21:59
+date: 2024-01-31T17:13:44
 tags: website, rank1
 editor: markdown
 ---
@@ -20,13 +20,13 @@ Allianz.de is the official website of Allianz SE, offering comprehensive insuran
 | - | - |
 | Domainname | www.allianz.de
 | Category | insurance |
-| IPv6 ranking | rank1 :1st_place_medal: |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 8 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 14:21:59 |
+| Last Check Timestamp | 2024-01-31 17:13:44 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,20 +43,20 @@ Allianz.de not only epitomizes the corporate ethos of trust and security that Al
 <details>
 <summary>Associated IP addresses</summary>
 
-2600:9000:2490:400:19:bc8b:b200:93a1
+2600:9000:2490:de00:19:bc8b:b200:93a1
 
-2600:9000:2490:3800:19:bc8b:b200:93a1
+2600:9000:2490:1a00:19:bc8b:b200:93a1
 
-2600:9000:2490:4c00:19:bc8b:b200:93a1
+2600:9000:2490:1800:19:bc8b:b200:93a1
 
-2600:9000:2490:7400:19:bc8b:b200:93a1
+2600:9000:2490:ae00:19:bc8b:b200:93a1
 
-2600:9000:2490:7a00:19:bc8b:b200:93a1
+2600:9000:2490:e000:19:bc8b:b200:93a1
 
-2600:9000:2490:a200:19:bc8b:b200:93a1
+2600:9000:2490:7600:19:bc8b:b200:93a1
 
-2600:9000:2490:be00:19:bc8b:b200:93a1
+2600:9000:2490:8e00:19:bc8b:b200:93a1
 
-2600:9000:2490:ce00:19:bc8b:b200:93a1
+2600:9000:2490:fc00:19:bc8b:b200:93a1
 
 </details>

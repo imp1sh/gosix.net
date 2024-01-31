@@ -2,7 +2,7 @@
 title: www.broadcom.com
 description: www.broadcom.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T14:22:21
+date: 2024-01-31T17:14:11
 tags: website, rank1
 editor: markdown
 ---
@@ -20,13 +20,13 @@ Broadcom Inc. is a global technology leader that designs, develops, and supplies
 | - | - |
 | Domainname | www.broadcom.com
 | Category | bigtech |
-| IPv6 ranking | rank1 :1st_place_medal: |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 14:22:21 |
+| Last Check Timestamp | 2024-01-31 17:14:11 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -41,8 +41,8 @@ Broadcom's presence is marked by its commitment to innovation and excellence in 
 <details>
 <summary>Associated IP addresses</summary>
 
-2606:4700:4400::ac40:9b6a
-
 2606:4700:4400::6812:2096
+
+2606:4700:4400::ac40:9b6a
 
 </details>

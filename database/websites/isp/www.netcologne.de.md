@@ -2,7 +2,7 @@
 title: www.netcologne.de
 description: www.netcologne.de Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:02:34
+date: 2024-01-31T20:32:20
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ NetCologne GmbH offers telecom services including internet, phone, and TV in the
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 20:02:34 |
+| Last Check Timestamp | 2024-01-31 20:32:20 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

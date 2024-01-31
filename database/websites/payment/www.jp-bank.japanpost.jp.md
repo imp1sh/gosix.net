@@ -2,7 +2,7 @@
 title: www.jp-bank.japanpost.jp
 description: www.jp-bank.japanpost.jp Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:03:06
+date: 2024-01-31T20:32:48
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Japan Post Bank, featured at www.jp-bank.japanpost.jp, offers diverse banking se
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 20:03:06 |
+| Last Check Timestamp | 2024-01-31 20:32:48 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

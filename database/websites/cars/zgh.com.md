@@ -2,7 +2,7 @@
 title: zgh.com
 description: zgh.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:02:47
+date: 2024-01-31T20:32:30
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ ZGH.com is the official site for Zhejiang Geely Holding Group, a global automoti
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 20:02:47 |
+| Last Check Timestamp | 2024-01-31 20:32:30 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

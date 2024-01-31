@@ -2,7 +2,7 @@
 title: google.com
 description: google.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:03:06
+date: 2024-01-31T20:32:47
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Google.com, owned by Alphabet Inc., is the world's leading search engine known f
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 20:03:06 |
+| Last Check Timestamp | 2024-01-31 20:32:47 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,6 +43,6 @@ Alphabet Inc., established in 2015, serves as the parent holding company of Goog
 <details>
 <summary>Associated IP addresses</summary>
 
-2a00:1450:4001:801::200e
+2a00:1450:4001:806::200e
 
 </details>

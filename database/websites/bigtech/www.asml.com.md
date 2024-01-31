@@ -2,7 +2,7 @@
 title: www.asml.com
 description: www.asml.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:03:01
+date: 2024-01-31T20:32:45
 tags: website, rank1
 editor: markdown
 ---
@@ -26,7 +26,7 @@ ASML is a Dutch company and one of the world's leading manufacturers of chip-mak
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 20:03:01 |
+| Last Check Timestamp | 2024-01-31 20:32:45 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

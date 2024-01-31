@@ -2,7 +2,7 @@
 title: www.theguardian.com
 description: www.theguardian.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:03:01
+date: 2024-01-31T20:32:44
 tags: website, rank3
 editor: markdown
 ---
@@ -22,11 +22,11 @@ editor: markdown
 | Category | news |
 | IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
-| Amount of AAAA records for domain | 1 |
+| Amount of AAAA records for domain | 4 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 20:03:01 |
+| Last Check Timestamp | 2024-01-31 20:32:44 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

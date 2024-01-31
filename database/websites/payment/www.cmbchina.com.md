@@ -2,7 +2,7 @@
 title: www.cmbchina.com
 description: www.cmbchina.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:02:47
+date: 2024-01-31T20:32:29
 tags: website, rank3
 editor: markdown
 ---
@@ -26,7 +26,7 @@ China Merchants Bank's official website, www.cmbchina.com, offers comprehensive 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 20:02:47 |
+| Last Check Timestamp | 2024-01-31 20:32:29 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

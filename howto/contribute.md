@@ -2,7 +2,7 @@
 title: Contribute
 description: Contribute to the IPv6 compatibility database
 published: true
-date: 2024-01-20T22:11:29.961Z
+date: 2024-01-31T16:24:55.767Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-18T17:47:04.940Z
@@ -17,6 +17,12 @@ If you like what we offer please consider to contribute. There are several thing
 
 ## :pencil: Add and maintain content
 This website tries to be as up to date and as complete as possible. You can add, update or even delete content. For that you need an account. Just use the [register form](/register). We will unlock your account and then you can contribute and manage content. Content will be moderated.
+
+There is a distinction between manually generated and automatic generated content. Automated content cannot be edited manually. There will be methods so you can query to add an automated element in the future. Automated content:
+
+- /database/website
+- /database/dnsauth
+
 
 ## :dollar: Financial support
 It consumes time and financial resources to run this page. Please consider contributing financially.

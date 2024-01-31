@@ -2,7 +2,7 @@
 title: www.audi.com
 description: www.audi.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:32:47
+date: 2024-01-31T21:23:38
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ www.audi.com is the official website of Audi AG, showcasing their latest car mod
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 20:32:47 |
+| Last Check Timestamp | 2024-01-31 21:23:38 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

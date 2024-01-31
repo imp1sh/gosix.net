@@ -2,8 +2,8 @@
 title: www.office.com
 description: www.office.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:32:44
-tags: website, rank3
+date: 2024-01-31T21:23:26
+tags: website, rank1
 editor: markdown
 ---
 
@@ -20,13 +20,13 @@ www.office.com is the portal for Microsoft 365, offering access to Office apps l
 | - | - |
 | Domainname | www.office.com
 | Category | software_commercial |
-| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 20:32:44 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-01-31 21:23:26 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

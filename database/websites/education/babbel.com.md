@@ -2,7 +2,7 @@
 title: babbel.com
 description: babbel.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:32:20
+date: 2024-01-31T21:22:38
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Babbel.com by Lesson Nine GmbH offers an online language learning platform that 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 20:32:20 |
+| Last Check Timestamp | 2024-01-31 21:22:38 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

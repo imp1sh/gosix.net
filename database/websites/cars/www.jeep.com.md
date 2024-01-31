@@ -2,8 +2,8 @@
 title: www.jeep.com
 description: www.jeep.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:32:30
-tags: website, rank3
+date: 2024-01-31T21:22:42
+tags: website, rank1
 editor: markdown
 ---
 
@@ -20,13 +20,13 @@ www.jeep.com is the official website for the Jeep brand, owned by Stellantis N.V
 | - | - |
 | Domainname | www.jeep.com
 | Category | cars |
-| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
-| Amount of AAAA records for domain | 2 |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
+| Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 20:32:30 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-01-31 21:22:42 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -44,7 +44,5 @@ Additionally, Jeep.com offers support resources for existing customers, such as 
 <summary>Associated IP addresses</summary>
 
 2a02:26f0:280:9::213:7a3c
-
-2a02:26f0:280:9::213:7a21
 
 </details>

@@ -2,8 +2,8 @@
 title: www.spdb.com.cn
 description: www.spdb.com.cn Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:33:00
-tags: website, rank4
+date: 2024-01-31T21:24:12
+tags: website, rank2
 editor: markdown
 ---
 
@@ -20,13 +20,13 @@ The Shanghai Pudong Development Bank (SPDB) website, www.spdb.com.cn, is the off
 | - | - |
 | Domainname | www.spdb.com.cn
 | Category | payment |
-| IPv6 ranking | flawed :arrow_down: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does not respond to ping and only supports either http or https. |
+| IPv6 ranking | very good :2nd_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, does respond to http and https but not to ping. |
 | Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 20:33:00 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-01-31 21:24:12 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -41,6 +41,6 @@ With the advancement of technology, SPDB has also placed a strong emphasis on di
 <details>
 <summary>Associated IP addresses</summary>
 
-2405:3140:11:5101::1
+2405:3140:31:5101::1
 
 </details>

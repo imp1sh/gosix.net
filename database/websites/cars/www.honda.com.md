@@ -2,8 +2,8 @@
 title: www.honda.com
 description: www.honda.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:32:27
-tags: website, rank3
+date: 2024-01-31T21:22:39
+tags: website, rank1
 editor: markdown
 ---
 
@@ -20,13 +20,13 @@ The official site of Honda Motor Co., Ltd. showcases its diverse lineup of vehic
 | - | - |
 | Domainname | www.honda.com
 | Category | cars |
-| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 20:32:27 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-01-31 21:22:39 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,8 +43,8 @@ Visitors to global.honda can expect to find the latest news on product launches,
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:49f::21b0
+2a02:26f0:e300:187::21b0
 
-2a02:26f0:280:4ab::21b0
+2a02:26f0:e300:183::21b0
 
 </details>

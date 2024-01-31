@@ -2,8 +2,8 @@
 title: www.cib.com.cn
 description: www.cib.com.cn Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:32:44
-tags: website, rank3
+date: 2024-01-31T21:23:30
+tags: website, rank5
 editor: markdown
 ---
 
@@ -20,13 +20,13 @@ The website www.cib.com.cn is the official online portal for China Industrial Ba
 | - | - |
 | Domainname | www.cib.com.cn
 | Category | payment |
-| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
+| IPv6 ranking | problematic :arrow_double_down: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record and responds to ping but does not respond to neither http/https |
 | Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 0.0% |
-| HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 20:32:44 |
+| HTTPS success rate | 0.0% |
+| Last Check Timestamp | 2024-01-31 21:23:30 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -45,6 +45,6 @@ Please note that for real-time details or specific queries about the website's c
 <details>
 <summary>Associated IP addresses</summary>
 
-2a01:53c0:ff0c::36
+2a01:53c0:ff0c::8
 
 </details>

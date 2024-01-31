@@ -2,8 +2,8 @@
 title: www.toyota.com
 description: www.toyota.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:32:20
-tags: website, rank1
+date: 2024-01-31T21:22:17
+tags: website, rank3
 editor: markdown
 ---
 
@@ -20,13 +20,13 @@ Toyota.com is the official website for Toyota Motor Corporation, showcasing its 
 | - | - |
 | Domainname | www.toyota.com
 | Category | cars |
-| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, responds to ping, http and https. |
+| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
 | Amount of AAAA records for domain | 8 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 20:32:20 |
+| HTTPS success rate | 0.0% |
+| Last Check Timestamp | 2024-01-31 21:22:17 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,20 +43,20 @@ Furthermore, www.toyota.com keeps users informed about the latest news, offers, 
 <details>
 <summary>Associated IP addresses</summary>
 
-2600:9000:223c:3e00:9:3aa4:d340:93a1
+2600:9000:2315:800:9:3aa4:d340:93a1
 
-2600:9000:223c:7800:9:3aa4:d340:93a1
+2600:9000:2315:5800:9:3aa4:d340:93a1
 
-2600:9000:223c:7e00:9:3aa4:d340:93a1
+2600:9000:2315:7e00:9:3aa4:d340:93a1
 
-2600:9000:223c:8600:9:3aa4:d340:93a1
+2600:9000:2315:6400:9:3aa4:d340:93a1
 
-2600:9000:223c:9000:9:3aa4:d340:93a1
+2600:9000:2315:1e00:9:3aa4:d340:93a1
 
-2600:9000:223c:a000:9:3aa4:d340:93a1
+2600:9000:2315:d800:9:3aa4:d340:93a1
 
-2600:9000:223c:c600:9:3aa4:d340:93a1
+2600:9000:2315:bc00:9:3aa4:d340:93a1
 
-2600:9000:223c:400:9:3aa4:d340:93a1
+2600:9000:2315:9800:9:3aa4:d340:93a1
 
 </details>

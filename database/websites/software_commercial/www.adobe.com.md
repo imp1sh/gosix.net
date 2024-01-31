@@ -2,8 +2,8 @@
 title: www.adobe.com
 description: www.adobe.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:32:48
-tags: website, rank3
+date: 2024-01-31T21:23:39
+tags: website, rank1
 editor: markdown
 ---
 
@@ -20,13 +20,13 @@ Adobe is a renowned software company, offering a diverse suite of creative tools
 | - | - |
 | Domainname | www.adobe.com
 | Category | software_commercial |
-| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 20:32:48 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-01-31 21:23:39 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

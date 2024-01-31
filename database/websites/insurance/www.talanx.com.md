@@ -2,7 +2,7 @@
 title: www.talanx.com
 description: www.talanx.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:32:43
+date: 2024-01-31T21:23:23
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Talanx AG operates as a multi-brand provider in the insurance and financial serv
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 20:32:43 |
+| Last Check Timestamp | 2024-01-31 21:23:23 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

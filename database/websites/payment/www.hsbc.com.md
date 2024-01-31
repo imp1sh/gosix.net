@@ -2,8 +2,8 @@
 title: www.hsbc.com
 description: www.hsbc.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:32:27
-tags: website, rank3
+date: 2024-01-31T21:22:18
+tags: website, rank1
 editor: markdown
 ---
 
@@ -20,13 +20,13 @@ www.hsbc.com is the official website of HSBC Holdings plc, a global banking and 
 | - | - |
 | Domainname | www.hsbc.com
 | Category | payment |
-| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 20:32:27 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-01-31 21:22:18 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -43,8 +43,8 @@ Please note that the above description is based on general information about HSB
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:9::213:7a2b
+2a02:26f0:3500:1b::1724:a38b
 
-2a02:26f0:280:9::213:7a24
+2a02:26f0:3500:1b::1724:a389
 
 </details>

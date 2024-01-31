@@ -2,7 +2,7 @@
 title: www.chevrolet.com
 description: www.chevrolet.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:32:27
+date: 2024-01-31T21:22:18
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Chevrolet.com is General Motors' official website for the Chevrolet brand, offer
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 20:32:27 |
+| Last Check Timestamp | 2024-01-31 21:22:18 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

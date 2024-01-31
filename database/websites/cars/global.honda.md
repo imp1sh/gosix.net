@@ -2,7 +2,7 @@
 title: global.honda
 description: global.honda Website IPv6 compatibility
 published: true
-date: 2024-01-31T20:32:29
+date: 2024-01-31T21:22:38
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ Global.honda by Honda Motor Co., Ltd. is the official website offering informati
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 20:32:29 |
+| Last Check Timestamp | 2024-01-31 21:22:38 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

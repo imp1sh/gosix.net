@@ -2,7 +2,7 @@
 title: www.unicreditgroup.eu
 description: www.unicreditgroup.eu Website IPv6 compatibility
 published: true
-date: 2024-01-31T17:13:50
+date: 2024-01-31T18:13:33
 tags: website, rank6
 editor: markdown
 ---
@@ -26,7 +26,7 @@ UniCredit S.p.A.'s website at www.unicreditgroup.eu provides information about t
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 17:13:50 |
+| Last Check Timestamp | 2024-01-31 18:13:33 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,8 +2,8 @@
 title: Aruba Instant On 1930
 description: Aruba Instant On 1930 IPv6 compatibility
 published: true
-date: 2024-01-19T19:34:26.367Z
-tags: switch, rank2, device
+date: 2024-01-31T21:39:35.560Z
+tags: rank2, device
 editor: markdown
 dateCreated: 2024-01-18T00:55:34.481Z
 ---

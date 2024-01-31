@@ -2,7 +2,7 @@
 title: containername
 description: short description about what the container does
 published: true
-date: 2024-01-31T16:41:59.193Z
+date: 2024-01-31T16:46:02.889Z
 tags: template
 editor: markdown
 dateCreated: 2024-01-31T16:40:05.525Z
@@ -22,4 +22,6 @@ Short description of what the container is about.
 ## Comments
 
 > Remove this and the next lines!
-Don't forget to set the right tags. It would be `container` and the rank, in this example `rank1`.
+> Don't forget to set the right tags. It would be `container` and the rank, in this example `rank1`.
+> For more info, read the [container guideline](/howto/page_container) document.
+

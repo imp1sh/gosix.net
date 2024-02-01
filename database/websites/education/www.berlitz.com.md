@@ -2,7 +2,7 @@
 title: www.berlitz.com
 description: www.berlitz.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T12:06:28
+date: 2024-02-01T16:07:06
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Berlitz.com is the official website of Berlitz Corporation, which offers languag
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 12:06:28 |
+| Last Check Timestamp | 2024-02-01 16:07:06 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,20 +42,20 @@ Intuitive in design, www.berlitz.com allows visitors to easily navigate through 
 <details>
 <summary>Associated IP addresses</summary>
 
-2600:9000:224a:1200:9:504e:c680:93a1
+2600:9000:2057:b800:9:504e:c680:93a1
 
-2600:9000:224a:4800:9:504e:c680:93a1
+2600:9000:2057:ce00:9:504e:c680:93a1
 
-2600:9000:224a:3000:9:504e:c680:93a1
+2600:9000:2057:e200:9:504e:c680:93a1
 
-2600:9000:224a:8400:9:504e:c680:93a1
+2600:9000:2057:f000:9:504e:c680:93a1
 
-2600:9000:224a:6c00:9:504e:c680:93a1
+2600:9000:2057:3c00:9:504e:c680:93a1
 
-2600:9000:224a:5000:9:504e:c680:93a1
+2600:9000:2057:4c00:9:504e:c680:93a1
 
-2600:9000:224a:ce00:9:504e:c680:93a1
+2600:9000:2057:6200:9:504e:c680:93a1
 
-2600:9000:224a:d200:9:504e:c680:93a1
+2600:9000:2057:a600:9:504e:c680:93a1
 
 </details>

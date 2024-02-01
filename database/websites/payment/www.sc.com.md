@@ -2,7 +2,7 @@
 title: www.sc.com
 description: www.sc.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T12:06:19
+date: 2024-02-01T16:07:00
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Standard Chartered Bank's website www.sc.com offers banking services such as acc
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 12:06:19 |
+| Last Check Timestamp | 2024-02-01 16:07:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ Standard Chartered's commitment to innovation and sustainability is also reflect
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:c6:380::6dc
+2a02:26f0:280:491::6dc
 
-2a02:26f0:c6:39b::6dc
+2a02:26f0:280:4b8::6dc
 
 </details>

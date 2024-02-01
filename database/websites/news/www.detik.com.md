@@ -2,7 +2,7 @@
 title: www.detik.com
 description: www.detik.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T12:04:45
+date: 2024-02-01T16:05:23
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Detik.com, owned by Trans Corp, is a leading Indonesian digital media platform, 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 12:04:45 |
+| Last Check Timestamp | 2024-02-01 16:05:23 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

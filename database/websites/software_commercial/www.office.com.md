@@ -2,7 +2,7 @@
 title: www.office.com
 description: www.office.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T12:06:18
+date: 2024-02-01T16:06:53
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ www.office.com is the portal for Microsoft 365, offering access to Office apps l
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 12:06:18 |
+| Last Check Timestamp | 2024-02-01 16:06:53 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

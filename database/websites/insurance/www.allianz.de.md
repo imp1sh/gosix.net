@@ -2,7 +2,7 @@
 title: www.allianz.de
 description: www.allianz.de Website IPv6 compatibility
 published: true
-date: 2024-02-01T12:06:22
+date: 2024-02-01T16:07:03
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Allianz.de is the official website of Allianz SE, offering comprehensive insuran
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 12:06:22 |
+| Last Check Timestamp | 2024-02-01 16:07:03 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,20 +42,20 @@ Allianz.de not only epitomizes the corporate ethos of trust and security that Al
 <details>
 <summary>Associated IP addresses</summary>
 
-2600:9000:2490:7e00:19:bc8b:b200:93a1
-
-2600:9000:2490:b800:19:bc8b:b200:93a1
-
-2600:9000:2490:d800:19:bc8b:b200:93a1
-
-2600:9000:2490:3800:19:bc8b:b200:93a1
-
-2600:9000:2490:a400:19:bc8b:b200:93a1
-
-2600:9000:2490:be00:19:bc8b:b200:93a1
-
 2600:9000:2490:4600:19:bc8b:b200:93a1
 
-2600:9000:2490:1200:19:bc8b:b200:93a1
+2600:9000:2490:8e00:19:bc8b:b200:93a1
+
+2600:9000:2490:bc00:19:bc8b:b200:93a1
+
+2600:9000:2490:c200:19:bc8b:b200:93a1
+
+2600:9000:2490:dc00:19:bc8b:b200:93a1
+
+2600:9000:2490:fe00:19:bc8b:b200:93a1
+
+2600:9000:2490:3a00:19:bc8b:b200:93a1
+
+2600:9000:2490:4200:19:bc8b:b200:93a1
 
 </details>

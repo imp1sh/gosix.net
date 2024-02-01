@@ -2,7 +2,7 @@
 title: www.canva.com
 description: www.canva.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T12:06:17
+date: 2024-02-01T16:06:53
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Canva.com, by Canva Pty Ltd, is a graphic design platform that allows users to e
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 12:06:17 |
+| Last Check Timestamp | 2024-02-01 16:06:53 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,8 +40,8 @@ The platform caters to both individuals and businesses, providing free and premi
 <details>
 <summary>Associated IP addresses</summary>
 
-2606:4700::6811:ef9f
-
 2606:4700::6810:e095
+
+2606:4700::6811:ef9f
 
 </details>

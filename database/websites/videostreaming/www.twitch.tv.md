@@ -2,7 +2,7 @@
 title: www.twitch.tv
 description: www.twitch.tv Website IPv6 compatibility
 published: true
-date: 2024-02-01T12:05:28
+date: 2024-02-01T16:06:05
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Twitch.tv by Amazon is a live streaming platform for gamers and creatives to bro
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 12:05:28 |
+| Last Check Timestamp | 2024-02-01 16:06:05 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: IPv6 compatibility database
 description: An IPv6 compatibility database for devices, services, software and IOT. It's basically a list who is to blame for their shitty firmware / software / OS.
 published: true
-date: 2024-01-31T17:09:46.965Z
+date: 2024-02-01T14:51:41.624Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-18T00:43:42.814Z
@@ -47,5 +47,8 @@ Authoritative nameservers are the backbone of the internet. If DNS fails, the in
 
 ## 🧑‍⚖️ Authorities
 We plan to have a list of which authorities are IPv6 ready. While the Czech Republic announed to end IPv4 support in 2032, others have not even heard yet of IPv6.
+
+## :incoming_envelope: Mailservers
+Email is the backbone of our digital communications system. To our surprise many mailservers don't speak IPv6. We plan to deliver you the most comprehensive list of mailservers that do and do NOT speak IPv6. Stay tuned.
 
 

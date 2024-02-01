@@ -2,7 +2,7 @@
 title: Tags
 description: How to use tags on gosix.net
 published: true
-date: 2024-02-01T05:08:53.371Z
+date: 2024-02-01T07:45:28.924Z
 tags: howto, tags
 editor: markdown
 dateCreated: 2024-01-19T19:26:46.544Z
@@ -20,7 +20,7 @@ Currently there are those category tags available:
 - [x] container
 - [x] datacenter
 - [x] device
-- [x] dnsauth (authoritative DNS Servers)
+- [x] authdns (authoritative DNS Servers)
 - [x] game
 - [x] iot
 - [x] isp 

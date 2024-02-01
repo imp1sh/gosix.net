@@ -1,8 +1,8 @@
 ---
 title: IPv6 compatibility database
-description: An IPv6 compatibility database for devices, services, software and IOT. It's basically a list who is to blame for their shitty firmware / software / OS.
+description: An IPv6 compatibility database for devices, games, appliances,  webserver, mailserver, dns servers, software and IOT. It's basically a list who is to blame for their shitty firmware / software / OS.
 published: true
-date: 2024-02-01T14:51:41.624Z
+date: 2024-02-01T14:53:30.991Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-18T00:43:42.814Z

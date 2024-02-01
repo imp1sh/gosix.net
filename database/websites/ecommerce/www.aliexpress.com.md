@@ -2,7 +2,7 @@
 title: www.aliexpress.com
 description: www.aliexpress.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T12:01:37
+date: 2024-02-01T12:05:28
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ AliExpress, by Alibaba Group, is a global e-commerce platform offering a wide ar
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 12:01:37 |
+| Last Check Timestamp | 2024-02-01 12:05:28 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

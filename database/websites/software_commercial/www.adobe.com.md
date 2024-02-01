@@ -2,7 +2,7 @@
 title: www.adobe.com
 description: www.adobe.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T12:02:51
+date: 2024-02-01T12:06:35
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Adobe is a renowned software company, offering a diverse suite of creative tools
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 12:02:51 |
+| Last Check Timestamp | 2024-02-01 12:06:35 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

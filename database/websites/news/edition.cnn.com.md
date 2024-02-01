@@ -2,7 +2,7 @@
 title: edition.cnn.com
 description: edition.cnn.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T12:03:09
+date: 2024-02-01T12:04:38
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ CNN (Cable News Network) is an American news-based pay television channel owned 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 12:03:09 |
+| Last Check Timestamp | 2024-02-01 12:04:38 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

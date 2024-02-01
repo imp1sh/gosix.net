@@ -2,7 +2,7 @@
 title: www.dzbank.de
 description: www.dzbank.de Website IPv6 compatibility
 published: true
-date: 2024-02-01T12:02:33
+date: 2024-02-01T12:06:19
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ DZ BANK AG is a central institution for more than 900 German cooperative banks a
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 12:02:33 |
+| Last Check Timestamp | 2024-02-01 12:06:19 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

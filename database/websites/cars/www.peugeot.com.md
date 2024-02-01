@@ -2,7 +2,7 @@
 title: www.peugeot.com
 description: www.peugeot.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T12:01:44
+date: 2024-02-01T12:05:36
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Peugeot.com is the official website of the Peugeot brand, known for its innovati
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 12:01:44 |
+| Last Check Timestamp | 2024-02-01 12:05:36 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

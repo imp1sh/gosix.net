@@ -2,7 +2,7 @@
 title: www.psbc.com
 description: www.psbc.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T12:02:29
+date: 2024-02-01T12:06:16
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ www.psbc.com is the official website of the Postal Savings Bank of China (PSBC),
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 12:02:29 |
+| Last Check Timestamp | 2024-02-01 12:06:16 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

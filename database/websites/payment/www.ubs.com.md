@@ -2,7 +2,7 @@
 title: www.ubs.com
 description: www.ubs.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T16:07:25
+date: 2024-02-01T20:23:15
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ UBS Group AG operates www.ubs.com, providing financial services including wealth
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 16:07:25 |
+| Last Check Timestamp | 2024-02-01 20:23:15 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ UBS's online presence reflects its status as a leader in the global finance indu
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:193::3995
-
 2a02:26f0:280:192::3995
+
+2a02:26f0:280:193::3995
 
 </details>

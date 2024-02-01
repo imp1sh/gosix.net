@@ -2,7 +2,7 @@
 title: www.amazon.co.uk
 description: www.amazon.co.uk Website IPv6 compatibility
 published: true
-date: 2024-02-01T16:05:44
+date: 2024-02-01T20:21:54
 tags: website, rank1
 editor: markdown
 ---
@@ -21,11 +21,11 @@ www.amazon.co.uk, operated by Amazon.com, Inc., is an expansive online marketpla
 | Category | ecommerce |
 | IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
-| Amount of AAAA records for domain | 2 |
+| Amount of AAAA records for domain | 8 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 16:05:44 |
+| Last Check Timestamp | 2024-02-01 20:21:54 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,8 +40,20 @@ Consumers can take advantage of Amazon Prime, a subscription-based service on Am
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:891::3bd2
+2600:9000:211e:7200:15:c9dc:593:6781
 
-2a02:26f0:3500:881::3bd2
+2600:9000:211e:7400:15:c9dc:593:6781
+
+2600:9000:211e:7600:15:c9dc:593:6781
+
+2600:9000:211e:6600:15:c9dc:593:6781
+
+2600:9000:211e:7a00:15:c9dc:593:6781
+
+2600:9000:211e:3400:15:c9dc:593:6781
+
+2600:9000:211e:9400:15:c9dc:593:6781
+
+2600:9000:211e:9c00:15:c9dc:593:6781
 
 </details>

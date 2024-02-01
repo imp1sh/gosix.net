@@ -2,7 +2,7 @@
 title: weather.com
 description: weather.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T16:07:00
+date: 2024-02-01T20:22:56
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Weather.com, by The Weather Company, provides reliable forecasts, radar maps, an
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 16:07:00 |
+| Last Check Timestamp | 2024-02-01 20:22:56 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ The Weather Company has established itself as a trusted name in weather forecast
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:283::2e03
+2a02:26f0:ab00:4b6::2e03
 
-2a02:26f0:280:29a::2e03
+2a02:26f0:ab00:4b1::2e03
 
 </details>

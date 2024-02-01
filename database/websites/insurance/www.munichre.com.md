@@ -2,7 +2,7 @@
 title: www.munichre.com
 description: www.munichre.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T16:07:36
+date: 2024-02-01T20:23:25
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Munich Re is a leading global reinsurance company providing insurance and risk s
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 16:07:36 |
+| Last Check Timestamp | 2024-02-01 20:23:25 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

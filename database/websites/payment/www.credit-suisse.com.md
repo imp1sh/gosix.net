@@ -2,7 +2,7 @@
 title: www.credit-suisse.com
 description: www.credit-suisse.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T16:07:09
+date: 2024-02-01T20:23:08
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Credit Suisse is a leading global financial services company, offering banking a
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 16:07:09 |
+| Last Check Timestamp | 2024-02-01 20:23:08 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ As one of the most prestigious financial institutions, Credit Suisse is known fo
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:2bc::1bb1
+2a02:26f0:280:18e::1bb1
 
-2a02:26f0:3500:2b4::1bb1
+2a02:26f0:280:193::1bb1
 
 </details>

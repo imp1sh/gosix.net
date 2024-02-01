@@ -2,7 +2,7 @@
 title: geizhals.de
 description: geizhals.de Website IPv6 compatibility
 published: true
-date: 2024-02-01T16:05:24
+date: 2024-02-01T20:21:35
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Geizhals.de by Preisvergleich Internet Services AG is a consumer price compariso
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 16:05:24 |
+| Last Check Timestamp | 2024-02-01 20:21:35 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

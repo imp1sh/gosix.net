@@ -2,7 +2,7 @@
 title: www.natwestgroup.com
 description: www.natwestgroup.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T16:07:12
+date: 2024-02-01T20:23:11
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ NatWest Group plc is a leading banking and financial services company, offering 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 16:07:12 |
+| Last Check Timestamp | 2024-02-01 20:23:11 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ NatWest Group's website is a robust resource for customers seeking financial pro
 <details>
 <summary>Associated IP addresses</summary>
 
-2620:1ec:46::45
-
 2620:1ec:bdf::45
+
+2620:1ec:46::45
 
 </details>

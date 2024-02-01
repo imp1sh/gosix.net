@@ -2,7 +2,7 @@
 title: www.deutsche-glasfaser.de
 description: www.deutsche-glasfaser.de Website IPv6 compatibility
 published: true
-date: 2024-02-01T16:07:24
+date: 2024-02-01T20:23:13
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Deutsche Glasfaser is a German telecommunications company specializing in provid
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 16:07:24 |
+| Last Check Timestamp | 2024-02-01 20:23:13 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

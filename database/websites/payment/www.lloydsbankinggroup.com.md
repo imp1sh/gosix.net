@@ -2,7 +2,7 @@
 title: www.lloydsbankinggroup.com
 description: www.lloydsbankinggroup.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T16:07:36
+date: 2024-02-01T20:21:32
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Lloyds Banking Group plc operates www.lloydsbankinggroup.com, providing financia
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 16:07:36 |
+| Last Check Timestamp | 2024-02-01 20:21:32 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

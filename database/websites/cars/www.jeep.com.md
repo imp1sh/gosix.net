@@ -2,7 +2,7 @@
 title: www.jeep.com
 description: www.jeep.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T16:06:06
+date: 2024-02-01T20:22:13
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ www.jeep.com is the official website for the Jeep brand, owned by Stellantis N.V
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 16:06:06 |
+| Last Check Timestamp | 2024-02-01 20:22:13 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ Additionally, Jeep.com offers support resources for existing customers, such as 
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:1b::1724:a398
+2a02:26f0:280:9::213:7a21
 
-2a02:26f0:3500:1b::1724:a38c
+2a02:26f0:280:9::213:7a3c
 
 </details>

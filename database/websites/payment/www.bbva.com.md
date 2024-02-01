@@ -2,7 +2,7 @@
 title: www.bbva.com
 description: www.bbva.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T16:07:07
+date: 2024-02-01T20:21:11
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ BBVA.com is the official website of Banco Bilbao Vizcaya Argentaria, S.A. (BBVA)
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 16:07:07 |
+| Last Check Timestamp | 2024-02-01 20:21:11 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: mercedes-benz.de
 description: mercedes-benz.de Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:22:17
+date: 2024-02-01T20:38:49
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Mercedes-Benz.de, by Daimler AG, is the official site for Mercedes-Benz in Germa
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 20:22:17 |
+| Last Check Timestamp | 2024-02-01 20:38:49 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

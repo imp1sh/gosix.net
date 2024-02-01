@@ -2,7 +2,7 @@
 title: www.hetzner.com
 description: www.hetzner.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:23:13
+date: 2024-02-01T20:39:38
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Hetzner Online GmbH offers web hosting services, dedicated servers, and cloud so
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 20:23:13 |
+| Last Check Timestamp | 2024-02-01 20:39:38 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

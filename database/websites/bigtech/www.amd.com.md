@@ -2,7 +2,7 @@
 title: www.amd.com
 description: www.amd.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:23:08
+date: 2024-02-01T20:39:22
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Advanced Micro Devices, Inc. (AMD) is a leading semiconductor company that desig
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 20:23:08 |
+| Last Check Timestamp | 2024-02-01 20:39:22 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: twitter.com
 description: twitter.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:21:21
+date: 2024-02-01T20:37:40
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Twitter.com is a social networking service by Twitter, Inc. where users post and
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 20:21:21 |
+| Last Check Timestamp | 2024-02-01 20:37:40 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

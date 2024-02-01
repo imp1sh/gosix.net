@@ -2,7 +2,7 @@
 title: github.com
 description: github.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:21:33
+date: 2024-02-01T20:38:20
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ GitHub is a web-based platform for version control and collaboration. It allows 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 20:21:33 |
+| Last Check Timestamp | 2024-02-01 20:38:20 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: www.caixabank.com
 description: www.caixabank.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:23:15
+date: 2024-02-01T20:37:41
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ CaixaBank.com is the official website of CaixaBank, a leading financial institut
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 20:23:15 |
+| Last Check Timestamp | 2024-02-01 20:37:41 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ CaixaBank's digital approach extends beyond conventional banking practices, offe
 <details>
 <summary>Associated IP addresses</summary>
 
-2606:4700:4400::6812:2060
-
 2606:4700:4400::ac40:9ba0
+
+2606:4700:4400::6812:2060
 
 </details>

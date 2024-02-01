@@ -2,7 +2,7 @@
 title: www.rbc.com
 description: www.rbc.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:22:56
+date: 2024-02-01T20:39:11
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ www.rbc.com is the official website of the Royal Bank of Canada, offering online
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 20:22:56 |
+| Last Check Timestamp | 2024-02-01 20:39:11 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

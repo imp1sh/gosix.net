@@ -2,7 +2,7 @@
 title: www.hsbc.com
 description: www.hsbc.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:22:24
+date: 2024-02-01T20:38:21
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ www.hsbc.com is the official website of HSBC Holdings plc, a global banking and 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 20:22:24 |
+| Last Check Timestamp | 2024-02-01 20:38:21 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ Please note that the above description is based on general information about HSB
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:1b::1724:a38b
-
 2a02:26f0:3500:1b::1724:a389
+
+2a02:26f0:3500:1b::1724:a38b
 
 </details>

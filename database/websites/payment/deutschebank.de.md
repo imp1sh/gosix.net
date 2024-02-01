@@ -2,7 +2,7 @@
 title: deutschebank.de
 description: deutschebank.de Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:22:44
+date: 2024-02-01T20:38:25
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Deutschebank.de is the official website of Deutsche Bank AG, providing banking s
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 20:22:44 |
+| Last Check Timestamp | 2024-02-01 20:38:25 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

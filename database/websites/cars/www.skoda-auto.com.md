@@ -2,7 +2,7 @@
 title: www.skoda-auto.com
 description: www.skoda-auto.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:22:59
+date: 2024-02-01T20:39:15
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ editor: markdown
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 20:22:59 |
+| Last Check Timestamp | 2024-02-01 20:39:15 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: www.msn.com
 description: www.msn.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:47:26
+date: 2024-02-01T12:03:10
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ MSN.com is a web portal and online service offering news, entertainment, sports,
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:47:26 |
+| Last Check Timestamp | 2024-02-01 12:03:10 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

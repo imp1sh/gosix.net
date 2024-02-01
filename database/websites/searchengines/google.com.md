@@ -2,8 +2,8 @@
 title: google.com
 description: google.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:47:26
-tags: website, rank3
+date: 2024-02-01T12:03:10
+tags: website, rank1
 editor: markdown
 ---
 
@@ -19,13 +19,13 @@ Google.com, owned by Alphabet Inc., is the world's leading search engine known f
 | - | - |
 | Domainname | google.com
 | Category | searchengines |
-| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 21:47:26 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-02-01 12:03:10 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,6 +42,6 @@ Alphabet Inc., established in 2015, serves as the parent holding company of Goog
 <details>
 <summary>Associated IP addresses</summary>
 
-2a00:1450:4001:82b::200e
+2a00:1450:4001:802::200e
 
 </details>

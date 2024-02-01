@@ -2,8 +2,8 @@
 title: www.peugeot.com
 description: www.peugeot.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:46:06
-tags: website, rank3
+date: 2024-02-01T12:01:44
+tags: website, rank1
 editor: markdown
 ---
 
@@ -19,13 +19,13 @@ Peugeot.com is the official website of the Peugeot brand, known for its innovati
 | - | - |
 | Domainname | www.peugeot.com
 | Category | cars |
-| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 21:46:06 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-02-01 12:01:44 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ The website reflects Peugeot’s commitment to modernity and innovation, showcas
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:18::1724:a28c
+2a02:26f0:280:5::213:7811
 
-2a02:26f0:3500:18::1724:a28a
+2a02:26f0:280:5::213:780b
 
 </details>

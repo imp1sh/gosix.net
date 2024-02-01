@@ -2,7 +2,7 @@
 title: www.citigroup.com
 description: www.citigroup.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:47:00
+date: 2024-02-01T12:02:29
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Citigroup Inc.'s www.citigroup.com is the official website providing information
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:47:00 |
+| Last Check Timestamp | 2024-02-01 12:02:29 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

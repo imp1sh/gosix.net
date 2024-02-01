@@ -2,8 +2,8 @@
 title: www.facebook.com
 description: www.facebook.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:47:41
-tags: website, rank3
+date: 2024-02-01T12:02:52
+tags: website, rank1
 editor: markdown
 ---
 
@@ -19,13 +19,13 @@ Facebook by Meta Platforms is a social networking site that allows users to conn
 | - | - |
 | Domainname | www.facebook.com
 | Category | social |
-| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 21:47:41 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-02-01 12:02:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

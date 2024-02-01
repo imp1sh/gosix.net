@@ -2,7 +2,7 @@
 title: www.complete.de
 description: www.complete.de Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:45:33
+date: 2024-02-01T12:01:15
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ complete is a local ISP who mainly offers radio and directional radio interconne
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-01-31 21:45:33 |
+| Last Check Timestamp | 2024-02-01 12:01:15 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

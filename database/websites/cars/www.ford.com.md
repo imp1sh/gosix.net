@@ -2,7 +2,7 @@
 title: www.ford.com
 description: www.ford.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:45:44
+date: 2024-02-01T12:01:26
 tags: website, rank3
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Ford Motor Company's official website, www.ford.com, offers comprehensive inform
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 21:45:44 |
+| Last Check Timestamp | 2024-02-01 12:01:26 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,8 +40,8 @@ At www.ford.com, consumers can explore Ford's current lineup, which reflects the
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:4a6::1075
+2a02:26f0:3500:581::1075
 
-2a02:26f0:280:48b::1075
+2a02:26f0:3500:59a::1075
 
 </details>

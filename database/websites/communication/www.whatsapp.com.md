@@ -2,8 +2,8 @@
 title: www.whatsapp.com
 description: www.whatsapp.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:47:39
-tags: website, rank3
+date: 2024-02-01T12:02:51
+tags: website, rank1
 editor: markdown
 ---
 
@@ -19,13 +19,13 @@ WhatsApp by Meta is a messaging app enabling users to send text, voice messages,
 | - | - |
 | Domainname | www.whatsapp.com
 | Category | communication |
-| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 21:47:39 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-02-01 12:02:51 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,6 +42,6 @@ Meta Platforms, Inc., formerly known as Facebook, Inc., acquired WhatsApp in 201
 <details>
 <summary>Associated IP addresses</summary>
 
-2a03:2880:f277:1cd:face:b00c:0:167
+2a03:2880:f276:cd:face:b00c:0:167
 
 </details>

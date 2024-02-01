@@ -2,8 +2,8 @@
 title: www.sap.com
 description: www.sap.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:46:36
-tags: website, rank3
+date: 2024-02-01T12:02:03
+tags: website, rank1
 editor: markdown
 ---
 
@@ -19,13 +19,13 @@ SAP SE's official website, www.sap.com, offers insights into its enterprise soft
 | - | - |
 | Domainname | www.sap.com
 | Category | bigtech |
-| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 21:46:36 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-02-01 12:02:03 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,7 +42,7 @@ Moreover, www.sap.com is more than just a catalog of products. It's a resource h
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:184::1e22
+2a02:26f0:280:18a::1e22
 
 2a02:26f0:280:195::1e22
 

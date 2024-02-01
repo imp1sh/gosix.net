@@ -2,8 +2,8 @@
 title: www.intel.com
 description: www.intel.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:47:27
-tags: website, rank3
+date: 2024-02-01T12:02:50
+tags: website, rank1
 editor: markdown
 ---
 
@@ -19,13 +19,13 @@ Intel Corporation's official website, www.intel.com, offers information on their
 | - | - |
 | Domainname | www.intel.com
 | Category | bigtech |
-| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 21:47:27 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-02-01 12:02:50 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,8 +40,8 @@ By visiting www.intel.com, one can access a wealth of information about Intel's 
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:180::1ea2
+2a02:26f0:3500:885::1ea2
 
-2a02:26f0:280:191::1ea2
+2a02:26f0:3500:88e::1ea2
 
 </details>

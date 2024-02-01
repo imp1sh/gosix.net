@@ -2,7 +2,7 @@
 title: www.mazda.com
 description: www.mazda.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:46:56
+date: 2024-02-01T12:02:24
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ www.mazda.com is the official site for Mazda Motor Corp, featuring info on vehic
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-01-31 21:46:56 |
+| Last Check Timestamp | 2024-02-01 12:02:24 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ Interactive elements, such as car configurators and dealership locators, enhance
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:2b0::4222
+2a02:26f0:280:19c::4222
 
-2a02:26f0:3500:2b3::4222
+2a02:26f0:280:19b::4222
 
 </details>

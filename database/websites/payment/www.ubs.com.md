@@ -2,8 +2,8 @@
 title: www.ubs.com
 description: www.ubs.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:47:41
-tags: website, rank3
+date: 2024-02-01T12:02:52
+tags: website, rank1
 editor: markdown
 ---
 
@@ -19,13 +19,13 @@ UBS Group AG operates www.ubs.com, providing financial services including wealth
 | - | - |
 | Domainname | www.ubs.com
 | Category | payment |
-| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 21:47:41 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-02-01 12:02:52 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ UBS's online presence reflects its status as a leader in the global finance indu
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:882::3995
+2a02:26f0:280:193::3995
 
-2a02:26f0:3500:88a::3995
+2a02:26f0:280:192::3995
 
 </details>

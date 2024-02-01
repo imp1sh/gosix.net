@@ -2,8 +2,8 @@
 title: weather.com
 description: weather.com Website IPv6 compatibility
 published: true
-date: 2024-01-31T21:47:11
-tags: website, rank3
+date: 2024-02-01T12:02:32
+tags: website, rank1
 editor: markdown
 ---
 
@@ -19,13 +19,13 @@ Weather.com, by The Weather Company, provides reliable forecasts, radar maps, an
 | - | - |
 | Domainname | weather.com
 | Category | news |
-| IPv6 ranking | not bad :3rd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to ping and only supports either http or https. |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-01-31 21:47:11 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-02-01 12:02:32 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ The Weather Company has established itself as a trusted name in weather forecast
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:88b::2e03
+2a02:26f0:280:283::2e03
 
-2a02:26f0:3500:891::2e03
+2a02:26f0:280:29a::2e03
 
 </details>

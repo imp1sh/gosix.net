@@ -13,7 +13,7 @@ dateCreated: 2024-01-18T00:43:42.814Z
 
 **Welcome to the **gosix.net** #IPv6 compatibility database.**
 Here we blame those who fail at implementing IPv6 but we also document products with good IPv6 support.
-gosix.net IPv6 compatibility database is a database that registers the IPv6 compatibility status for: bla
+gosix.net IPv6 compatibility database is a database that registers the IPv6 compatibility status for:
 
 ## :computer: Devices
 This is about devices that have a network port or WiFi and don't run a classic computer OS but rather a firmware. 

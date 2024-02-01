@@ -2,7 +2,7 @@
 title: Permissions
 description: What permissions are there and how to get them
 published: true
-date: 2024-01-19T18:58:04.227Z
+date: 2024-02-01T05:32:23.063Z
 tags: howto, permissions
 editor: markdown
 dateCreated: 2024-01-18T18:21:26.228Z
@@ -20,7 +20,7 @@ When a new user registers they automatically become a member of the `New Users` 
 | |
 
 ## Contributors
-A contributor can add / edit content. If you would like to become a contributor, please ask [Jochen](/users/JochenDemmer).
+A contributor can add / edit content. If you would like to become a contributor, please ask in our [chat](/howto/chat).
 
 | List |
 | - |

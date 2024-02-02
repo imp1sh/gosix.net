@@ -1,8 +1,8 @@
 ---
-title: Test criteria authdns
+title: Test Criteria authdns
 description: This howto defines how authoritative Nameservers will be ranked
 published: true
-date: 2024-02-02T22:45:49.016Z
+date: 2024-02-02T22:46:11.070Z
 tags: howto, criteria, authdns
 editor: markdown
 dateCreated: 2024-02-02T22:45:49.016Z

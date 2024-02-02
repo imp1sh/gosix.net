@@ -2,7 +2,7 @@
 title: Test Criteria authdns
 description: This howto defines how authoritative Nameservers will be ranked
 published: true
-date: 2024-02-02T22:59:28.772Z
+date: 2024-02-02T23:06:50.554Z
 tags: howto, criteria, authdns
 editor: markdown
 dateCreated: 2024-02-02T22:45:49.016Z
@@ -20,7 +20,7 @@ At first we check if a nameserver has an IPv6 address (AAAA). Further tests are 
 | - | - | - | - | 
 | rank1 | :radio_button:| :radio_button: 100% | :radio_button: 100%  | 
 | rank2 | :radio_button: | :radio_button: 50%+ | :radio_button: 100% |
-| rank3 | :radio_button: | :radio_button: 33%+ | :radio_button: 50%+ |
-| rank4 | :radio_button: | :white_circle: | :radio_button: 50%+ |
-| rank5 | :radio_button: | :white_circle: | :radio_button: 33%+ | 
+| rank3 | :radio_button: | :radio_button: 33-50% | :radio_button: 75%+ |
+| rank4 | :radio_button: | :white_circle: | :radio_button: 50-75% |
+| rank5 | :radio_button: | :white_circle: | :radio_button: 33-50% | 
 | rank6 | :white_circle: | :white_circle: | :white_circle: |

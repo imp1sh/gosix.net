@@ -2,7 +2,7 @@
 title: www.bbc.co.uk
 description: www.bbc.co.uk Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:39:26
+date: 2024-02-02T14:40:53
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ BBC.co.uk is the official website for the British Broadcasting Corporation, offe
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 20:39:26 |
+| Last Check Timestamp | 2024-02-02 15:40:53+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

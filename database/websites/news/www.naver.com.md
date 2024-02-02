@@ -2,7 +2,7 @@
 title: www.naver.com
 description: www.naver.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:39:11
+date: 2024-02-02T14:42:22
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Naver.com, by Naver Corporation, is a popular South Korean online platform that 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 20:39:11 |
+| Last Check Timestamp | 2024-02-02 15:42:22+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

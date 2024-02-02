@@ -2,7 +2,7 @@
 title: www.cisco.com
 description: www.cisco.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:38:19
+date: 2024-02-02T14:41:51
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ www.cisco.com is Cisco Systems' official website, offering a comprehensive range
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 20:38:19 |
+| Last Check Timestamp | 2024-02-02 15:41:51+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ Through intuitive navigation and detailed product information, site visitors can
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:18c::b33
-
 2a02:26f0:280:18e::b33
+
+2a02:26f0:280:18c::b33
 
 </details>

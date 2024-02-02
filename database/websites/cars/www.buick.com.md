@@ -2,7 +2,7 @@
 title: www.buick.com
 description: www.buick.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:38:21
+date: 2024-02-02T14:41:13
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Buick.com is the official website of the Buick brand, offering information on lu
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 20:38:21 |
+| Last Check Timestamp | 2024-02-02 15:41:13+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: kia.com
 description: kia.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:38:21
+date: 2024-02-02T14:40:32
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Kia.com is the official website for Kia Corporation, an automotive company known
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-01 20:38:21 |
+| Last Check Timestamp | 2024-02-02 15:40:32+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

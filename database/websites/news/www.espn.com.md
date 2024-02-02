@@ -2,7 +2,7 @@
 title: www.espn.com
 description: www.espn.com Website IPv6 compatibility
 published: true
-date: 2024-02-01T20:39:15
+date: 2024-02-02T14:41:59
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ ESPN.com is the online platform for ESPN, offering sports news, scores, and comm
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-01 20:39:15 |
+| Last Check Timestamp | 2024-02-02 15:41:59+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,20 +42,20 @@ Incorporating cutting-edge technology and multimedia elements such as video high
 <details>
 <summary>Associated IP addresses</summary>
 
-2600:9000:2077:8a00:e:fe33:5580:93a1
+2600:9000:2077:ba00:e:fe33:5580:93a1
 
-2600:9000:2077:8400:e:fe33:5580:93a1
-
-2600:9000:2077:2000:e:fe33:5580:93a1
-
-2600:9000:2077:4800:e:fe33:5580:93a1
-
-2600:9000:2077:7400:e:fe33:5580:93a1
-
-2600:9000:2077:7800:e:fe33:5580:93a1
+2600:9000:2077:1a00:e:fe33:5580:93a1
 
 2600:9000:2077:3a00:e:fe33:5580:93a1
 
-2600:9000:2077:e000:e:fe33:5580:93a1
+2600:9000:2077:7000:e:fe33:5580:93a1
+
+2600:9000:2077:8200:e:fe33:5580:93a1
+
+2600:9000:2077:8400:e:fe33:5580:93a1
+
+2600:9000:2077:a000:e:fe33:5580:93a1
+
+2600:9000:2077:ac00:e:fe33:5580:93a1
 
 </details>

@@ -2,7 +2,7 @@
 title: Commit Website
 description: Here you can add website data you wish to be integrated into the automatic website test
 published: true
-date: 2024-02-03T12:00:48.459Z
+date: 2024-02-03T12:02:56.052Z
 tags: website, commit
 editor: markdown
 dateCreated: 2024-02-03T12:00:24.323Z
@@ -19,6 +19,7 @@ Here you can add websites to the automatic website IPv6 compatibility test. The 
 - Do not give the protocol (http:// or https://) 
 - Do not include a subdir.  <strike>www.heise.de/news</strike>
 - Use the fqdn that the website actually runs on. Example: when you browse sap.com you will be redirected to www.sap.com. Use www.sap.com then.
+- Multiple fqdn referring to the same institue is ok. Example: de.wikipedia.org / en.wikipedia.org
 ## Institute (optional)
 If know who is behind the website please give the Institute's name.
 ## Short Description (optional)

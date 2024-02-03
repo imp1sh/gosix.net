@@ -2,7 +2,7 @@
 title: Commit Website
 description: Here you can add website data you wish to be integrated into the automatic website test
 published: true
-date: 2024-02-03T12:00:24.323Z
+date: 2024-02-03T12:00:48.459Z
 tags: website, commit
 editor: markdown
 dateCreated: 2024-02-03T12:00:24.323Z
@@ -25,6 +25,7 @@ If know who is behind the website please give the Institute's name.
 If possible please give a short description what the website / the institute is all about. Use up to 256 characters.
 
 
+## Enter website data here!
 | Website Name | Institute | Short description |
 | - | - | - |
 

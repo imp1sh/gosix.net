@@ -2,7 +2,7 @@
 title: www.disneyplus.com
 description: www.disneyplus.com Website IPv6 compatibility
 published: true
-date: 2024-02-04T17:40:05
+date: 2024-02-04T21:00:26
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ DisneyPlus.com by The Walt Disney Company is a streaming service offering movies
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-04 18:40:05+01:00 |
+| Last Check Timestamp | 2024-02-04 22:00:26+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ Disney+ boasts a user-friendly interface that allows subscribers to browse conte
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:195::37a5
-
 2a02:26f0:280:185::37a5
+
+2a02:26f0:280:195::37a5
 
 </details>

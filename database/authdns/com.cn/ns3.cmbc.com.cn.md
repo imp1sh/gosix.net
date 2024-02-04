@@ -33,6 +33,13 @@ To see how this test was performed, please have a look at [our website test crit
 
 
 
+<details>
+<summary>Nameserver's IP addresses</summary>
+
+240e:83:9002:15::a400:1
+
+</details>
+
 
 
 <details>

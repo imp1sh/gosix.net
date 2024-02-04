@@ -2,7 +2,7 @@
 title: group.mercedes-benz.com
 description: group.mercedes-benz.com Website IPv6 compatibility
 published: true
-date: 2024-02-04T17:38:25
+date: 2024-02-04T20:59:00
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Group.mercedes-benz.com is Daimler AG's official website, showcasing its luxury 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-04 18:38:25+01:00 |
+| Last Check Timestamp | 2024-02-04 21:59:00+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ Mercedes-Benz Group AG prioritizes corporate responsibility, detailed on its web
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:5::213:780a
+2a02:26f0:e300::211:93b0
 
-2a02:26f0:280:5::213:781f
+2a02:26f0:e300::211:93d9
 
 </details>

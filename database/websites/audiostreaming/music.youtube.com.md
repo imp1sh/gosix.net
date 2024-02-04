@@ -2,7 +2,7 @@
 title: music.youtube.com
 description: music.youtube.com Website IPv6 compatibility
 published: true
-date: 2024-02-04T17:38:28
+date: 2024-02-04T20:59:04
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Music.youtube.com, by Google LLC, is a streaming service offering a vast library
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-04 18:38:28+01:00 |
+| Last Check Timestamp | 2024-02-04 21:59:04+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -44,7 +44,7 @@ One of the notable features of YouTube Music is its integration with the broader
 
 2a00:1450:4001:812::200e
 
-2a00:1450:4001:80f::200e
+2a00:1450:4001:813::200e
 
 2a00:1450:4001:810::200e
 

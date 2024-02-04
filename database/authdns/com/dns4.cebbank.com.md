@@ -19,7 +19,7 @@ editor: markdown
 | - | - |
 | Nameserver DNS name | dns4.cebbank.com.
 | Amount IPv6 address | 1
-| IPv6 ranking | very good 2nd_place_medal: [🔗](/howto/ranking) |
+| IPv6 ranking | very good :2nd_place_medal: [🔗](/howto/ranking) |
 | Explanation | The nameserver has an AAAA record and responds well to ICMPv6 as well as DNS queries. |
 | ICMPv6 success rate | 0%|
 | DNS query success rate | 100% |

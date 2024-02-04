@@ -2,7 +2,7 @@
 title: www.ergo.de
 description: www.ergo.de Website IPv6 compatibility
 published: true
-date: 2024-02-04T17:40:06
+date: 2024-02-04T21:00:26
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ ERGO Direkt AG is one of the leading insurance companies in Germany. The company
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-04 18:40:06+01:00 |
+| Last Check Timestamp | 2024-02-04 22:00:26+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

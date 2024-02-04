@@ -19,7 +19,7 @@ editor: markdown
 | - | - |
 | Nameserver DNS name | ken.ns.cloudflare.com.
 | Amount IPv6 address | 3
-| IPv6 ranking | perfect 1st_place_medal: [🔗](/howto/ranking) |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
 | Explanation | The nameserver has an AAAA record and responds perfectly to ICMPv6 as well as DNS requests. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 100% |
@@ -36,11 +36,11 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Nameserver's IP addresses</summary>
 
+2a06:98c1:50::ac40:217f
+
 2606:4700:58::adf5:3b7f
 
 2803:f800:50::6ca2:c17f
-
-2a06:98c1:50::ac40:217f
 
 </details>
 

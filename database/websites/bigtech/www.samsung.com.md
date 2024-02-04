@@ -2,7 +2,7 @@
 title: www.samsung.com
 description: www.samsung.com Website IPv6 compatibility
 published: true
-date: 2024-02-04T17:40:55
+date: 2024-02-04T21:01:15
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Samsung.com is the official website of Samsung Electronics Co., Ltd., showcasing
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-04 18:40:55+01:00 |
+| Last Check Timestamp | 2024-02-04 22:01:15+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

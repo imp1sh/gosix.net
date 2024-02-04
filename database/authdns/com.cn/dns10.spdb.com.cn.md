@@ -19,7 +19,7 @@ editor: markdown
 | - | - |
 | Nameserver DNS name | dns10.spdb.com.cn.
 | Amount IPv6 address | 1
-| IPv6 ranking | very good 2nd_place_medal: [🔗](/howto/ranking) |
+| IPv6 ranking | very good :2nd_place_medal: [🔗](/howto/ranking) |
 | Explanation | The nameserver has an AAAA record and responds well to ICMPv6 as well as DNS queries. |
 | ICMPv6 success rate | 0%|
 | DNS query success rate | 100% |
@@ -32,6 +32,13 @@ To see how this test was performed, please have a look at [our website test crit
 
 
 
+
+<details>
+<summary>Nameserver's IP addresses</summary>
+
+2405:3140:11:51fe::c2
+
+</details>
 
 
 

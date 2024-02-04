@@ -33,6 +33,13 @@ To see how this test was performed, please have a look at [our website test crit
 
 
 
+<details>
+<summary>Nameserver's IP addresses</summary>
+
+2620:4d:4000:6259:7:9:0:3
+
+</details>
+
 
 
 <details>
@@ -41,5 +48,7 @@ To see how this test was performed, please have a look at [our website test crit
 www.linkedin.com
 
 www.fiat.com
+
+www.disneyplus.com
 
 </details>

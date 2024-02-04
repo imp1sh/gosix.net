@@ -33,6 +33,13 @@ To see how this test was performed, please have a look at [our website test crit
 
 
 
+<details>
+<summary>Nameserver's IP addresses</summary>
+
+2001:502:4612::201
+
+</details>
+
 
 
 <details>

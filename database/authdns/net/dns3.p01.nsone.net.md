@@ -38,6 +38,8 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Associated domain names</summary>
 
+www.bundesregierung.de
+
 www.intuit.com
 
 </details>

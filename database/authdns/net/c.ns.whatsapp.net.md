@@ -33,13 +33,6 @@ To see how this test was performed, please have a look at [our website test crit
 
 
 
-<details>
-<summary>Nameserver's IP addresses</summary>
-
-2a03:2880:f1fc:c:face:b00c:0:35
-
-</details>
-
 
 
 <details>

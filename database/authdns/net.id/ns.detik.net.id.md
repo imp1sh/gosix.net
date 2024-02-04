@@ -33,15 +33,6 @@ To see how this test was performed, please have a look at [our website test crit
 
 
 
-<details>
-<summary>Nameserver's IP addresses</summary>
-
-2402:a000:3fff:fffe:de7:1c:244:91
-
-2402:a000:ffff::95
-
-</details>
-
 
 
 <details>

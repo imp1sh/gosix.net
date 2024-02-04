@@ -40,4 +40,6 @@ To see how this test was performed, please have a look at [our website test crit
 
 duckduckgo.com
 
+www.pandora.com
+
 </details>

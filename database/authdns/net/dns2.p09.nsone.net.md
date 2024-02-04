@@ -33,6 +33,13 @@ To see how this test was performed, please have a look at [our website test crit
 
 
 
+<details>
+<summary>Nameserver's IP addresses</summary>
+
+2a00:edc0:6259:7:9::2
+
+</details>
+
 
 
 <details>
@@ -45,5 +52,7 @@ www.linkedin.com
 www.nvidia.com
 
 www.fiat.com
+
+www.disneyplus.com
 
 </details>

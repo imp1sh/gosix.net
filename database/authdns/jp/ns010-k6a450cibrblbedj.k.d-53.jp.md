@@ -36,11 +36,11 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Nameserver's IP addresses</summary>
 
-2400:cb00:2049:1::a29f:1b11
+2400:cb00:2049:1::a29f:1af9
 
 2001:240:bb81::29:1101
 
-2400:cb00:2049:1::a29f:1af9
+2400:cb00:2049:1::a29f:1b11
 
 </details>
 

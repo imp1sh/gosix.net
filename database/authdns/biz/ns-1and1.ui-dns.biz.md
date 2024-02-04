@@ -36,9 +36,9 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Nameserver's IP addresses</summary>
 
-2001:8d8:fe:53:0:d9a0:51c8:100
-
 2607:f1c0:fe:53:185:132:33:200
+
+2001:8d8:fe:53:0:d9a0:51c8:100
 
 </details>
 

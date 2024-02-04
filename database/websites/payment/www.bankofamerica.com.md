@@ -9,7 +9,7 @@ editor: markdown
 
 # www.bankofamerica.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 www.bankofamerica.com is the official website of Bank of America, offering online banking services, account management, loan, and financial products.

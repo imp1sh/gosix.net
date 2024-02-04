@@ -9,7 +9,7 @@ editor: markdown
 
 # www.whatsapp.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 WhatsApp by Meta is a messaging app enabling users to send text, voice messages, make video calls, and share files globally. Secure and reliable, it offers end-to-end encryption.

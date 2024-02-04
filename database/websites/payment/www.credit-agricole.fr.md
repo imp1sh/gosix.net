@@ -9,7 +9,7 @@ editor: markdown
 
 # www.credit-agricole.fr Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Crédit Agricole's official website, www.credit-agricole.fr, offers banking services, loans, insurance options, and investment advice for individual and corporate clients.

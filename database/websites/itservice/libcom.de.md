@@ -9,7 +9,7 @@ editor: markdown
 
 # libcom.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Libcom.de is a small company owned by Jochen Demmer offering professional IT services around OpenSource and DevOps

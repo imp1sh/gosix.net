@@ -9,7 +9,7 @@ editor: markdown
 
 # twitter.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Twitter.com is a social networking service by Twitter, Inc. where users post and interact with messages called "tweets." It's a platform for real-time news and conversation.

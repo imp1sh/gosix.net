@@ -9,7 +9,7 @@ editor: markdown
 
 # playanoedu.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Playano Education Limited was originally founded in 2017 with the mission to visualize challenging Piano notes through the use of technology.  Playano is a virtual assistant for anyone who would like to learn how to play the Piano.

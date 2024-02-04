@@ -9,7 +9,7 @@ editor: markdown
 
 # deezer.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Deezer is a popular music streaming service, offering a vast catalog of songs, playlists, and podcasts. Users can explore, discover, and enjoy music across genres, creating personalized listening experiences.

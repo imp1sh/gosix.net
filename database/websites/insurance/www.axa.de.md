@@ -9,7 +9,7 @@ editor: markdown
 
 # www.axa.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 AXA Deutschland is a branch of AXA Group, a global insurance and asset management firm. They offer a wide range of insurance products and services including health, life, property, and casualty insurance, tailored to individual and corporate clients.

@@ -9,7 +9,7 @@ editor: markdown
 
 # tesla.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Tesla, Inc. is an American electric vehicle and clean energy company renowned for its innovative electric cars, solar panels, and energy storage solutions.

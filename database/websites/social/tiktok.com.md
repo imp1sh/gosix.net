@@ -9,7 +9,7 @@ editor: markdown
 
 # tiktok.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 TikTok, owned by ByteDance, is a social network for creating, sharing, and discovering short music videos, driving viral content and engaging a young audience globally.

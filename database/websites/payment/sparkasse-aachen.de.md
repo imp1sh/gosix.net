@@ -9,7 +9,7 @@ editor: markdown
 
 # sparkasse-aachen.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Sparkasse Aachen is a German savings bank offering comprehensive financial services including accounts, loans, investments, and online banking for individuals and businesses.

@@ -9,7 +9,7 @@ editor: markdown
 
 # www.bol.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 "www.bol.de is Thalia Bücher GmbH's online store, offering a wide selection of books, eBooks, and audiobooks across various genres to book enthusiasts in Germany."

@@ -9,7 +9,7 @@ editor: markdown
 
 # bmw.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 BMW.de is the official website for Bayerische Motoren Werke AG (BMW), a German multinational company known for producing luxurious automobiles, motorcycles, and engines.

@@ -9,7 +9,7 @@ editor: markdown
 
 # store.steampowered.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Store.steampowered.com is Valve Corporation's extensive digital distribution platform, offering a vast array of video games, software, and community features for gamers.

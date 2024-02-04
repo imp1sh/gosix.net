@@ -9,7 +9,7 @@ editor: markdown
 
 # www.debeka.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Debeka (www.debeka.de) is a German financial services company, offering insurance, savings, investment products, and home loan savings for individuals and businesses.

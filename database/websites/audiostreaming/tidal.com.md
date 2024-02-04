@@ -9,7 +9,7 @@ editor: markdown
 
 # tidal.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Tidal by Aspiro AB is a subscription-based music streaming service known for high-fidelity sound quality, high-resolution videos, and exclusive content from top artists.

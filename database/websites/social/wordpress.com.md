@@ -9,7 +9,7 @@ editor: markdown
 
 # wordpress.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 WordPress.com is a user-friendly website creation platform offering hosting, themes, and tools to build blogs and sites, run by Automattic Inc.

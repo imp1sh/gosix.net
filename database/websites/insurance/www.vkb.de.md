@@ -2,7 +2,7 @@
 title: www.vkb.de
 description: www.vkb.de Website IPv6 compatibility
 published: true
-date: 2024-02-04T17:29:02
+date: 2024-02-04T17:41:09
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ As of my last update in April 2023, I don't have internet access to provide real
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-04 18:29:02+01:00 |
+| Last Check Timestamp | 2024-02-04 18:41:09+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

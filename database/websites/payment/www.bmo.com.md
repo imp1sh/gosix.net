@@ -2,7 +2,7 @@
 title: www.bmo.com
 description: www.bmo.com Website IPv6 compatibility
 published: true
-date: 2024-02-04T17:29:05
+date: 2024-02-04T17:38:58
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ www.bmo.com is the official website of the Bank of Montreal (BMO), offering onli
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-04 18:29:05+01:00 |
+| Last Check Timestamp | 2024-02-04 18:38:58+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

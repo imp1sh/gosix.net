@@ -2,7 +2,7 @@
 title: curiositystream.com
 description: curiositystream.com Website IPv6 compatibility
 published: true
-date: 2024-02-04T17:28:38
+date: 2024-02-04T17:38:06
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ CuriosityStream.com, by CuriosityStream LLC, is a subscription-based streaming p
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-04 18:28:38+01:00 |
+| Last Check Timestamp | 2024-02-04 18:38:06+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,20 +42,20 @@ The appeal of CuriosityStream lies in its mission to entertain and enlighten its
 <details>
 <summary>Associated IP addresses</summary>
 
-2600:9000:2670:1a00:2:20a1:5cc0:93a1
+2600:9000:21b3:a800:2:20a1:5cc0:93a1
 
-2600:9000:2670:4200:2:20a1:5cc0:93a1
+2600:9000:21b3:d600:2:20a1:5cc0:93a1
 
-2600:9000:2670:a200:2:20a1:5cc0:93a1
+2600:9000:21b3:1800:2:20a1:5cc0:93a1
 
-2600:9000:2670:ae00:2:20a1:5cc0:93a1
+2600:9000:21b3:3400:2:20a1:5cc0:93a1
 
-2600:9000:2670:b800:2:20a1:5cc0:93a1
+2600:9000:21b3:da00:2:20a1:5cc0:93a1
 
-2600:9000:2670:bc00:2:20a1:5cc0:93a1
+2600:9000:21b3:400:2:20a1:5cc0:93a1
 
-2600:9000:2670:da00:2:20a1:5cc0:93a1
+2600:9000:21b3:4c00:2:20a1:5cc0:93a1
 
-2600:9000:2670:f400:2:20a1:5cc0:93a1
+2600:9000:21b3:e00:2:20a1:5cc0:93a1
 
 </details>

@@ -2,7 +2,7 @@
 title: www.icbc-ltd.com
 description: www.icbc-ltd.com Website IPv6 compatibility
 published: true
-date: 2024-02-04T17:27:30
+date: 2024-02-04T17:40:19
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ ICBC (www.icbc-ltd.com) is a top global bank, offering diverse financial service
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-04 18:27:30+01:00 |
+| Last Check Timestamp | 2024-02-04 18:40:19+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

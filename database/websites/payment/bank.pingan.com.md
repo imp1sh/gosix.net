@@ -2,14 +2,14 @@
 title: bank.pingan.com
 description: bank.pingan.com Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:40:10
+date: 2024-02-04T17:27:54
 tags: website, rank1
 editor: markdown
 ---
 
 # bank.pingan.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Bank.pingan.com is the official online banking platform of Ping An Bank Co., Ltd., offering secure financial services such as account management, transfers, and investment products.
@@ -22,10 +22,10 @@ Bank.pingan.com is the official online banking platform of Ping An Bank Co., Ltd
 | IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 11 |
-| ICMPv6 success rate | 100.0%|
+| ICMPv6 success rate | 90.909094%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-02 15:40:10+01:00 |
+| Last Check Timestamp | 2024-02-04 18:27:54+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,19 +42,9 @@ As a part of the Ping An Group, which is known for its leadership in financial a
 <details>
 <summary>Associated IP addresses</summary>
 
-240e:c3:2c00:301:8000:0:b00:86
+240e:c2:1800:103:8000:0:b00:100
 
-240e:93c:209:2:8000:0:b00:90
-
-240e:93d:8:4::b00:100
-
-240e:95d:802:201:8000:0:b00:86
-
-240e:95d:c02:13:8000:0:b00:90
-
-240e:95d:1904:ff:8000:0:b00:100
-
-2408:8720:0:17:8000::100
+240e:c3:2800:6:8000:0:b00:38
 
 2408:8722:7100:0:8000:0:b00:100
 
@@ -62,6 +52,16 @@ As a part of the Ping An Group, which is known for its leadership in financial a
 
 2408:874f:a000:0:8000:0:b00:13
 
+2408:8752:600:9:8000:0:b00:100
+
+2408:8752:700:3:8000:0:b00:100
+
 2409:8c44:b00:ff07:8000:0:b00:86
+
+2409:8c44:3d00:2:8000:0:b00:18
+
+2409:8c44:3d01:ff01:8000:0:b00:100
+
+2409:8c4c:c00:337:8000:0:b00:86
 
 </details>

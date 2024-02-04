@@ -2,14 +2,14 @@
 title: www.linkedin.com
 description: www.linkedin.com Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:42:17
+date: 2024-02-04T17:28:44
 tags: website, rank1
 editor: markdown
 ---
 
 # www.linkedin.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 LinkedIn is a professional networking site that enables users to connect with colleagues, search for jobs, and enhance their career prospects. Owned by Microsoft.
@@ -25,7 +25,7 @@ LinkedIn is a professional networking site that enables users to connect with co
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-02 15:42:17+01:00 |
+| Last Check Timestamp | 2024-02-04 18:28:44+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

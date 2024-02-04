@@ -2,14 +2,14 @@
 title: chat.openai.com
 description: chat.openai.com Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:40:19
+date: 2024-02-04T17:27:04
 tags: website, rank1
 editor: markdown
 ---
 
 # chat.openai.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Chat.openai.com is the interface for OpenAI's chat models. Users can draft emails, write code, answer questions, create conversational agents, give a natural language interface to software, tutor in various subjects, translate languages, and simulate characters for video games.
@@ -25,7 +25,7 @@ Chat.openai.com is the interface for OpenAI's chat models. Users can draft email
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-02 15:40:19+01:00 |
+| Last Check Timestamp | 2024-02-04 18:27:04+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

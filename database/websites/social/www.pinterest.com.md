@@ -2,14 +2,14 @@
 title: www.pinterest.com
 description: www.pinterest.com Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:42:31
+date: 2024-02-04T17:29:31
 tags: website, rank6
 editor: markdown
 ---
 
 # www.pinterest.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Pinterest (www.pinterest.com) by Pinterest, Inc. is a visual discovery engine where users find inspiration, ideas, and products through shared images and boards.
@@ -25,7 +25,7 @@ Pinterest (www.pinterest.com) by Pinterest, Inc. is a visual discovery engine wh
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-02 15:42:31+01:00 |
+| Last Check Timestamp | 2024-02-04 18:29:31+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

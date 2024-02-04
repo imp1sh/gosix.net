@@ -2,14 +2,14 @@
 title: www.netflix.com
 description: www.netflix.com Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:42:23
+date: 2024-02-04T17:29:18
 tags: website, rank2
 editor: markdown
 ---
 
 # www.netflix.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Netflix, Inc. hosts www.netflix.com, a premier subscription-based streaming service offering a vast library of films, TV shows, and originals across various genres and languages.
@@ -25,7 +25,7 @@ Netflix, Inc. hosts www.netflix.com, a premier subscription-based streaming serv
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-02 15:42:23+01:00 |
+| Last Check Timestamp | 2024-02-04 18:29:18+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,10 +40,10 @@ The service utilizes a sophisticated recommendation algorithm to personalize the
 <details>
 <summary>Associated IP addresses</summary>
 
+2a05:d018:76c:b685:e8ab:afd3:af51:3aed
+
 2a05:d018:76c:b683:a2cd:4240:8669:6d4
 
 2a05:d018:76c:b684:8ab7:ac02:667b:e863
-
-2a05:d018:76c:b685:e8ab:afd3:af51:3aed
 
 </details>

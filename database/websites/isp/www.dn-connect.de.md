@@ -2,14 +2,14 @@
 title: www.dn-connect.de
 description: www.dn-connect.de Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:41:59
+date: 2024-02-04T17:29:52
 tags: website, rank6
 editor: markdown
 ---
 
 # www.dn-connect.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 DN-Connect is a local ISP from Düren North-Rhine Westphalia offering DSL and fiber connections for private and business customers
@@ -25,7 +25,7 @@ DN-Connect is a local ISP from Düren North-Rhine Westphalia offering DSL and fi
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-02 15:41:59+01:00 |
+| Last Check Timestamp | 2024-02-04 18:29:52+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

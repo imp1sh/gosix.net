@@ -2,14 +2,14 @@
 title: www.cmbchina.com
 description: www.cmbchina.com Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:41:53
+date: 2024-02-04T17:27:25
 tags: website, rank1
 editor: markdown
 ---
 
 # www.cmbchina.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 China Merchants Bank's official website, www.cmbchina.com, offers comprehensive banking services, including personal and corporate accounts, investment options, and online banking.
@@ -25,7 +25,7 @@ China Merchants Bank's official website, www.cmbchina.com, offers comprehensive 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-02 15:41:53+01:00 |
+| Last Check Timestamp | 2024-02-04 18:27:25+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,6 +42,6 @@ CMB's online platform is not only a hub for financial transactions but also a te
 <details>
 <summary>Associated IP addresses</summary>
 
-240e:6b1:420:100::e
+240e:688:400:2fa::26
 
 </details>

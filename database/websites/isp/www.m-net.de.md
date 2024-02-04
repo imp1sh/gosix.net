@@ -2,14 +2,14 @@
 title: www.m-net.de
 description: www.m-net.de Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:42:21
+date: 2024-02-04T17:27:46
 tags: website, rank1
 editor: markdown
 ---
 
 # www.m-net.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 M-net Telekommunikations GmbH is a German ISP that offers fiber-optic internet, phone, and TV services, focusing on Bavaria and parts of Hesse and Baden-Württemberg.
@@ -25,7 +25,7 @@ M-net Telekommunikations GmbH is a German ISP that offers fiber-optic internet, 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-02 15:42:21+01:00 |
+| Last Check Timestamp | 2024-02-04 18:27:46+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

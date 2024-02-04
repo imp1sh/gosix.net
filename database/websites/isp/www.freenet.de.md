@@ -2,14 +2,14 @@
 title: www.freenet.de
 description: www.freenet.de Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:42:11
+date: 2024-02-04T17:26:48
 tags: website, rank6
 editor: markdown
 ---
 
 # www.freenet.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Freenet.de is a major German internet service provider. It offers a range of services including DSL internet access, mobile internet, email, digital television, and video-on-demand. Additionally, it offers news and entertainment content on its web portal.
@@ -25,7 +25,7 @@ Freenet.de is a major German internet service provider. It offers a range of ser
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-02 15:42:11+01:00 |
+| Last Check Timestamp | 2024-02-04 18:26:48+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

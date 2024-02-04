@@ -2,14 +2,14 @@
 title: www.theguardian.com
 description: www.theguardian.com Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:42:56
+date: 2024-02-04T17:29:06
 tags: website, rank1
 editor: markdown
 ---
 
 # www.theguardian.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 "The Guardian is a British news platform known for its investigative journalism, comprehensive coverage, and liberal perspective on global issues."
@@ -21,11 +21,11 @@ editor: markdown
 | Category | news |
 | IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
-| Amount of AAAA records for domain | 1 |
+| Amount of AAAA records for domain | 4 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-02 15:42:56+01:00 |
+| Last Check Timestamp | 2024-02-04 18:29:06+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,6 +42,12 @@ A pioneer in the online news arena, The Guardian invests in new technologies to 
 <details>
 <summary>Associated IP addresses</summary>
 
-2a04:4e42:8e::367
+2a04:4e42::367
+
+2a04:4e42:200::367
+
+2a04:4e42:400::367
+
+2a04:4e42:600::367
 
 </details>

@@ -2,14 +2,14 @@
 title: zgh.com
 description: zgh.com Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:42:58
+date: 2024-02-04T17:29:03
 tags: website, rank6
 editor: markdown
 ---
 
 # zgh.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 ZGH.com is the official site for Zhejiang Geely Holding Group, a global automotive company known for owning Volvo Cars and stakes in Daimler AG and Lotus Cars.
@@ -25,7 +25,7 @@ ZGH.com is the official site for Zhejiang Geely Holding Group, a global automoti
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-02 15:42:58+01:00 |
+| Last Check Timestamp | 2024-02-04 18:29:03+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

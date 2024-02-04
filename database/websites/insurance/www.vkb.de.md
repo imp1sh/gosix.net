@@ -2,14 +2,14 @@
 title: www.vkb.de
 description: www.vkb.de Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:42:57
+date: 2024-02-04T17:29:02
 tags: website, rank6
 editor: markdown
 ---
 
 # www.vkb.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 As of my last update in April 2023, I don't have internet access to provide real-time information about www.vkb.de. However, from my knowledge, VKB (Vereinigte Krankenversicherung AG) is typically a German health insurance provider offering a range of insurance products and services.
@@ -25,7 +25,7 @@ As of my last update in April 2023, I don't have internet access to provide real
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-02 15:42:57+01:00 |
+| Last Check Timestamp | 2024-02-04 18:29:02+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

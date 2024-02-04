@@ -2,14 +2,14 @@
 title: www.asml.com
 description: www.asml.com Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:40:45
+date: 2024-02-04T17:28:05
 tags: website, rank1
 editor: markdown
 ---
 
 # www.asml.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 ASML is a Dutch company and one of the world's leading manufacturers of chip-making equipment. They provide photolithography systems for the semiconductor industry, essential for producing integrated circuits.
@@ -25,7 +25,7 @@ ASML is a Dutch company and one of the world's leading manufacturers of chip-mak
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-02 15:40:45+01:00 |
+| Last Check Timestamp | 2024-02-04 18:28:05+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ With a strong emphasis on research and development, ASML invests heavily in push
 <details>
 <summary>Associated IP addresses</summary>
 
-2620:1ec:bdf::45
-
 2620:1ec:46::45
+
+2620:1ec:bdf::45
 
 </details>

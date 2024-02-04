@@ -2,14 +2,14 @@
 title: www.provinzial.de
 description: www.provinzial.de Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:42:31
+date: 2024-02-04T17:29:51
 tags: website, rank6
 editor: markdown
 ---
 
 # www.provinzial.de Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 Provinzial Rheinland is a German insurer offering a wide range of insurance products such as home, life, and auto insurance with a strong regional presence.
@@ -25,7 +25,7 @@ Provinzial Rheinland is a German insurer offering a wide range of insurance prod
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-02 15:42:31+01:00 |
+| Last Check Timestamp | 2024-02-04 18:29:51+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

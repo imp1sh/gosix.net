@@ -2,14 +2,14 @@
 title: www.fiat.com
 description: www.fiat.com Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:42:01
+date: 2024-02-04T17:28:27
 tags: website, rank1
 editor: markdown
 ---
 
 # www.fiat.com Website IPv6 compatibility
 
-> The results shown here are accumulated by automation. If you're convinced the shown data is wrong, please [contact the administrators](/howto/chat). 
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
 {.is-info}
 
 www.fiat.com is the official website of Fiat, providing information on their latest car models, offers, dealerships, and company history. Access to vehicle financing and services available.
@@ -25,7 +25,7 @@ www.fiat.com is the official website of Fiat, providing information on their lat
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-02 15:42:01+01:00 |
+| Last Check Timestamp | 2024-02-04 18:28:27+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ Fiat Chrysler Automobiles N.V., the parent company that operates fiat.com, is a 
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:9::213:7a33
-
 2a02:26f0:280:9::213:7a15
+
+2a02:26f0:280:9::213:7a33
 
 </details>

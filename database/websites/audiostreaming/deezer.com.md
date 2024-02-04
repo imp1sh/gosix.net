@@ -2,7 +2,7 @@
 title: deezer.com
 description: deezer.com Website IPv6 compatibility
 published: true
-date: 2024-02-02T14:40:19
+date: 2024-02-04T17:26:48
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Deezer is a popular music streaming service, offering a vast catalog of songs, p
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-02 15:40:19+01:00 |
+| Last Check Timestamp | 2024-02-04 18:26:48+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

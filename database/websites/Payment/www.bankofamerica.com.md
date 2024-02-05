@@ -2,7 +2,7 @@
 title: www.bankofamerica.com
 description: www.bankofamerica.com Website IPv6 compatibility
 published: true
-date: 2024-02-05T16:04:30
+date: 2024-02-05T18:56:14
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ www.bankofamerica.com is the official website of Bank of America, offering onlin
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-05 17:04:30+01:00 |
+| Last Check Timestamp | 2024-02-05 19:56:14+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

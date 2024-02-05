@@ -2,7 +2,7 @@
 title: www.o2online.de
 description: www.o2online.de Website IPv6 compatibility
 published: true
-date: 2024-02-05T16:06:21
+date: 2024-02-05T18:58:08
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ O2online.de is the official site of Telefónica Germany, offering mobile, data, 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-05 17:06:21+01:00 |
+| Last Check Timestamp | 2024-02-05 19:58:08+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: www.crave.ca
 description: www.crave.ca Website IPv6 compatibility
 published: true
-date: 2024-02-05T16:05:48
+date: 2024-02-05T18:57:19
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Crave is a Canadian subscription video-on-demand service owned by Bell Media, fe
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-05 17:05:48+01:00 |
+| Last Check Timestamp | 2024-02-05 19:57:19+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ Crave stands out with its user-friendly interface and the convenience of streami
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:4a6::3f3b
-
 2a02:26f0:280:4a4::3f3b
+
+2a02:26f0:280:4a6::3f3b
 
 </details>

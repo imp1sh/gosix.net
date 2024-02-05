@@ -2,7 +2,7 @@
 title: bank.pingan.com
 description: bank.pingan.com Website IPv6 compatibility
 published: true
-date: 2024-02-05T16:03:38
+date: 2024-02-05T18:55:14
 tags: website, rank1
 editor: markdown
 ---
@@ -21,11 +21,11 @@ Bank.pingan.com is the official online banking platform of Ping An Bank Co., Ltd
 | Category | Payment |
 | IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
-| Amount of AAAA records for domain | 11 |
+| Amount of AAAA records for domain | 10 |
 | ICMPv6 success rate | 100.0%|
-| HTTP success rate | 90.909094% |
+| HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-05 17:03:38+01:00 |
+| Last Check Timestamp | 2024-02-05 19:55:14+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,26 +42,24 @@ As a part of the Ping An Group, which is known for its leadership in financial a
 <details>
 <summary>Associated IP addresses</summary>
 
-240e:c3:2800:200:8000::100
-
-240e:c3:2c00:301:8000:0:b00:86
-
-240e:93c:209:2:8000:0:b00:90
-
-240e:93d:8:4::b00:100
-
-240e:95d:802:201:8000:0:b00:86
-
-240e:95d:c02:13:8000:0:b00:90
-
-240e:95d:1904:ff:8000:0:b00:100
-
-2408:8720:0:17:8000::100
-
-2408:8720:0:23:8000::100
+2408:874f:a000:0:8000:0:b00:13
 
 2409:8c4c:c00:339:8000:0:b00:53
 
-2409:8c4c:e00:210:8000::100
+2409:8c44:b00:ff07:8000:0:b00:86
+
+2409:8c50:a00:2083:8000:0:b00:16
+
+2409:8c50:a00:2200:8000:0:b00:90
+
+2409:8c44:3d01:ff01:8000:0:b00:100
+
+2408:8722:8800:3:8000:0:b00:40
+
+2408:8752:700:3:8000:0:b00:100
+
+2408:8722:7100:0:8000:0:b00:100
+
+2408:8722:5000:8:8000::191
 
 </details>

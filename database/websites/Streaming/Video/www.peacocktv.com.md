@@ -2,7 +2,7 @@
 title: www.peacocktv.com
 description: www.peacocktv.com Website IPv6 compatibility
 published: true
-date: 2024-02-05T16:06:23
+date: 2024-02-05T18:58:11
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Peacock is a streaming service by NBCUniversal offering original programming, hi
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-05 17:06:23+01:00 |
+| Last Check Timestamp | 2024-02-05 19:58:11+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ Moreover, Peacock serves as a hub for sports enthusiasts, offering live sports i
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:e::1732:8345
+2001:4dd0:200:11a::51ad:c758
 
-2a02:26f0:3500:e::1732:8355
+2001:4dd0:200:11a::51ad:c761
 
 </details>

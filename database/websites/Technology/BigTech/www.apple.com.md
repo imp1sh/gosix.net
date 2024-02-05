@@ -2,7 +2,7 @@
 title: www.apple.com
 description: www.apple.com Website IPv6 compatibility
 published: true
-date: 2024-02-05T16:04:22
+date: 2024-02-05T18:56:06
 tags: website, rank1
 editor: markdown
 ---
@@ -21,11 +21,11 @@ Apple Inc.'s official website, www.apple.com, showcases its innovative product l
 | Category | BigTech |
 | IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
-| Amount of AAAA records for domain | 5 |
+| Amount of AAAA records for domain | 4 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-05 17:04:22+01:00 |
+| Last Check Timestamp | 2024-02-05 19:56:06+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,8 +40,8 @@ The website also serves as a comprehensive resource for customers, offering deta
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:e300:184::1aca
-
 2a02:26f0:e300:18c::1aca
+
+2a02:26f0:e300:184::1aca
 
 </details>

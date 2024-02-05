@@ -2,7 +2,7 @@
 title: www.peugeot.com
 description: www.peugeot.com Website IPv6 compatibility
 published: true
-date: 2024-02-05T16:06:24
+date: 2024-02-05T18:58:11
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Peugeot.com is the official website of the Peugeot brand, known for its innovati
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-05 17:06:24+01:00 |
+| Last Check Timestamp | 2024-02-05 19:58:11+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ The website reflects Peugeot’s commitment to modernity and innovation, showcas
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:5::213:780b
-
 2a02:26f0:280:5::213:7811
+
+2a02:26f0:280:5::213:780b
 
 </details>

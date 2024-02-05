@@ -2,8 +2,8 @@
 title: www.boc.cn
 description: www.boc.cn Website IPv6 compatibility
 published: true
-date: 2024-02-05T16:04:47
-tags: website, rank5
+date: 2024-02-05T18:56:31
+tags: website, rank2
 editor: markdown
 ---
 
@@ -19,13 +19,13 @@ The official website of the Bank of China, www.boc.cn, provides comprehensive ba
 | - | - |
 | Domainname | www.boc.cn
 | Category | Payment |
-| IPv6 ranking | problematic :arrow_double_down: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record but does respond to neither ping/http/https |
+| IPv6 ranking | very good :2nd_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, does respond to http and https but not to ping. |
 | Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 0.0%|
-| HTTP success rate | 0.0% |
-| HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-02-05 17:04:47+01:00 |
+| HTTP success rate | 100.0% |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-02-05 19:56:31+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,6 +42,6 @@ Furthermore, www.boc.cn is not just a static information platform but also an in
 <details>
 <summary>Associated IP addresses</summary>
 
-2408:8026:a0:8700::16
+2402:93c0:0:12::12
 
 </details>

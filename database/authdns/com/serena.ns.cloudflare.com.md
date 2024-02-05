@@ -36,11 +36,11 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Nameserver's IP addresses</summary>
 
-2606:4700:50::adf5:3adc
+2803:f800:50::6ca2:c0dc
 
 2a06:98c1:50::ac40:20dc
 
-2803:f800:50::6ca2:c0dc
+2606:4700:50::adf5:3adc
 
 </details>
 

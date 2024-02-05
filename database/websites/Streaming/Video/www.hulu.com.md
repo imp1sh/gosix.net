@@ -2,7 +2,7 @@
 title: www.hulu.com
 description: www.hulu.com Website IPv6 compatibility
 published: true
-date: 2024-02-05T09:35:58
+date: 2024-02-05T16:06:04
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Hulu, owned by Disney, is an on-demand streaming service offering a variety of T
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-05 10:35:58+01:00 |
+| Last Check Timestamp | 2024-02-05 17:06:04+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

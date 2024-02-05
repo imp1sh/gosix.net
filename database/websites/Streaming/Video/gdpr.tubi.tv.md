@@ -2,7 +2,7 @@
 title: gdpr.tubi.tv
 description: gdpr.tubi.tv Website IPv6 compatibility
 published: true
-date: 2024-02-05T09:09:53
+date: 2024-02-05T09:33:50
 tags: website, rank2
 editor: markdown
 ---
@@ -25,7 +25,7 @@ GDPR.tubi.tv by Fox Corporation is a compliance page for Tubi TV service adherin
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-05 10:09:53+01:00 |
+| Last Check Timestamp | 2024-02-05 10:33:50+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,6 +40,6 @@ As an ad-supported streaming platform, Tubi offers free access to a wide catalog
 <details>
 <summary>Associated IP addresses</summary>
 
-2600:1f14:b27:be03:8672:da22:4113:5b85
+2600:1f14:b27:be04:cf3e:a54d:d1a1:32c0
 
 </details>

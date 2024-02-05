@@ -36,9 +36,9 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Nameserver's IP addresses</summary>
 
-2409:874c:d10:b0::1
-
 240e:668:2a03::1
+
+2409:874c:d10:b0::1
 
 </details>
 

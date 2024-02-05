@@ -36,9 +36,9 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Nameserver's IP addresses</summary>
 
-2408:400a:63:d4e9:8d3b:261a:ac7:7f6e
-
 2408:4006:1108:7b14:28e7:66f7:1319:a4b9
+
+2408:400a:63:d4e9:8d3b:261a:ac7:7f6e
 
 </details>
 

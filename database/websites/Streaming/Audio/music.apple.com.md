@@ -2,7 +2,7 @@
 title: music.apple.com
 description: music.apple.com Website IPv6 compatibility
 published: true
-date: 2024-02-05T09:10:33
+date: 2024-02-05T09:34:11
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Music.apple.com is Apple Inc.'s streaming platform offering over 90 million song
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-05 10:10:33+01:00 |
+| Last Check Timestamp | 2024-02-05 10:34:11+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

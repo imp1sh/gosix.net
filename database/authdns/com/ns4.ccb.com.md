@@ -33,6 +33,15 @@ To see how this test was performed, please have a look at [our website test crit
 
 
 
+<details>
+<summary>Nameserver's IP addresses</summary>
+
+240e:604:104:30::2
+
+2409:8700:1821:f2::2
+
+</details>
+
 
 
 <details>

@@ -38,6 +38,8 @@ To see how this test was performed, please have a look at [our website test crit
 
 2409:8734:610::18
 
+2406:1e40:f012::18
+
 </details>
 
 

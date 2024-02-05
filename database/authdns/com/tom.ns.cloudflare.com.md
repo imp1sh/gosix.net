@@ -38,9 +38,9 @@ To see how this test was performed, please have a look at [our website test crit
 
 2606:4700:58::adf5:3b93
 
-2a06:98c1:50::ac40:2193
-
 2803:f800:50::6ca2:c193
+
+2a06:98c1:50::ac40:2193
 
 </details>
 

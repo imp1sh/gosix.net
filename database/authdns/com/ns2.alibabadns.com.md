@@ -2,7 +2,7 @@
 title: ns2.alibabadns.com.
 description: ns2.alibabadns.com. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-02T21:00:44
+date: 2024-02-05T19:32:32
 tags: authdns, rank5
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record but does not respond to ICMPv6 echo requests and rarely answers correctly to DNS queries via IPv6. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 0% |
-| Last Check Timestamp | 2024-02-02 22:00:44+01:00 |
+| Last Check Timestamp | 2024-02-05 20:32:32+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 
@@ -45,8 +45,8 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Associated domain names</summary>
 
-www.aliexpress.com
-
 www.alibaba.com
+
+www.aliexpress.com
 
 </details>

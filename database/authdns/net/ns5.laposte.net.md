@@ -2,7 +2,7 @@
 title: ns5.laposte.net.
 description: ns5.laposte.net. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-02T21:01:49
+date: 2024-02-05T19:33:39
 tags: authdns, rank2
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record and responds well to ICMPv6 as well as DNS queries. |
 | ICMPv6 success rate | 0%|
 | DNS query success rate | 100% |
-| Last Check Timestamp | 2024-02-02 22:01:49+01:00 |
+| Last Check Timestamp | 2024-02-05 20:33:39+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

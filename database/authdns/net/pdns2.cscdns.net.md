@@ -2,7 +2,7 @@
 title: pdns2.cscdns.net.
 description: pdns2.cscdns.net. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-02T21:06:14
+date: 2024-02-05T19:38:10
 tags: authdns, rank1
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record and responds perfectly to ICMPv6 as well as DNS requests. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 100% |
-| Last Check Timestamp | 2024-02-02 22:06:14+01:00 |
+| Last Check Timestamp | 2024-02-05 20:38:10+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 
@@ -46,5 +46,7 @@ To see how this test was performed, please have a look at [our website test crit
 <summary>Associated domain names</summary>
 
 groupebpce.com
+
+www.bayer.com
 
 </details>

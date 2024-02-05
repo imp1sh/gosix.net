@@ -2,7 +2,7 @@
 title: ns2.volkswagen.de.
 description: ns2.volkswagen.de. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-02T20:59:47
+date: 2024-02-05T19:31:36
 tags: authdns, rank2
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record and responds well to ICMPv6 as well as DNS queries. |
 | ICMPv6 success rate | 0%|
 | DNS query success rate | 100% |
-| Last Check Timestamp | 2024-02-02 21:59:47+01:00 |
+| Last Check Timestamp | 2024-02-05 20:31:36+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

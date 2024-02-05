@@ -38,10 +38,10 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Associated domain names</summary>
 
-www.m-net.de
+bmw.de
 
 www.bmwgroup.com
 
-bmw.de
+www.m-net.de
 
 </details>

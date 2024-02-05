@@ -2,7 +2,7 @@
 title: ns2.db-dns.com.
 description: ns2.db-dns.com. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-02T21:00:32
+date: 2024-02-05T19:32:20
 tags: authdns, rank2
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record and responds well to ICMPv6 as well as DNS queries. |
 | ICMPv6 success rate | 0%|
 | DNS query success rate | 100% |
-| Last Check Timestamp | 2024-02-02 22:00:32+01:00 |
+| Last Check Timestamp | 2024-02-05 20:32:20+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 
@@ -45,8 +45,8 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Associated domain names</summary>
 
-www.deutsche-bank.de
-
 deutschebank.de
+
+www.deutsche-bank.de
 
 </details>

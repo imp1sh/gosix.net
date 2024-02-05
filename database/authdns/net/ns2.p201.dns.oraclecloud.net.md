@@ -2,7 +2,7 @@
 title: ns2.p201.dns.oraclecloud.net.
 description: ns2.p201.dns.oraclecloud.net. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-02T21:03:38
+date: 2024-02-05T19:35:36
 tags: authdns, rank5
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record but does not respond to ICMPv6 echo requests and rarely answers correctly to DNS queries via IPv6. |
 | ICMPv6 success rate | 0%|
 | DNS query success rate | 0% |
-| Last Check Timestamp | 2024-02-02 22:03:38+01:00 |
+| Last Check Timestamp | 2024-02-05 20:35:36+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 
@@ -45,6 +45,10 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Associated domain names</summary>
 
+www.hospira.com
+
 www.oracle.com
+
+www.pfizer.com
 
 </details>

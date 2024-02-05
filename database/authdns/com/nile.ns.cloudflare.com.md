@@ -2,7 +2,7 @@
 title: nile.ns.cloudflare.com.
 description: nile.ns.cloudflare.com. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-02T21:02:36
+date: 2024-02-05T19:34:31
 tags: authdns, rank1
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record and responds perfectly to ICMPv6 as well as DNS requests. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 100% |
-| Last Check Timestamp | 2024-02-02 22:02:36+01:00 |
+| Last Check Timestamp | 2024-02-05 20:34:31+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

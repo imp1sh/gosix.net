@@ -2,7 +2,7 @@
 title: ns3.citicbank.com.
 description: ns3.citicbank.com. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-02T20:59:40
+date: 2024-02-05T19:31:28
 tags: authdns, rank5
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record but does not respond to ICMPv6 echo requests and rarely answers correctly to DNS queries via IPv6. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 0% |
-| Last Check Timestamp | 2024-02-02 21:59:40+01:00 |
+| Last Check Timestamp | 2024-02-05 20:31:28+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

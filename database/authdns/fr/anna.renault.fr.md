@@ -38,8 +38,8 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Associated domain names</summary>
 
-www.renaultgroup.com
-
 renault.fr
+
+www.renaultgroup.com
 
 </details>

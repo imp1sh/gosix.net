@@ -45,10 +45,10 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Associated domain names</summary>
 
-music.amazon.com
-
 www.amazon.co.uk
 
 www.imdb.com
+
+music.amazon.com
 
 </details>

@@ -2,7 +2,7 @@
 title: namu.wiki
 description: namu.wiki Website IPv6 compatibility
 published: true
-date: 2024-02-05T18:55:44
+date: 2024-02-06T09:52:24
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Namuwiki, also known as 나무위키 in Korean, is a popular collaborative web-b
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-05 19:55:44+01:00 |
+| Last Check Timestamp | 2024-02-06 10:52:24+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ Unlike some other encyclopedias, namu.wiki is known for its liberal approach to 
 <details>
 <summary>Associated IP addresses</summary>
 
-2606:4700::6810:b52d
-
 2606:4700::6810:b42d
+
+2606:4700::6810:b52d
 
 </details>

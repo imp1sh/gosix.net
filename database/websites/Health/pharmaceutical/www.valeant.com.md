@@ -2,7 +2,7 @@
 title: www.valeant.com
 description: www.valeant.com Website IPv6 compatibility
 published: true
-date: 2024-02-05T18:58:41
+date: 2024-02-06T09:56:06
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Valeant Pharmaceuticals, now Bausch Health Companies Inc., is a global company s
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-05 19:58:41+01:00 |
+| Last Check Timestamp | 2024-02-06 10:56:06+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,8 +40,8 @@ In 2018, in an effort to move past its troubled history and build a new positive
 <details>
 <summary>Associated IP addresses</summary>
 
-2606:4700:4400::ac40:930d
-
 2606:4700:4400::6812:28f3
+
+2606:4700:4400::ac40:930d
 
 </details>

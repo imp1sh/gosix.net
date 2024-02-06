@@ -2,7 +2,7 @@
 title: www.huk.de
 description: www.huk.de Website IPv6 compatibility
 published: true
-date: 2024-02-05T18:57:38
+date: 2024-02-06T09:54:46
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ HUK-COBURG's www.huk.de is a German insurance company website offering car, life
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-05 19:57:38+01:00 |
+| Last Check Timestamp | 2024-02-06 10:54:46+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

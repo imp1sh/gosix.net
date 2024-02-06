@@ -2,7 +2,7 @@
 title: www.allergan.com
 description: www.allergan.com Website IPv6 compatibility
 published: true
-date: 2024-02-05T18:56:04
+date: 2024-02-06T09:52:55
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Allergan plc's website, www.allergan.com, serves as a hub for the pharmaceutical
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-05 19:56:04+01:00 |
+| Last Check Timestamp | 2024-02-06 10:52:55+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ Allergan plc is recognized for its commitment to sustainability practices and et
 <details>
 <summary>Associated IP addresses</summary>
 
-2606:4700:4400::6812:2594
-
 2606:4700:4400::ac40:966c
+
+2606:4700:4400::6812:2594
 
 </details>

@@ -2,7 +2,7 @@
 title: group.bnpparibas
 description: group.bnpparibas Website IPv6 compatibility
 published: true
-date: 2024-02-05T18:55:31
+date: 2024-02-06T09:52:09
 tags: website, rank3
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Group.bnpparibas by BNP Paribas is a leading bank in Europe with a global reach,
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 0.0% |
-| Last Check Timestamp | 2024-02-05 19:55:31+01:00 |
+| Last Check Timestamp | 2024-02-06 10:52:09+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,8 +40,8 @@ With its headquarters in Paris, BNP Paribas operates in 72 countries and prides 
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:e300:280::176e
+2a02:26f0:3500:2be::176e
 
-2a02:26f0:e300:2af::176e
+2a02:26f0:3500:2a0::176e
 
 </details>

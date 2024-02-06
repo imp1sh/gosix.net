@@ -2,7 +2,7 @@
 title: www.nochubank.or.jp
 description: www.nochubank.or.jp Website IPv6 compatibility
 published: true
-date: 2024-02-05T18:58:06
+date: 2024-02-06T09:55:17
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ editor: markdown
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-05 19:58:06+01:00 |
+| Last Check Timestamp | 2024-02-06 10:55:17+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

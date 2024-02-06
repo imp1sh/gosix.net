@@ -45,10 +45,12 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Associated domain names</summary>
 
-www.hospira.com
-
 www.oracle.com
 
+www.hospira.com
+
 www.pfizer.com
+
+www.mysql.com
 
 </details>

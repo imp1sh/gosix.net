@@ -2,7 +2,7 @@
 title: gitlab.com
 description: gitlab.com Website IPv6 compatibility
 published: true
-date: 2024-02-05T18:55:30
+date: 2024-02-06T09:52:08
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ GitLab.com is a web-based DevOps lifecycle tool that provides a Git repository m
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-05 19:55:30+01:00 |
+| Last Check Timestamp | 2024-02-06 10:52:08+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

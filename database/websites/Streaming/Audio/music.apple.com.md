@@ -2,7 +2,7 @@
 title: music.apple.com
 description: music.apple.com Website IPv6 compatibility
 published: true
-date: 2024-02-05T18:55:44
+date: 2024-02-06T09:52:23
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Music.apple.com is Apple Inc.'s streaming platform offering over 90 million song
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-05 19:55:44+01:00 |
+| Last Check Timestamp | 2024-02-06 10:52:23+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,14 +42,14 @@ Beyond its streaming capabilities, Apple Music distinguishes itself with its con
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:298::2a1
-
 2a02:26f0:280:288::2a1
 
-2a02:26f0:280:29e::2a1
+2a02:26f0:280:292::2a1
 
-2a02:26f0:280:28e::2a1
+2a02:26f0:280:295::2a1
 
-2a02:26f0:280:294::2a1
+2a02:26f0:280:296::2a1
+
+2a02:26f0:280:29f::2a1
 
 </details>

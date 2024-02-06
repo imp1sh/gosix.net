@@ -2,7 +2,7 @@
 title: www.bundesfinanzhof.de
 description: www.bundesfinanzhof.de Website IPv6 compatibility
 published: true
-date: 2024-02-05T18:56:41
+date: 2024-02-06T09:53:33
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ The website www.bundesfinanzhof.de is the official online presence of Germany's 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-05 19:56:41+01:00 |
+| Last Check Timestamp | 2024-02-06 10:53:33+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

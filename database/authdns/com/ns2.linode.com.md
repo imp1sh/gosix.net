@@ -2,8 +2,8 @@
 title: ns2.linode.com.
 description: ns2.linode.com. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-06T09:56:33
-tags: authdns, rank5
+date: 2024-02-06T10:07:34
+tags: authdns, rank1
 editor: markdown
 ---
 
@@ -19,11 +19,11 @@ editor: markdown
 | - | - |
 | Nameserver DNS name | ns2.linode.com.
 | Amount IPv6 address | 1
-| IPv6 ranking | problematic :arrow_double_down: [🔗](/howto/ranking) |
-| Explanation | The nameserver has an AAAA record but does not respond to ICMPv6 echo requests and rarely answers correctly to DNS queries via IPv6. |
-| ICMPv6 success rate | 0%|
-| DNS query success rate | 0% |
-| Last Check Timestamp | 2024-02-06 10:56:33+01:00 |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The nameserver has an AAAA record and responds perfectly to ICMPv6 as well as DNS requests. |
+| ICMPv6 success rate | 100%|
+| DNS query success rate | 100% |
+| Last Check Timestamp | 2024-02-06 11:07:34+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

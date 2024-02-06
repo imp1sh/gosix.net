@@ -2,7 +2,7 @@
 title: www.sling.com
 description: www.sling.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:55:47
+date: 2024-02-06T10:06:37
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Sling TV by DISH Network is an online streaming service offering live TV and on-
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 10:55:47+01:00 |
+| Last Check Timestamp | 2024-02-06 11:06:37+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,20 +42,20 @@ Moreover, Sling TV offers features like Cloud DVR, which lets subscribers record
 <details>
 <summary>Associated IP addresses</summary>
 
-2600:9000:2251:fe00:19:979a:4fc0:93a1
+2600:9000:2251:7800:19:979a:4fc0:93a1
 
-2600:9000:2251:2e00:19:979a:4fc0:93a1
-
-2600:9000:2251:4000:19:979a:4fc0:93a1
-
-2600:9000:2251:4a00:19:979a:4fc0:93a1
-
-2600:9000:2251:5200:19:979a:4fc0:93a1
-
-2600:9000:2251:7c00:19:979a:4fc0:93a1
+2600:9000:2251:1c00:19:979a:4fc0:93a1
 
 2600:9000:2251:8400:19:979a:4fc0:93a1
 
-2600:9000:2251:e000:19:979a:4fc0:93a1
+2600:9000:2251:9200:19:979a:4fc0:93a1
+
+2600:9000:2251:5c00:19:979a:4fc0:93a1
+
+2600:9000:2251:5a00:19:979a:4fc0:93a1
+
+2600:9000:2251:4e00:19:979a:4fc0:93a1
+
+2600:9000:2251:ba00:19:979a:4fc0:93a1
 
 </details>

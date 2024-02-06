@@ -2,7 +2,7 @@
 title: spotify.com
 description: spotify.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:52:37
+date: 2024-02-06T10:03:14
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Spotify.com is a music streaming platform by Spotify AB offering millions of tra
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 10:52:37+01:00 |
+| Last Check Timestamp | 2024-02-06 11:03:14+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

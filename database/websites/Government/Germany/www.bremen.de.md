@@ -2,7 +2,7 @@
 title: www.bremen.de
 description: www.bremen.de Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:53:33
+date: 2024-02-06T10:04:07
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ The website www.bremen.de is an official portal for the city of Bremen, Germany,
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-06 10:53:33+01:00 |
+| Last Check Timestamp | 2024-02-06 11:04:07+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

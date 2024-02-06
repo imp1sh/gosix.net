@@ -2,7 +2,7 @@
 title: www.napster.com
 description: www.napster.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:55:08
+date: 2024-02-06T10:05:56
 tags: website, rank1
 editor: markdown
 ---
@@ -21,11 +21,11 @@ Napster.com, now operated by MelodyVR Group PLC, is a revived digital music serv
 | Category | Audio |
 | IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
-| Amount of AAAA records for domain | 4 |
+| Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 10:55:08+01:00 |
+| Last Check Timestamp | 2024-02-06 11:05:56+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,12 +42,12 @@ By combining MelodyVR's expertise in crafting virtual concert experiences with N
 <details>
 <summary>Associated IP addresses</summary>
 
-2a04:4e42:200::745
+2a04:4e42:600::745
 
 2a04:4e42:400::745
 
-2a04:4e42:600::745
-
 2a04:4e42::745
+
+2a04:4e42:200::745
 
 </details>

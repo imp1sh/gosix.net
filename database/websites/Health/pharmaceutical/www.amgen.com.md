@@ -2,7 +2,7 @@
 title: www.amgen.com
 description: www.amgen.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:52:57
+date: 2024-02-06T10:03:32
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Amgen Inc., a biotech giant, operates www.amgen.com, offering insight into its i
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-06 10:52:57+01:00 |
+| Last Check Timestamp | 2024-02-06 11:03:32+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

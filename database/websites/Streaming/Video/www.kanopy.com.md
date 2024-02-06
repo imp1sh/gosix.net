@@ -2,7 +2,7 @@
 title: www.kanopy.com
 description: www.kanopy.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:55:01
+date: 2024-02-06T10:05:40
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Kanopy is a streaming service offering a wide range of thoughtful and thought-pr
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-06 10:55:01+01:00 |
+| Last Check Timestamp | 2024-02-06 11:05:40+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

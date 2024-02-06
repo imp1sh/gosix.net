@@ -2,7 +2,7 @@
 title: dns3.p08.nsone.net.
 description: dns3.p08.nsone.net. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-05T19:30:58
+date: 2024-02-06T10:09:25
 tags: authdns, rank1
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record and responds perfectly to ICMPv6 as well as DNS requests. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 100% |
-| Last Check Timestamp | 2024-02-05 20:30:58+01:00 |
+| Last Check Timestamp | 2024-02-06 11:09:25+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

@@ -2,7 +2,7 @@
 title: www.cockroachlabs.com
 description: www.cockroachlabs.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:54:18
+date: 2024-02-06T10:04:58
 tags: website, rank2
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Cockroach Labs is the company behind CockroachDB, a cloud-native, distributed SQ
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 10:54:18+01:00 |
+| Last Check Timestamp | 2024-02-06 11:04:58+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

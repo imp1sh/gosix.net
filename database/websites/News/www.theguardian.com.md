@@ -2,7 +2,7 @@
 title: www.theguardian.com
 description: www.theguardian.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:56:04
+date: 2024-02-06T10:06:53
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ editor: markdown
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 10:56:04+01:00 |
+| Last Check Timestamp | 2024-02-06 11:06:53+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,12 +42,12 @@ A pioneer in the online news arena, The Guardian invests in new technologies to 
 <details>
 <summary>Associated IP addresses</summary>
 
-2a04:4e42::367
-
 2a04:4e42:600::367
 
-2a04:4e42:400::367
+2a04:4e42::367
 
 2a04:4e42:200::367
+
+2a04:4e42:400::367
 
 </details>

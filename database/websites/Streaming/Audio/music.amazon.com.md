@@ -2,7 +2,7 @@
 title: music.amazon.com
 description: music.amazon.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:52:22
+date: 2024-02-06T10:03:00
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Amazon Music is a streaming service by Amazon offering access to millions of son
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 10:52:22+01:00 |
+| Last Check Timestamp | 2024-02-06 11:03:00+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,20 +42,20 @@ The platform is also known for its user-friendly interface, integration with Ale
 <details>
 <summary>Associated IP addresses</summary>
 
-2600:9000:2315:8a00:1b:5d9a:8ad3:e041
+2600:9000:21f3:a00:1b:5d9a:8ad3:e041
 
-2600:9000:2315:6600:1b:5d9a:8ad3:e041
+2600:9000:21f3:2800:1b:5d9a:8ad3:e041
 
-2600:9000:2315:e200:1b:5d9a:8ad3:e041
+2600:9000:21f3:4c00:1b:5d9a:8ad3:e041
 
-2600:9000:2315:6e00:1b:5d9a:8ad3:e041
+2600:9000:21f3:8000:1b:5d9a:8ad3:e041
 
-2600:9000:2315:2400:1b:5d9a:8ad3:e041
+2600:9000:21f3:8a00:1b:5d9a:8ad3:e041
 
-2600:9000:2315:5200:1b:5d9a:8ad3:e041
+2600:9000:21f3:b000:1b:5d9a:8ad3:e041
 
-2600:9000:2315:3e00:1b:5d9a:8ad3:e041
+2600:9000:21f3:e600:1b:5d9a:8ad3:e041
 
-2600:9000:2315:8c00:1b:5d9a:8ad3:e041
+2600:9000:21f3:e800:1b:5d9a:8ad3:e041
 
 </details>

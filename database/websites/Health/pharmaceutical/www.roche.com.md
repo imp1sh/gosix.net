@@ -2,7 +2,7 @@
 title: www.roche.com
 description: www.roche.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:55:39
+date: 2024-02-06T10:06:26
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Roche Holding AG, the owner of www.roche.com, is a Swiss healthcare company that
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 10:55:39+01:00 |
+| Last Check Timestamp | 2024-02-06 11:06:26+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,14 +42,14 @@ Founded in 1896 in Basel, Switzerland, Roche has grown from a small drug laborat
 <details>
 <summary>Associated IP addresses</summary>
 
-2606:4700::6810:c22c
-
-2606:4700::6810:c32c
-
 2606:4700::6810:c42c
 
 2606:4700::6810:c02c
 
+2606:4700::6810:c32c
+
 2606:4700::6810:c12c
+
+2606:4700::6810:c22c
 
 </details>

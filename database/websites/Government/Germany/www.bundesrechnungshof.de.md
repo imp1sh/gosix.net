@@ -2,7 +2,7 @@
 title: www.bundesrechnungshof.de
 description: www.bundesrechnungshof.de Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:53:39
+date: 2024-02-06T10:04:13
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ The Bundesrechnungshof (Federal Audit Office) is Germany's supreme audit institu
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-06 10:53:39+01:00 |
+| Last Check Timestamp | 2024-02-06 11:04:13+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: www.sanofi.com
 description: www.sanofi.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:55:45
+date: 2024-02-06T10:06:36
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Sanofi.com is the official website of Sanofi, a global biopharmaceutical company
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 10:55:45+01:00 |
+| Last Check Timestamp | 2024-02-06 11:06:36+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: www.influxdata.com
 description: www.influxdata.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:54:48
+date: 2024-02-06T10:05:28
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ InfluxData's website, www.influxdata.com, showcases its platform for time series
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 10:54:48+01:00 |
+| Last Check Timestamp | 2024-02-06 11:05:28+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

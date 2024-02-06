@@ -2,7 +2,7 @@
 title: crate.io
 description: crate.io Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:51:58
+date: 2024-02-06T10:02:37
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Crate.io by Crate.io offers a distributed SQL database designed for real-time an
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 10:51:58+01:00 |
+| Last Check Timestamp | 2024-02-06 11:02:37+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,12 +42,12 @@ A distinct advantage of CrateDB is its ability to run in containerized environme
 <details>
 <summary>Associated IP addresses</summary>
 
-2a04:4e42::425
-
 2a04:4e42:200::425
 
-2a04:4e42:400::425
+2a04:4e42::425
 
 2a04:4e42:600::425
+
+2a04:4e42:400::425
 
 </details>

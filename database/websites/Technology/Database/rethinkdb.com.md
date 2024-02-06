@@ -2,7 +2,7 @@
 title: rethinkdb.com
 description: rethinkdb.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T09:52:31
+date: 2024-02-06T10:03:08
 tags: website, rank2
 editor: markdown
 ---
@@ -25,7 +25,7 @@ RethinkDB is an open-source, scalable database built to store JSON documents and
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 10:52:31+01:00 |
+| Last Check Timestamp | 2024-02-06 11:03:08+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

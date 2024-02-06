@@ -2,7 +2,7 @@
 title: ns4.sanofi-synthelabo.com.
 description: ns4.sanofi-synthelabo.com. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-05T19:29:13
+date: 2024-02-06T10:07:37
 tags: authdns, rank5
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record but does not respond to ICMPv6 echo requests and rarely answers correctly to DNS queries via IPv6. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 0% |
-| Last Check Timestamp | 2024-02-05 20:29:13+01:00 |
+| Last Check Timestamp | 2024-02-06 11:07:37+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

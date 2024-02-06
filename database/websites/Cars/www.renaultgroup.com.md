@@ -2,7 +2,7 @@
 title: www.renaultgroup.com
 description: www.renaultgroup.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:48:38
+date: 2024-02-06T13:48:32
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Renault is a French multinational automobile manufacturer that produces a range 
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-06 13:48:38+01:00 |
+| Last Check Timestamp | 2024-02-06 14:48:32+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

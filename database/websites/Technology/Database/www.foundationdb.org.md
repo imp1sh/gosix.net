@@ -2,7 +2,7 @@
 title: www.foundationdb.org
 description: www.foundationdb.org Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:47:17
+date: 2024-02-06T13:47:05
 tags: website, rank1
 editor: markdown
 ---
@@ -21,11 +21,11 @@ FoundationDB is an open-source, distributed database designed to handle large-sc
 | Category | Database |
 | IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, responds to ping, http and https. |
-| Amount of AAAA records for domain | 2 |
+| Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 13:47:17+01:00 |
+| Last Check Timestamp | 2024-02-06 14:47:05+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ After a period of being closed-source post-acquisition, Apple re-released Founda
 <details>
 <summary>Associated IP addresses</summary>
 
-2a01:b740:a30:f000::201
+2a01:b740:a30:f100::208
 
-2a01:b740:a30:f100::206
+2a01:b740:a30:f100::204
 
 </details>

@@ -2,7 +2,7 @@
 title: www.voltdb.com
 description: www.voltdb.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:49:07
+date: 2024-02-06T13:49:00
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ VoltDB is an in-memory SQL database designed for applications that require ultra
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 13:49:07+01:00 |
+| Last Check Timestamp | 2024-02-06 14:49:00+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,6 +42,6 @@ VoltDB's capability to scale horizontally also means it can grow with a company'
 <details>
 <summary>Associated IP addresses</summary>
 
-2a00:1450:4001:830::2013
+2a00:1450:4001:828::2013
 
 </details>

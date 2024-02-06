@@ -2,7 +2,7 @@
 title: www.baike.com
 description: www.baike.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:45:37
+date: 2024-02-06T13:45:26
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Baike.com, owned by Chinese company Qihoo 360, is an online collaborative encycl
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-06 13:45:37+01:00 |
+| Last Check Timestamp | 2024-02-06 14:45:26+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

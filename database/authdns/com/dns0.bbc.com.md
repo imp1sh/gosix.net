@@ -2,7 +2,7 @@
 title: dns0.bbc.com.
 description: dns0.bbc.com. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-06T12:55:14
+date: 2024-02-06T13:55:25
 tags: authdns, rank5
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record but does not respond to ICMPv6 echo requests and rarely answers correctly to DNS queries via IPv6. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 0% |
-| Last Check Timestamp | 2024-02-06 13:55:14+01:00 |
+| Last Check Timestamp | 2024-02-06 14:55:25+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

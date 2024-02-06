@@ -2,7 +2,7 @@
 title: www.celgene.com
 description: www.celgene.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:46:37
+date: 2024-02-06T13:46:31
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Celgene, acquired by Bristol Myers Squibb, is a biopharmaceutical company develo
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-06 13:46:37+01:00 |
+| Last Check Timestamp | 2024-02-06 14:46:31+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

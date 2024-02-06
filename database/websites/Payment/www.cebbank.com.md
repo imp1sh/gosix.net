@@ -2,7 +2,7 @@
 title: www.cebbank.com
 description: www.cebbank.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:46:28
+date: 2024-02-06T13:46:23
 tags: website, rank2
 editor: markdown
 ---
@@ -25,7 +25,7 @@ China Everbright Bank (CEB) is a full-service Chinese banking corporation. Its w
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 13:46:28+01:00 |
+| Last Check Timestamp | 2024-02-06 14:46:23+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,6 +42,6 @@ CEB's commitment to incorporating technological innovations into its service del
 <details>
 <summary>Associated IP addresses</summary>
 
-2408:8607:1d00:0:1210::103
+240e:604:204:800:1110::103
 
 </details>

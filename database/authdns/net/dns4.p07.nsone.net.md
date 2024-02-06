@@ -2,7 +2,7 @@
 title: dns4.p07.nsone.net.
 description: dns4.p07.nsone.net. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-06T12:56:30
+date: 2024-02-06T13:56:38
 tags: authdns, rank1
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record and responds perfectly to ICMPv6 as well as DNS requests. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 100% |
-| Last Check Timestamp | 2024-02-06 13:56:30+01:00 |
+| Last Check Timestamp | 2024-02-06 14:56:38+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

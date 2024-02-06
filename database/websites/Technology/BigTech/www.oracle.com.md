@@ -2,8 +2,8 @@
 title: www.oracle.com
 description: www.oracle.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:47:53
-tags: website, rank2
+date: 2024-02-06T13:48:11
+tags: website, rank1
 editor: markdown
 ---
 
@@ -19,13 +19,13 @@ Oracle Corporation's official site, www.oracle.com, provides info on its cloud a
 | - | - |
 | Domainname | www.oracle.com
 | Category | BigTech |
-| IPv6 ranking | very good :2nd_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, does respond to http and https but not to ping. |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
 | Amount of AAAA records for domain | 2 |
-| ICMPv6 success rate | 0.0%|
+| ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 13:47:53+01:00 |
+| Last Check Timestamp | 2024-02-06 14:48:11+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

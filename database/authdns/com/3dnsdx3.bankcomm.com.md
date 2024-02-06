@@ -2,7 +2,7 @@
 title: 3dnsdx3.bankcomm.com.
 description: 3dnsdx3.bankcomm.com. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-06T12:56:38
+date: 2024-02-06T13:56:44
 tags: authdns, rank2
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record and responds well to ICMPv6 as well as DNS queries. |
 | ICMPv6 success rate | 0%|
 | DNS query success rate | 100% |
-| Last Check Timestamp | 2024-02-06 13:56:38+01:00 |
+| Last Check Timestamp | 2024-02-06 14:56:44+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

@@ -2,7 +2,7 @@
 title: www.sunpharma.com
 description: www.sunpharma.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:49:00
+date: 2024-02-06T13:48:53
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Sun Pharmaceutical Industries Ltd.'s website www.sunpharma.com offers informatio
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 13:49:00+01:00 |
+| Last Check Timestamp | 2024-02-06 14:48:53+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ With a robust distribution network that ensures the availability of products in 
 <details>
 <summary>Associated IP addresses</summary>
 
-2606:4700::6812:104d
-
 2606:4700::6812:114d
+
+2606:4700::6812:104d
 
 </details>

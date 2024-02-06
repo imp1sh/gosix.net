@@ -2,7 +2,7 @@
 title: www.lundbeck.com
 description: www.lundbeck.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:47:36
+date: 2024-02-06T13:47:23
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ H. Lundbeck A/S (www.lundbeck.com) is a Danish international pharmaceutical comp
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 13:47:36+01:00 |
+| Last Check Timestamp | 2024-02-06 14:47:23+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,20 +42,20 @@ In its quest to improve the quality of life for those affected by brain disorder
 <details>
 <summary>Associated IP addresses</summary>
 
-2600:9000:2250:e800:1e:1407:2f80:93a1
+2600:9000:224a:8c00:1e:1407:2f80:93a1
 
-2600:9000:2250:b400:1e:1407:2f80:93a1
+2600:9000:224a:dc00:1e:1407:2f80:93a1
 
-2600:9000:2250:6800:1e:1407:2f80:93a1
+2600:9000:224a:2600:1e:1407:2f80:93a1
 
-2600:9000:2250:9600:1e:1407:2f80:93a1
+2600:9000:224a:7c00:1e:1407:2f80:93a1
 
-2600:9000:2250:8200:1e:1407:2f80:93a1
+2600:9000:224a:fa00:1e:1407:2f80:93a1
 
-2600:9000:2250:1800:1e:1407:2f80:93a1
+2600:9000:224a:e200:1e:1407:2f80:93a1
 
-2600:9000:2250:4e00:1e:1407:2f80:93a1
+2600:9000:224a:c400:1e:1407:2f80:93a1
 
-2600:9000:2250:4400:1e:1407:2f80:93a1
+2600:9000:224a:4000:1e:1407:2f80:93a1
 
 </details>

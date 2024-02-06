@@ -2,8 +2,8 @@
 title: www.noris.de
 description: www.noris.de Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:47:51
-tags: website, rank1
+date: 2024-02-06T13:47:50
+tags: website, rank5
 editor: markdown
 ---
 
@@ -19,13 +19,13 @@ Noris Network AG operates noris.de, offering IT outsourcing, cloud solutions, an
 | - | - |
 | Domainname | www.noris.de
 | Category | Datacenter |
-| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, responds to ping, http and https. |
+| IPv6 ranking | problematic :arrow_double_down: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record but does respond to neither ping/http/https |
 | Amount of AAAA records for domain | 1 |
-| ICMPv6 success rate | 100.0%|
-| HTTP success rate | 100.0% |
-| HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 13:47:51+01:00 |
+| ICMPv6 success rate | 0.0%|
+| HTTP success rate | 0.0% |
+| HTTPS success rate | 0.0% |
+| Last Check Timestamp | 2024-02-06 14:47:50+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

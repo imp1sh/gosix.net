@@ -2,7 +2,7 @@
 title: wiki.junicast.de
 description: wiki.junicast.de Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:45:23
+date: 2024-02-06T13:45:13
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Junicast's wiki is a collection for technical enthusiasts with focus to Open Sou
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 13:45:23+01:00 |
+| Last Check Timestamp | 2024-02-06 14:45:13+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,8 +2,8 @@
 title: bank.pingan.com
 description: bank.pingan.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:44:30
-tags: website, rank6
+date: 2024-02-06T13:44:13
+tags: website, rank1
 editor: markdown
 ---
 
@@ -19,13 +19,13 @@ Bank.pingan.com is the official online banking platform of Ping An Bank Co., Ltd
 | - | - |
 | Domainname | bank.pingan.com
 | Category | Payment |
-| IPv6 ranking | nonexistent :x: [🔗](/howto/ranking) |
-| Explanation | The domain doesn't even have an AAAA record to begin with. The is the worst ranking a webite can get in the IPv6 database. |
-| Amount of AAAA records for domain | 0 |
-| ICMPv6 success rate | 70.0%|
-| HTTP success rate | 90.0% |
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record, responds to ping, http and https. |
+| Amount of AAAA records for domain | 10 |
+| ICMPv6 success rate | 90.0%|
+| HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 13:44:30+01:00 |
+| Last Check Timestamp | 2024-02-06 14:44:13+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -38,3 +38,28 @@ The website "bank.pingan.com" features a user-friendly interface that provides c
 As a part of the Ping An Group, which is known for its leadership in financial and insurance services, Ping An Bank leverages cutting-edge technology to deliver innovative services. Its online platform reflects the bank's commitment to digital transformation in the financial industry, aiming to provide a seamless and integrated banking experience. With a focus on customer-centric approaches, Ping An Bank continues to expand its online presence, enhancing its digital capabilities to meet the evolving needs of its customers in the rapidly changing financial landscape.
 
 
+
+<details>
+<summary>Associated IP addresses</summary>
+
+2409:8c50:a00:2083:8000:0:b00:16
+
+240e:c2:1800:103:8000:0:b00:100
+
+240e:c3:2800:200:8000::100
+
+2408:8752:600:9:8000:0:b00:100
+
+240e:93c:209:2:8000:0:b00:90
+
+2409:8c44:3d00:2:8000:0:b00:18
+
+2409:8c44:3d01:ff01:8000:0:b00:100
+
+2409:8c44:b00:ff07:8000:0:b00:86
+
+2408:8752:700:3:8000:0:b00:100
+
+2409:8c4c:c00:339:8000:0:b00:53
+
+</details>

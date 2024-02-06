@@ -2,7 +2,7 @@
 title: www.nytimes.com
 description: www.nytimes.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:47:52
+date: 2024-02-06T13:48:11
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ editor: markdown
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-06 13:47:52+01:00 |
+| Last Check Timestamp | 2024-02-06 14:48:11+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

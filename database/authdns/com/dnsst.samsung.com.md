@@ -2,7 +2,7 @@
 title: dnsst.samsung.com.
 description: dnsst.samsung.com. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-06T12:57:31
+date: 2024-02-06T13:57:30
 tags: authdns, rank5
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record but does not respond to ICMPv6 echo requests and rarely answers correctly to DNS queries via IPv6. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 0% |
-| Last Check Timestamp | 2024-02-06 13:57:31+01:00 |
+| Last Check Timestamp | 2024-02-06 14:57:30+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

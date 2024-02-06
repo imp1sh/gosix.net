@@ -2,7 +2,7 @@
 title: www.linkedin.com
 description: www.linkedin.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:47:34
+date: 2024-02-06T13:47:22
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ LinkedIn is a professional networking site that enables users to connect with co
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 13:47:34+01:00 |
+| Last Check Timestamp | 2024-02-06 14:47:22+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,6 +40,6 @@ The platform enables users to create individual profiles that highlight professi
 <details>
 <summary>Associated IP addresses</summary>
 
-2620:1ec:22::14
+2620:1ec:21::14
 
 </details>

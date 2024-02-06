@@ -2,7 +2,7 @@
 title: www.regeneron.com
 description: www.regeneron.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T12:48:37
+date: 2024-02-06T13:48:31
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Regeneron Pharmaceuticals is a biotech company, known for its innovative treatme
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 13:48:37+01:00 |
+| Last Check Timestamp | 2024-02-06 14:48:31+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -44,8 +44,8 @@ Additionally, www.regeneron.com is a resource hub for patients, healthcare profe
 
 2606:4700:10::6816:229
 
-2606:4700:10::ac43:1e03
-
 2606:4700:10::6816:329
+
+2606:4700:10::ac43:1e03
 
 </details>

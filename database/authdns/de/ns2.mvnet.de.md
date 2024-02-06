@@ -2,7 +2,7 @@
 title: ns2.mvnet.de.
 description: ns2.mvnet.de. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-06T12:52:26
+date: 2024-02-06T13:52:35
 tags: authdns, rank2
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record and responds well to ICMPv6 as well as DNS queries. |
 | ICMPv6 success rate | 0%|
 | DNS query success rate | 100% |
-| Last Check Timestamp | 2024-02-06 13:52:26+01:00 |
+| Last Check Timestamp | 2024-02-06 14:52:35+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

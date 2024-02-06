@@ -2,7 +2,7 @@
 title: ns020-pmjk0ra7l9vaiil3.p.d-53.org.
 description: ns020-pmjk0ra7l9vaiil3.p.d-53.org. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-06T12:51:46
+date: 2024-02-06T13:51:52
 tags: authdns, rank5
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record but does not respond to ICMPv6 echo requests and rarely answers correctly to DNS queries via IPv6. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 0% |
-| Last Check Timestamp | 2024-02-06 13:51:46+01:00 |
+| Last Check Timestamp | 2024-02-06 14:51:52+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

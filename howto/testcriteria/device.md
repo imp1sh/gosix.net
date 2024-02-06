@@ -2,7 +2,7 @@
 title: Test Criteria Device
 description: This howto defines what tests to make for a device check
 published: true
-date: 2024-01-20T09:51:06.956Z
+date: 2024-01-26T09:30:45.342Z
 tags: device, howto, criteria
 editor: markdown
 dateCreated: 2024-01-20T09:51:05.768Z

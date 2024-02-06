@@ -2,7 +2,7 @@
 title: Test Criteria OS
 description: This howto defines what tests to make for an OS check
 published: true
-date: 2024-01-23T21:46:06.297Z
+date: 2024-01-26T09:30:50.396Z
 tags: howto, criteria, os
 editor: markdown
 dateCreated: 2024-01-20T09:45:25.657Z

@@ -2,7 +2,7 @@
 title: Test Criteria Game
 description: This howto defines what tests to make for a game check
 published: true
-date: 2024-01-20T09:59:16.406Z
+date: 2024-01-26T09:30:46.742Z
 tags: howto, criteria, game
 editor: markdown
 dateCreated: 2024-01-20T09:59:15.148Z

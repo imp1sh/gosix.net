@@ -2,7 +2,7 @@
 title: Test Criteria ISP
 description: This howto defines what tests to make for an ISP check
 published: true
-date: 2024-01-25T23:36:55.165Z
+date: 2024-01-26T09:30:49.167Z
 tags: isp, howto, criteria
 editor: markdown
 dateCreated: 2024-01-20T09:49:28.639Z

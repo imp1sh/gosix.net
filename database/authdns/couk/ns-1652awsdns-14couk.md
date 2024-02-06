@@ -1,0 +1,53 @@
+---
+title: ns-1652.awsdns-14.co.uk.
+description: ns-1652.awsdns-14.co.uk. Authoritative DNS Nameserver IPv6 compatibility
+published: true
+date: 2024-02-06T14:05:54.006Z
+tags: rank1, authdns
+editor: markdown
+dateCreated: 2024-02-03T00:47:31.487Z
+---
+
+# ns-1652.awsdns-14.co.uk. Authoritative DNS IPv6 compatibility
+
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
+{.is-info}
+
+
+
+
+|   |   |
+| - | - |
+| Nameserver DNS name | ns-1652.awsdns-14.co.uk.
+| Amount IPv6 address | 1
+| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
+| Explanation | The nameserver has an AAAA record and responds perfectly to ICMPv6 as well as DNS requests. |
+| ICMPv6 success rate | 100%|
+| DNS query success rate | 100% |
+| Last Check Timestamp | 2024-02-06 13:53:32+01:00 |
+
+To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
+
+
+## What is ns-1652.awsdns-14.co.uk. about?
+
+
+
+
+<details>
+<summary>Nameserver's IP addresses</summary>
+
+2600:9000:5306:7400::1
+
+</details>
+
+
+
+<details>
+<summary>Associated domain names</summary>
+
+www.doopedia.co.kr
+
+www.nytimes.com
+
+</details>

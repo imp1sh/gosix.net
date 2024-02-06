@@ -2,7 +2,7 @@
 title: Orange
 description: Orange is a prominent ISP providing telecommunications services. Offering internet connectivity, mobile, and TV services, it's known for reliable connectivity, customer-focused solutions, and a significant presence in Poland's telecommunications market.
 published: true
-date: 2024-02-05T10:11:32.642Z
+date: 2024-02-05T10:11:34.042Z
 tags: isp
 editor: markdown
 dateCreated: 2024-02-05T10:11:32.642Z

@@ -2,7 +2,7 @@
 title: UE55RU
 description: Samsung LED 4K TV UE55RU7179UXZG IPv6 compatibility
 published: true
-date: 2024-01-19T18:34:17.192Z
+date: 2024-01-26T09:31:01.396Z
 tags: device
 editor: markdown
 dateCreated: 2024-01-19T18:28:35.539Z

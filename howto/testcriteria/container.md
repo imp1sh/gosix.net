@@ -2,7 +2,7 @@
 title: Test Criteria Container
 description: This howto defines what tests to make for a container image check
 published: true
-date: 2024-01-20T10:08:16.654Z
+date: 2024-01-26T09:30:42.837Z
 tags: container, howto, criteria
 editor: markdown
 dateCreated: 2024-01-20T10:08:15.400Z

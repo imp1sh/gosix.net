@@ -2,7 +2,7 @@
 title: Test Criteria website
 description: This howto defines how to rank ipv6 website checks
 published: true
-date: 2024-02-02T22:51:17.567Z
+date: 2024-02-02T22:51:18.794Z
 tags: website, howto, criteria
 editor: markdown
 dateCreated: 2024-01-20T09:53:28.658Z

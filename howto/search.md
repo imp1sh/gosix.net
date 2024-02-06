@@ -2,7 +2,7 @@
 title: search function
 description: Some details about the gosix.net search function
 published: true
-date: 2024-02-01T05:29:19.939Z
+date: 2024-02-01T05:29:21.144Z
 tags: howto
 editor: markdown
 dateCreated: 2024-02-01T05:26:13.880Z

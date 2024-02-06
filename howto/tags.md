@@ -2,7 +2,7 @@
 title: Tags
 description: How to use tags on gosix.net
 published: true
-date: 2024-02-01T07:45:28.924Z
+date: 2024-02-01T07:45:30.113Z
 tags: howto, tags
 editor: markdown
 dateCreated: 2024-01-19T19:26:46.544Z

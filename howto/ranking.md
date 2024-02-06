@@ -2,7 +2,7 @@
 title: Rankings
 description: How does the ranking system work?
 published: true
-date: 2024-01-31T17:11:10.989Z
+date: 2024-01-31T17:11:12.169Z
 tags: howto, ranking
 editor: markdown
 dateCreated: 2024-01-19T19:54:35.804Z

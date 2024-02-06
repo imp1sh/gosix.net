@@ -2,7 +2,7 @@
 title: OpenDTU IPv6 Compatibility
 description: OpenDTU self hosted solar statistics IPv6 compatibility
 published: true
-date: 2024-01-19T20:29:16.871Z
+date: 2024-01-26T09:30:41.612Z
 tags: software, rank6
 editor: markdown
 dateCreated: 2024-01-18T21:12:28.054Z

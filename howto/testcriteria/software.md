@@ -2,7 +2,7 @@
 title: Test Criteria Software
 description: This howto defines what tests to make for a software check
 published: true
-date: 2024-01-20T10:03:17.215Z
+date: 2024-01-26T09:30:51.655Z
 tags: software, howto, criteria
 editor: markdown
 dateCreated: 2024-01-20T10:03:15.950Z

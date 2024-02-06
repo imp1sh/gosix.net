@@ -2,7 +2,7 @@
 title: Test Criteria Datacenter
 description: This howto defines what tests to make for a datacenter check
 published: true
-date: 2024-01-20T10:10:16.317Z
+date: 2024-01-26T09:30:44.090Z
 tags: datacenter, howto, criteria
 editor: markdown
 dateCreated: 2024-01-20T10:10:15.079Z

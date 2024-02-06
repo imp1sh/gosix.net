@@ -2,7 +2,7 @@
 title: Image Upload
 description: How to handle image uploads at gosix.net
 published: true
-date: 2024-02-01T06:00:25.592Z
+date: 2024-02-01T06:00:26.774Z
 tags: howto
 editor: markdown
 dateCreated: 2024-02-01T05:59:50.284Z

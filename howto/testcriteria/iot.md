@@ -2,7 +2,7 @@
 title: Test Criteria IOT
 description: This howto defines what tests to make for an IOT check
 published: true
-date: 2024-01-20T10:06:08.689Z
+date: 2024-01-26T09:30:47.965Z
 tags: iot, howto, criteria
 editor: markdown
 dateCreated: 2024-01-20T10:05:34.013Z

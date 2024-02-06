@@ -2,7 +2,7 @@
 title: Chat
 description: The IPv6 community main communcation channel
 published: true
-date: 2024-02-01T05:02:50.647Z
+date: 2024-02-01T05:02:51.836Z
 tags: howto, chat, matrix
 editor: markdown
 dateCreated: 2024-01-26T09:56:24.617Z

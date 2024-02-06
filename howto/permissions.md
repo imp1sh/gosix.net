@@ -2,7 +2,7 @@
 title: Permissions
 description: What permissions are there and how to get them
 published: true
-date: 2024-02-01T05:39:51.664Z
+date: 2024-02-01T05:39:52.871Z
 tags: howto, permissions
 editor: markdown
 dateCreated: 2024-01-18T18:21:26.228Z

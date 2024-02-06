@@ -1,0 +1,44 @@
+---
+title: dnsx2306.huk-coburg.de.
+description: dnsx2306.huk-coburg.de. Authoritative DNS Nameserver IPv6 compatibility
+published: true
+date: 2024-02-03T00:58:32.788Z
+tags: rank6, authdns
+editor: markdown
+dateCreated: 2024-02-03T00:58:31.475Z
+---
+
+# dnsx2306.huk-coburg.de. Authoritative DNS IPv6 compatibility
+
+> The results shown here are accumulated by automation. If you're convinced the displayed data is wrong, please [contact the administrators](/howto/chat). 
+{.is-info}
+
+
+
+
+|   |   |
+| - | - |
+| Nameserver DNS name | dnsx2306.huk-coburg.de.
+| Amount IPv6 address | 0
+| IPv6 ranking | nonexistent :x: [🔗](/howto/ranking) |
+| Explanation | The nameserver does not even have an AAAA record. It isn't getting any worse than that. |
+| ICMPv6 success rate | 0%|
+| DNS query success rate | 0% |
+| Last Check Timestamp | 2024-02-02 17:03:55.190078+01:00 |
+
+To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
+
+
+## What is dnsx2306.huk-coburg.de. about?
+
+
+
+
+
+
+<details>
+<summary>Associated domain names</summary>
+
+www.huk.de
+
+</details>

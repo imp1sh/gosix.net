@@ -2,7 +2,7 @@
 title: Kyocera Ecosys KM2535dn
 description: Kyocera Ecosys KM2535dn IPv6 compatibility
 published: true
-date: 2024-01-19T20:22:58.181Z
+date: 2024-01-26T09:31:05.019Z
 tags: rank2, device
 editor: markdown
 dateCreated: 2024-01-18T01:02:53.913Z

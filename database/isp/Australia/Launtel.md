@@ -2,7 +2,7 @@
 title: Launtel
 description: Australia ISP
 published: true
-date: 2024-02-05T00:46:04.037Z
+date: 2024-02-05T00:46:05.241Z
 tags: isp
 editor: markdown
 dateCreated: 2024-02-05T00:46:04.037Z

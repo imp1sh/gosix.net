@@ -2,7 +2,7 @@
 title: Imprint
 description: Imprint and privacy information
 published: true
-date: 2024-01-31T15:45:27.552Z
+date: 2024-01-31T15:45:28.780Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-20T13:04:34.343Z

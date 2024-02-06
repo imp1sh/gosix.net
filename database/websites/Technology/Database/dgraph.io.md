@@ -2,7 +2,7 @@
 title: dgraph.io
 description: dgraph.io Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:02:38
+date: 2024-02-06T12:44:35
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Dgraph is an open-source, distributed graph database by Dgraph Labs, featuring a
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:02:38+01:00 |
+| Last Check Timestamp | 2024-02-06 13:44:35+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -44,8 +44,8 @@ With its developer-friendly approach, Dgraph facilitates easy integration with e
 
 2606:4700:20::ac43:482b
 
-2606:4700:20::681a:2e1
-
 2606:4700:20::681a:3e1
+
+2606:4700:20::681a:2e1
 
 </details>

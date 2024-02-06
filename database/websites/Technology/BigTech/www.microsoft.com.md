@@ -2,7 +2,7 @@
 title: www.microsoft.com
 description: www.microsoft.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:05:45
+date: 2024-02-06T12:47:40
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Microsoft.com is the official website for Microsoft Corporation, providing info 
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:05:45+01:00 |
+| Last Check Timestamp | 2024-02-06 13:47:40+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,14 +42,14 @@ Moreover, Microsoft's online platform extends beyond transactions to encompass e
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:18d::356e
-
-2a02:26f0:280:190::356e
-
 2a02:26f0:280:192::356e
 
-2a02:26f0:280:193::356e
+2a02:26f0:280:19b::356e
 
 2a02:26f0:280:183::356e
+
+2a02:26f0:280:18d::356e
+
+2a02:26f0:280:193::356e
 
 </details>

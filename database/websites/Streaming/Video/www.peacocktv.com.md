@@ -2,8 +2,8 @@
 title: www.peacocktv.com
 description: www.peacocktv.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:06:07
-tags: website, rank1
+date: 2024-02-06T12:48:01
+tags: website, rank5
 editor: markdown
 ---
 
@@ -19,13 +19,13 @@ Peacock is a streaming service by NBCUniversal offering original programming, hi
 | - | - |
 | Domainname | www.peacocktv.com
 | Category | Video |
-| IPv6 ranking | perfect :1st_place_medal: [🔗](/howto/ranking) |
-| Explanation | The domain has an AAAA record, responds to ping, http and https. |
+| IPv6 ranking | problematic :arrow_double_down: [🔗](/howto/ranking) |
+| Explanation | The domain has an AAAA record but does respond to neither ping/http/https |
 | Amount of AAAA records for domain | 2 |
-| ICMPv6 success rate | 100.0%|
-| HTTP success rate | 100.0% |
-| HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:06:07+01:00 |
+| ICMPv6 success rate | 0.0%|
+| HTTP success rate | 0.0% |
+| HTTPS success rate | 0.0% |
+| Last Check Timestamp | 2024-02-06 13:48:01+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ Moreover, Peacock serves as a hub for sports enthusiasts, offering live sports i
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:3500:e::1732:8355
+2001:4dd0:200:11a::51ad:c761
 
-2a02:26f0:3500:e::1732:8345
+2001:4dd0:200:11a::51ad:c758
 
 </details>

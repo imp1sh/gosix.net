@@ -2,7 +2,7 @@
 title: www.stern.de
 description: www.stern.de Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:06:50
+date: 2024-02-06T12:49:00
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ editor: markdown
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-06 11:06:50+01:00 |
+| Last Check Timestamp | 2024-02-06 13:49:00+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

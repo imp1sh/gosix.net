@@ -2,7 +2,7 @@
 title: www.bmi.bund.de
 description: www.bmi.bund.de Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:03:42
+date: 2024-02-06T12:45:44
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ The Bundesministerium des Innern und für Heimat, translated as the Federal Mini
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-06 11:03:42+01:00 |
+| Last Check Timestamp | 2024-02-06 13:45:44+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

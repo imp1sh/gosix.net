@@ -2,7 +2,7 @@
 title: www.cebbank.com
 description: www.cebbank.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:04:30
+date: 2024-02-06T12:46:28
 tags: website, rank2
 editor: markdown
 ---
@@ -21,11 +21,11 @@ China Everbright Bank (CEB) is a full-service Chinese banking corporation. Its w
 | Category | Payment |
 | IPv6 ranking | very good :2nd_place_medal: [🔗](/howto/ranking) |
 | Explanation | The domain has an AAAA record, does respond to http and https but not to ping. |
-| Amount of AAAA records for domain | 6 |
+| Amount of AAAA records for domain | 1 |
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:04:30+01:00 |
+| Last Check Timestamp | 2024-02-06 13:46:28+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,16 +42,6 @@ CEB's commitment to incorporating technological innovations into its service del
 <details>
 <summary>Associated IP addresses</summary>
 
-240e:604:207:700:2110::103
-
 2408:8607:1d00:0:1210::103
-
-2408:8607:2500:0:2210::103
-
-2409:8700:1:d0:2310::103
-
-2409:8700:1801:110:1310::103
-
-240e:604:204:800:1110::103
 
 </details>

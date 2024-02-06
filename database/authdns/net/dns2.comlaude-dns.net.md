@@ -2,7 +2,7 @@
 title: dns2.comlaude-dns.net.
 description: dns2.comlaude-dns.net. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-06T10:08:35
+date: 2024-02-06T12:52:40
 tags: authdns, rank5
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record but does not respond to ICMPv6 echo requests and rarely answers correctly to DNS queries via IPv6. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 0% |
-| Last Check Timestamp | 2024-02-06 11:08:35+01:00 |
+| Last Check Timestamp | 2024-02-06 13:52:40+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

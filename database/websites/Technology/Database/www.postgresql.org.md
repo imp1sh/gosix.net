@@ -2,7 +2,7 @@
 title: www.postgresql.org
 description: www.postgresql.org Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:06:08
+date: 2024-02-06T12:48:21
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ PostgreSQL.org is the official website for PostgreSQL, an advanced open-source r
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:06:08+01:00 |
+| Last Check Timestamp | 2024-02-06 13:48:21+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,9 +40,9 @@ The official PostgreSQL website, found at www.postgresql.org, serves as the cent
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:c0:301:0:ffff::32
-
 2001:4800:3e1:1::230
+
+2a02:c0:301:0:ffff::32
 
 2a02:16a8:dc51::50
 

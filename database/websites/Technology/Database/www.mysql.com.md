@@ -2,7 +2,7 @@
 title: www.mysql.com
 description: www.mysql.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:05:46
+date: 2024-02-06T12:47:41
 tags: website, rank1
 editor: markdown
 ---
@@ -24,8 +24,8 @@ MySQL.com, by Oracle Corporation, is the official site for MySQL, the world's mo
 | Amount of AAAA records for domain | 2 |
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
-| HTTPS success rate | 50.0% |
-| Last Check Timestamp | 2024-02-06 11:05:46+01:00 |
+| HTTPS success rate | 100.0% |
+| Last Check Timestamp | 2024-02-06 13:47:41+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ Oracle has continued to develop MySQL as a competitive product in the database m
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:488::2e31
+2a02:26f0:c6:38c::2e31
 
-2a02:26f0:280:4ac::2e31
+2a02:26f0:c6:388::2e31
 
 </details>

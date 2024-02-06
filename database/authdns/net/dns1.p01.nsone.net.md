@@ -2,7 +2,7 @@
 title: dns1.p01.nsone.net.
 description: dns1.p01.nsone.net. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-06T10:08:29
+date: 2024-02-06T12:52:24
 tags: authdns, rank1
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record and responds perfectly to ICMPv6 as well as DNS requests. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 100% |
-| Last Check Timestamp | 2024-02-06 11:08:29+01:00 |
+| Last Check Timestamp | 2024-02-06 13:52:24+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 
@@ -38,14 +38,14 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Associated domain names</summary>
 
-www.auswaertiges-amt.de
-
-www.bmz.de
+www.intuit.com
 
 www.bundesregierung.de
 
-www.bundestag.de
+www.bmz.de
 
-www.intuit.com
+www.auswaertiges-amt.de
+
+www.bundestag.de
 
 </details>

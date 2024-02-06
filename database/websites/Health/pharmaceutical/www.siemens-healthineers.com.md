@@ -2,7 +2,7 @@
 title: www.siemens-healthineers.com
 description: www.siemens-healthineers.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:06:37
+date: 2024-02-06T12:48:46
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Siemens Healthineers AG's website, www.siemens-healthineers.com, offers informat
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-06 11:06:37+01:00 |
+| Last Check Timestamp | 2024-02-06 13:48:46+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

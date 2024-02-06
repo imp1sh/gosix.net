@@ -2,7 +2,7 @@
 title: ns1.p57.dynect.net.
 description: ns1.p57.dynect.net. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-06T10:16:13
+date: 2024-02-06T12:50:37
 tags: authdns, rank2
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record and responds well to ICMPv6 as well as DNS queries. |
 | ICMPv6 success rate | 0%|
 | DNS query success rate | 100% |
-| Last Check Timestamp | 2024-02-06 11:16:13+01:00 |
+| Last Check Timestamp | 2024-02-06 13:50:37+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

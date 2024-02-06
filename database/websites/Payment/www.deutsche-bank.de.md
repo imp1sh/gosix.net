@@ -2,7 +2,7 @@
 title: www.deutsche-bank.de
 description: www.deutsche-bank.de Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:05:09
+date: 2024-02-06T12:47:03
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Deutsche Bank AG's website www.deutsche-bank.de offers banking services, includi
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:05:09+01:00 |
+| Last Check Timestamp | 2024-02-06 13:47:03+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,20 +42,20 @@ Moreover, www.deutsche-bank.de reflects Deutsche Bank's commitment to innovation
 <details>
 <summary>Associated IP addresses</summary>
 
-2600:9000:2251:f600:13:46b5:7d80:93a1
+2600:9000:2251:6800:13:46b5:7d80:93a1
 
-2600:9000:2251:1600:13:46b5:7d80:93a1
+2600:9000:2251:8600:13:46b5:7d80:93a1
 
-2600:9000:2251:2a00:13:46b5:7d80:93a1
+2600:9000:2251:4400:13:46b5:7d80:93a1
 
-2600:9000:2251:8400:13:46b5:7d80:93a1
+2600:9000:2251:3a00:13:46b5:7d80:93a1
+
+2600:9000:2251:be00:13:46b5:7d80:93a1
+
+2600:9000:2251:c800:13:46b5:7d80:93a1
+
+2600:9000:2251:600:13:46b5:7d80:93a1
 
 2600:9000:2251:9600:13:46b5:7d80:93a1
-
-2600:9000:2251:aa00:13:46b5:7d80:93a1
-
-2600:9000:2251:ae00:13:46b5:7d80:93a1
-
-2600:9000:2251:ec00:13:46b5:7d80:93a1
 
 </details>

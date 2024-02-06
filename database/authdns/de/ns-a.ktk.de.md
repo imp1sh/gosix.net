@@ -2,7 +2,7 @@
 title: ns-a.ktk.de.
 description: ns-a.ktk.de. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-06T10:15:34
+date: 2024-02-06T12:59:38
 tags: authdns, rank1
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record and responds perfectly to ICMPv6 as well as DNS requests. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 100% |
-| Last Check Timestamp | 2024-02-06 11:15:34+01:00 |
+| Last Check Timestamp | 2024-02-06 13:59:38+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 

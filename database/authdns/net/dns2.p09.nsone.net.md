@@ -2,7 +2,7 @@
 title: dns2.p09.nsone.net.
 description: dns2.p09.nsone.net. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-06T10:08:36
+date: 2024-02-06T12:52:41
 tags: authdns, rank5
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record but does not respond to ICMPv6 echo requests and rarely answers correctly to DNS queries via IPv6. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 0% |
-| Last Check Timestamp | 2024-02-06 11:08:36+01:00 |
+| Last Check Timestamp | 2024-02-06 13:52:41+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 
@@ -45,14 +45,14 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Associated domain names</summary>
 
-www.disneyplus.com
-
-www.fiat.com
+www.msn.com
 
 www.linkedin.com
 
-www.msn.com
-
 www.nvidia.com
+
+www.fiat.com
+
+www.disneyplus.com
 
 </details>

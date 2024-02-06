@@ -2,7 +2,7 @@
 title: www.sanofi.com
 description: www.sanofi.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:06:36
+date: 2024-02-06T12:48:44
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Sanofi.com is the official website of Sanofi, a global biopharmaceutical company
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:06:36+01:00 |
+| Last Check Timestamp | 2024-02-06 13:48:44+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,20 +42,20 @@ Please note that this description is based on general knowledge about the compan
 <details>
 <summary>Associated IP addresses</summary>
 
-2600:9000:2250:c800:f:cfc9:ee40:93a1
+2600:9000:2250:5000:f:cfc9:ee40:93a1
 
-2600:9000:2250:a600:f:cfc9:ee40:93a1
+2600:9000:2250:5400:f:cfc9:ee40:93a1
 
-2600:9000:2250:2000:f:cfc9:ee40:93a1
+2600:9000:2250:8e00:f:cfc9:ee40:93a1
 
-2600:9000:2250:6c00:f:cfc9:ee40:93a1
+2600:9000:2250:9e00:f:cfc9:ee40:93a1
 
-2600:9000:2250:8800:f:cfc9:ee40:93a1
+2600:9000:2250:da00:f:cfc9:ee40:93a1
 
-2600:9000:2250:200:f:cfc9:ee40:93a1
+2600:9000:2250:e800:f:cfc9:ee40:93a1
 
-2600:9000:2250:3c00:f:cfc9:ee40:93a1
+2600:9000:2250:ee00:f:cfc9:ee40:93a1
 
-2600:9000:2250:8200:f:cfc9:ee40:93a1
+2600:9000:2250:f200:f:cfc9:ee40:93a1
 
 </details>

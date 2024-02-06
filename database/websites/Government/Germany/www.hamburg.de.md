@@ -2,7 +2,7 @@
 title: www.hamburg.de
 description: www.hamburg.de Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:05:24
+date: 2024-02-06T12:47:18
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ www.hamburg.de is the official portal for the city of Hamburg, Germany, offering
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:05:24+01:00 |
+| Last Check Timestamp | 2024-02-06 13:47:18+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ With its comprehensive approach to delivering municipal news and services, hambu
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:4::213:7858
+2a02:26f0:3100::1735:2b73
 
-2a02:26f0:280:4::213:784b
+2a02:26f0:3100::1735:2ba0
 
 </details>

@@ -2,7 +2,7 @@
 title: www.memsql.com
 description: www.memsql.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:05:45
+date: 2024-02-06T12:47:39
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ SingleStore (formerly MemSQL) offers a distributed, relational, SQL database man
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:05:45+01:00 |
+| Last Check Timestamp | 2024-02-06 13:47:39+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,20 +42,20 @@ SingleStore offers full SQL support and is compatible with popular SQL-based too
 <details>
 <summary>Associated IP addresses</summary>
 
+2600:9000:2156:4c00:1d:6ef1:2fc0:93a1
+
 2600:9000:2156:5a00:1d:6ef1:2fc0:93a1
 
-2600:9000:2156:2400:1d:6ef1:2fc0:93a1
+2600:9000:2156:a200:1d:6ef1:2fc0:93a1
+
+2600:9000:2156:ac00:1d:6ef1:2fc0:93a1
+
+2600:9000:2156:b600:1d:6ef1:2fc0:93a1
 
 2600:9000:2156:cc00:1d:6ef1:2fc0:93a1
 
-2600:9000:2156:3400:1d:6ef1:2fc0:93a1
+2600:9000:2156:d600:1d:6ef1:2fc0:93a1
 
-2600:9000:2156:6000:1d:6ef1:2fc0:93a1
-
-2600:9000:2156:4400:1d:6ef1:2fc0:93a1
-
-2600:9000:2156:2c00:1d:6ef1:2fc0:93a1
-
-2600:9000:2156:ee00:1d:6ef1:2fc0:93a1
+2600:9000:2156:4800:1d:6ef1:2fc0:93a1
 
 </details>

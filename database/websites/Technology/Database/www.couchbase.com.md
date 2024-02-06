@@ -2,7 +2,7 @@
 title: www.couchbase.com
 description: www.couchbase.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:05:03
+date: 2024-02-06T12:46:57
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Couchbase, Inc. offers an enterprise-class, multicloud NoSQL database for busine
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:05:03+01:00 |
+| Last Check Timestamp | 2024-02-06 13:46:57+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,8 +40,8 @@ Couchbase's ecosystem is also known for Mobile and Edge Computing solutions, wit
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:5::213:7809
+2a02:26f0:e300::211:9383
 
-2a02:26f0:280:5::213:781f
+2a02:26f0:e300::211:9388
 
 </details>

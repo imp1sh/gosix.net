@@ -38,14 +38,14 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Associated domain names</summary>
 
-audi.de
+www.volkswagen-group.com
 
-www.audi.com
+audi.de
 
 www.provinzial.de
 
-www.vkb.de
+www.audi.com
 
-www.volkswagen-group.com
+www.vkb.de
 
 </details>

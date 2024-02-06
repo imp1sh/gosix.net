@@ -2,7 +2,7 @@
 title: www.crunchyroll.com
 description: www.crunchyroll.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:05:05
+date: 2024-02-06T12:47:01
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Crunchyroll by Sony is an online streaming service specializing in anime and man
 | ICMPv6 success rate | 0%|
 | HTTP success rate | 0% |
 | HTTPS success rate | 0% |
-| Last Check Timestamp | 2024-02-06 11:05:05+01:00 |
+| Last Check Timestamp | 2024-02-06 13:47:01+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

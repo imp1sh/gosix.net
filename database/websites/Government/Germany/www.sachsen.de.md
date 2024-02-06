@@ -2,7 +2,7 @@
 title: www.sachsen.de
 description: www.sachsen.de Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:06:30
+date: 2024-02-06T12:48:39
 tags: website, rank2
 editor: markdown
 ---
@@ -25,7 +25,7 @@ The official website of the Free State of Saxony, Germany, provides regional gov
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:06:30+01:00 |
+| Last Check Timestamp | 2024-02-06 13:48:39+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

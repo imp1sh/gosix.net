@@ -2,7 +2,7 @@
 title: www.bundesgesundheitsministerium.de
 description: www.bundesgesundheitsministerium.de Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:04:08
+date: 2024-02-06T12:46:10
 tags: website, rank2
 editor: markdown
 ---
@@ -25,7 +25,7 @@ The Bundesministerium für Gesundheit (Federal Ministry of Health) in Germany fo
 | ICMPv6 success rate | 0.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:04:08+01:00 |
+| Last Check Timestamp | 2024-02-06 13:46:10+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

@@ -2,7 +2,7 @@
 title: bank.pingan.com
 description: bank.pingan.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:02:36
+date: 2024-02-06T12:44:30
 tags: website, rank6
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Bank.pingan.com is the official online banking platform of Ping An Bank Co., Ltd
 | ICMPv6 success rate | 70.0%|
 | HTTP success rate | 90.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:02:36+01:00 |
+| Last Check Timestamp | 2024-02-06 13:44:30+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 

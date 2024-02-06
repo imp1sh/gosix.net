@@ -2,7 +2,7 @@
 title: d.ns14.net.
 description: d.ns14.net. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-06T10:07:38
+date: 2024-02-06T12:51:45
 tags: authdns, rank1
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record and responds perfectly to ICMPv6 as well as DNS requests. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 100% |
-| Last Check Timestamp | 2024-02-06 11:07:38+01:00 |
+| Last Check Timestamp | 2024-02-06 13:51:45+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 
@@ -45,13 +45,13 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Associated domain names</summary>
 
-www.bmas.de
-
-www.bmfsfj.de
-
 www.bmuv.de
 
 www.bundesfinanzhof.de
+
+www.bmas.de
+
+www.bmfsfj.de
 
 www.bundesfinanzministerium.de
 

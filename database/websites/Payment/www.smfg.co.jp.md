@@ -2,7 +2,7 @@
 title: www.smfg.co.jp
 description: www.smfg.co.jp Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:06:38
+date: 2024-02-06T12:48:47
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ The Sumitomo Mitsui Financial Group (SMFG) is a Japanese bank holding company of
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:06:38+01:00 |
+| Last Check Timestamp | 2024-02-06 13:48:47+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -42,8 +42,8 @@ With comprehensive insights into SMFG's business model, the website delineates t
 <details>
 <summary>Associated IP addresses</summary>
 
-2a02:26f0:280:18b::111e
+2a02:26f0:e300:28a::111e
 
-2a02:26f0:280:192::111e
+2a02:26f0:e300:287::111e
 
 </details>

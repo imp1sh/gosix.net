@@ -2,7 +2,7 @@
 title: secondary004.dtag.net.
 description: secondary004.dtag.net. Authoritative DNS Nameserver IPv6 compatibility
 published: true
-date: 2024-02-06T10:09:57
+date: 2024-02-06T12:54:09
 tags: authdns, rank1
 editor: markdown
 ---
@@ -23,7 +23,7 @@ editor: markdown
 | Explanation | The nameserver has an AAAA record and responds perfectly to ICMPv6 as well as DNS requests. |
 | ICMPv6 success rate | 100%|
 | DNS query success rate | 100% |
-| Last Check Timestamp | 2024-02-06 11:09:57+01:00 |
+| Last Check Timestamp | 2024-02-06 13:54:09+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/authdns)!
 
@@ -45,14 +45,14 @@ To see how this test was performed, please have a look at [our website test crit
 <details>
 <summary>Associated domain names</summary>
 
-www.bmvg.de
-
 www.huk.de
+
+www.signal-iduna.de
 
 www.ruv.de
 
-www.sachsen-anhalt.de
+www.bmvg.de
 
-www.signal-iduna.de
+www.sachsen-anhalt.de
 
 </details>

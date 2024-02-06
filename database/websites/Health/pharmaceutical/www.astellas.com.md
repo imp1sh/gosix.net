@@ -2,7 +2,7 @@
 title: www.astellas.com
 description: www.astellas.com Website IPv6 compatibility
 published: true
-date: 2024-02-06T10:03:34
+date: 2024-02-06T12:45:36
 tags: website, rank1
 editor: markdown
 ---
@@ -25,7 +25,7 @@ Astellas Pharma Inc. is a global pharmaceutical company focused on developing in
 | ICMPv6 success rate | 100.0%|
 | HTTP success rate | 100.0% |
 | HTTPS success rate | 100.0% |
-| Last Check Timestamp | 2024-02-06 11:03:34+01:00 |
+| Last Check Timestamp | 2024-02-06 13:45:36+01:00 |
 
 To see how this test was performed, please have a look at [our website test criteria howto](/howto/testcriteria/website)!
 
@@ -40,8 +40,8 @@ The company's official website `www.astellas.com` serves as a comprehensive port
 <details>
 <summary>Associated IP addresses</summary>
 
-2606:4700::6812:1ae0
-
 2606:4700::6812:1be0
+
+2606:4700::6812:1ae0
 
 </details>

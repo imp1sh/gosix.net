@@ -2,7 +2,7 @@
 title: Health
 description: Health category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:29:54 
+date: 2024-02-08 22:37:03 
 tags:
 editor: markdown
 ---
@@ -16,9 +16,9 @@ Health is a dynamic state of complete physical, mental, and social well-being, n
 | Health   |   |
 | - | - |
 | pages in this very category | 0 |
-| pages in this and all subcateogires | 0 |
+| pages in this and all subcateogires | 48 |
 
-| Associated categories | type |
+| Relation type | Related to |
 | - | - |
-| None | parent category |
-| [pharmaceutical](./Health/pharmaceutical) | subcategory |
+| :arrow_upper_left: Parent | None |
+| :arrow_lower_right: Subcategory |[pharmaceutical](./Health/pharmaceutical) |

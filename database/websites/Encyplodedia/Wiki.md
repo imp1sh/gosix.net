@@ -2,7 +2,7 @@
 title: Wiki
 description: Wiki category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:29:53 
+date: 2024-02-08 22:37:02 
 tags:
 editor: markdown
 ---
@@ -15,10 +15,10 @@ A wiki is a collaborative online platform that allows users to create, edit, and
 
 | Wiki   |   |
 | - | - |
-| pages in this very category | 0 |
-| pages in this and all subcateogires | 0 |
+| pages in this very category | 10 |
+| pages in this and all subcateogires | 10 |
 
-| Associated categories | type |
+| Relation type | Related to |
 | - | - |
-| [Encyplodedia](../Encyplodedia) | parent category |
-| None | subcategory |
+| :arrow_upper_left: Parent | Encyplodedia](../Encyplodedia) |
+| :arrow_lower_right: Subcategory | None |

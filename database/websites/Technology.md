@@ -2,7 +2,7 @@
 title: Technology
 description: Technology category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:29:54 
+date: 2024-02-08 22:37:03 
 tags:
 editor: markdown
 ---
@@ -16,9 +16,9 @@ Technology websites cover the latest developments, trends, and information in th
 | Technology   |   |
 | - | - |
 | pages in this very category | 0 |
-| pages in this and all subcateogires | 0 |
+| pages in this and all subcateogires | 59 |
 
-| Associated categories | type |
+| Relation type | Related to |
 | - | - |
-| None | parent category |
-| [BigTech](./Technology/BigTech) | subcategory || [AI](./Technology/AI) | subcategory || [Database](./Technology/Database) | subcategory |
+| :arrow_upper_left: Parent | None |
+| :arrow_lower_right: Subcategory |[BigTech](./Technology/BigTech) || :arrow_lower_right: Subcategory |[AI](./Technology/AI) || :arrow_lower_right: Subcategory |[Database](./Technology/Database) |

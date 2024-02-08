@@ -2,7 +2,7 @@
 title: Video
 description: Video category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:29:54 
+date: 2024-02-08 22:37:02 
 tags:
 editor: markdown
 ---
@@ -15,10 +15,10 @@ Video streaming industry delivers video content over the internet in real-time. 
 
 | Video   |   |
 | - | - |
-| pages in this very category | 0 |
-| pages in this and all subcateogires | 0 |
+| pages in this very category | 19 |
+| pages in this and all subcateogires | 19 |
 
-| Associated categories | type |
+| Relation type | Related to |
 | - | - |
-| [Streaming](../Streaming) | parent category |
-| None | subcategory |
+| :arrow_upper_left: Parent | Streaming](../Streaming) |
+| :arrow_lower_right: Subcategory | None |

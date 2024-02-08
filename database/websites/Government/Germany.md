@@ -2,7 +2,7 @@
 title: Germany
 description: Germany category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:29:53 
+date: 2024-02-08 22:37:02 
 tags:
 editor: markdown
 ---
@@ -15,10 +15,10 @@ Germany, located in central Europe, is a federal republic known for its rich his
 
 | Germany   |   |
 | - | - |
-| pages in this very category | 0 |
-| pages in this and all subcateogires | 0 |
+| pages in this very category | 46 |
+| pages in this and all subcateogires | 46 |
 
-| Associated categories | type |
+| Relation type | Related to |
 | - | - |
-| [Government](../Government) | parent category |
-| None | subcategory |
+| :arrow_upper_left: Parent | Government](../Government) |
+| :arrow_lower_right: Subcategory | None |

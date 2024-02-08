@@ -2,7 +2,7 @@
 title: IT
 description: IT category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:29:53 
+date: 2024-02-08 22:37:01 
 tags:
 editor: markdown
 ---
@@ -15,10 +15,10 @@ Generic IT Services
 
 | IT   |   |
 | - | - |
-| pages in this very category | 0 |
-| pages in this and all subcateogires | 0 |
+| pages in this very category | 1 |
+| pages in this and all subcateogires | 1 |
 
-| Associated categories | type |
+| Relation type | Related to |
 | - | - |
-| [Services](../Services) | parent category |
-| None | subcategory |
+| :arrow_upper_left: Parent | Services](../Services) |
+| :arrow_lower_right: Subcategory | None |

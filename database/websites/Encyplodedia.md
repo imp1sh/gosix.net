@@ -2,7 +2,7 @@
 title: Encyplodedia
 description: Encyplodedia category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:29:53 
+date: 2024-02-08 22:37:02 
 tags:
 editor: markdown
 ---
@@ -16,9 +16,9 @@ An encyclopedia is a comprehensive reference containing articles on diverse subj
 | Encyplodedia   |   |
 | - | - |
 | pages in this very category | 0 |
-| pages in this and all subcateogires | 0 |
+| pages in this and all subcateogires | 10 |
 
-| Associated categories | type |
+| Relation type | Related to |
 | - | - |
-| None | parent category |
-| [Wiki](./Encyplodedia/Wiki) | subcategory |
+| :arrow_upper_left: Parent | None |
+| :arrow_lower_right: Subcategory |[Wiki](./Encyplodedia/Wiki) |

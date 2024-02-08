@@ -2,7 +2,7 @@
 title: Government
 description: Government category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:29:53 
+date: 2024-02-08 22:37:02 
 tags:
 editor: markdown
 ---
@@ -16,9 +16,9 @@ A government is a governing body that administers and regulates a political enti
 | Government   |   |
 | - | - |
 | pages in this very category | 0 |
-| pages in this and all subcateogires | 0 |
+| pages in this and all subcateogires | 46 |
 
-| Associated categories | type |
+| Relation type | Related to |
 | - | - |
-| None | parent category |
-| [Germany](./Government/Germany) | subcategory |
+| :arrow_upper_left: Parent | None |
+| :arrow_lower_right: Subcategory |[Germany](./Government/Germany) |

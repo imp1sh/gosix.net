@@ -2,7 +2,7 @@
 title: Commercial
 description: Commercial category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:29:53 
+date: 2024-02-08 22:37:02 
 tags:
 editor: markdown
 ---
@@ -15,10 +15,10 @@ Commercial Software
 
 | Commercial   |   |
 | - | - |
-| pages in this very category | 0 |
-| pages in this and all subcateogires | 0 |
+| pages in this very category | 2 |
+| pages in this and all subcateogires | 2 |
 
-| Associated categories | type |
+| Relation type | Related to |
 | - | - |
-| [Software](../Software) | parent category |
-| None | subcategory |
+| :arrow_upper_left: Parent | Software](../Software) |
+| :arrow_lower_right: Subcategory | None |

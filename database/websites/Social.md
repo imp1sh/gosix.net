@@ -2,7 +2,7 @@
 title: Social
 description: Social category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:29:54 
+date: 2024-02-08 22:37:02 
 tags:
 editor: markdown
 ---
@@ -15,10 +15,10 @@ Social networks are digital platforms connecting individuals globally, enabling 
 
 | Social   |   |
 | - | - |
-| pages in this very category | 0 |
-| pages in this and all subcateogires | 0 |
+| pages in this very category | 10 |
+| pages in this and all subcateogires | 10 |
 
-| Associated categories | type |
+| Relation type | Related to |
 | - | - |
-| None | parent category |
-| None | subcategory |
+| :arrow_upper_left: Parent | None |
+| :arrow_lower_right: Subcategory | None |

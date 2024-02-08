@@ -2,7 +2,7 @@
 title: Couriers
 description: Couriers category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:29:53 
+date: 2024-02-08 22:37:02 
 tags:
 editor: markdown
 ---
@@ -15,10 +15,10 @@ A courier service swiftly transports parcels, documents, or goods from one locat
 
 | Couriers   |   |
 | - | - |
-| pages in this very category | 0 |
-| pages in this and all subcateogires | 0 |
+| pages in this very category | 1 |
+| pages in this and all subcateogires | 1 |
 
-| Associated categories | type |
+| Relation type | Related to |
 | - | - |
-| [Services](../Services) | parent category |
-| None | subcategory |
+| :arrow_upper_left: Parent | Services](../Services) |
+| :arrow_lower_right: Subcategory | None |

@@ -2,7 +2,7 @@
 title: Games
 description: Games category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:29:53 
+date: 2024-02-08 22:37:02 
 tags:
 editor: markdown
 ---
@@ -15,10 +15,10 @@ Video games and related stuff
 
 | Games   |   |
 | - | - |
-| pages in this very category | 0 |
-| pages in this and all subcateogires | 0 |
+| pages in this very category | 3 |
+| pages in this and all subcateogires | 3 |
 
-| Associated categories | type |
+| Relation type | Related to |
 | - | - |
-| None | parent category |
-| None | subcategory |
+| :arrow_upper_left: Parent | None |
+| :arrow_lower_right: Subcategory | None |

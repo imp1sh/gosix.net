@@ -2,7 +2,7 @@
 title: BigTech
 description: BigTech category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:29:53 
+date: 2024-02-08 22:37:02 
 tags:
 editor: markdown
 ---
@@ -15,10 +15,10 @@ Big Tech companies are multinational corporations dominating the technology indu
 
 | BigTech   |   |
 | - | - |
-| pages in this very category | 0 |
-| pages in this and all subcateogires | 0 |
+| pages in this very category | 18 |
+| pages in this and all subcateogires | 18 |
 
-| Associated categories | type |
+| Relation type | Related to |
 | - | - |
-| [Technology](../Technology) | parent category |
-| None | subcategory |
+| :arrow_upper_left: Parent | Technology](../Technology) |
+| :arrow_lower_right: Subcategory | None |

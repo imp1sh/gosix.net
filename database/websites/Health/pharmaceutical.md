@@ -2,7 +2,7 @@
 title: pharmaceutical
 description: pharmaceutical category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:29:54 
+date: 2024-02-08 22:37:03 
 tags:
 editor: markdown
 ---
@@ -15,10 +15,10 @@ The pharmaceutical industry focuses on researching, developing, producing, and m
 
 | pharmaceutical   |   |
 | - | - |
-| pages in this very category | 0 |
-| pages in this and all subcateogires | 0 |
+| pages in this very category | 48 |
+| pages in this and all subcateogires | 48 |
 
-| Associated categories | type |
+| Relation type | Related to |
 | - | - |
-| [Health](../Health) | parent category |
-| None | subcategory |
+| :arrow_upper_left: Parent | Health](../Health) |
+| :arrow_lower_right: Subcategory | None |

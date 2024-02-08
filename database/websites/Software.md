@@ -2,7 +2,7 @@
 title: Software
 description: Software category IPv6 compatibility database
 published: true
-date: 2024-02-08 22:42:10 
+date: 2024-02-08 22:58:44 
 tags:
 editor: markdown
 ---
@@ -21,4 +21,5 @@ Software is a set of instructions that enable a computer or device to perform sp
 | Relation type | Related to |
 | - | - |
 | :arrow_upper_left: Parent | None |
-| :arrow_lower_right: Subcategory |[Commercial](./Software/Commercial) || :arrow_lower_right: Subcategory |[OpenSource](./Software/OpenSource) |
+| :arrow_lower_right: Subcategory |[Commercial](./Software/Commercial) |
+| :arrow_lower_right: Subcategory |[OpenSource](./Software/OpenSource) |

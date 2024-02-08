@@ -2,7 +2,7 @@
 title: Streaming
 description: Streaming category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:21:29 
+date: 2024-02-08 16:26:44 
 tags:
 editor: markdown
 ---
@@ -21,4 +21,4 @@ The streaming industry delivers real-time audio and video content over the inter
 | Associated categories | type |
 | - | - |
 | None | parent category |
-| [Audio](/Audio) | subcategory || [Video](/Video) | subcategory |
+| [Audio](./Audio) | subcategory || [Video](./Video) | subcategory |

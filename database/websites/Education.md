@@ -2,7 +2,7 @@
 title: Education
 description: Education category IPv6 compatibility database
 published: true
-date: 2024-02-08 22:37:01 
+date: 2024-02-08 22:42:09 
 tags:
 editor: markdown
 ---

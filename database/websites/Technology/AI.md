@@ -2,7 +2,7 @@
 title: AI
 description: AI category IPv6 compatibility database
 published: true
-date: 2024-02-08 22:37:02 
+date: 2024-02-08 22:42:10 
 tags:
 editor: markdown
 ---
@@ -20,5 +20,5 @@ AI, or Artificial Intelligence, refers to computer systems that mimic human inte
 
 | Relation type | Related to |
 | - | - |
-| :arrow_upper_left: Parent | Technology](../Technology) |
+| :arrow_upper_left: Parent | [Technology](../Technology) |
 | :arrow_lower_right: Subcategory | None |

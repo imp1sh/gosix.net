@@ -2,7 +2,7 @@
 title: Database
 description: Database category IPv6 compatibility database
 published: true
-date: 2024-02-08 22:37:04 
+date: 2024-02-08 22:42:11 
 tags:
 editor: markdown
 ---
@@ -20,5 +20,5 @@ Databases store, manage, and retrieve structured data efficiently. They provide 
 
 | Relation type | Related to |
 | - | - |
-| :arrow_upper_left: Parent | Technology](../Technology) |
+| :arrow_upper_left: Parent | [Technology](../Technology) |
 | :arrow_lower_right: Subcategory | None |

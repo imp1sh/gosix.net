@@ -2,7 +2,7 @@
 title: Services
 description: Services category IPv6 compatibility database
 published: true
-date: 2024-02-08 16:26:42 
+date: 2024-02-08 16:29:53 
 tags:
 editor: markdown
 ---
@@ -21,4 +21,4 @@ Services that are being offerend by different institutions
 | Associated categories | type |
 | - | - |
 | None | parent category |
-| [IT](./IT) | subcategory || [Couriers](./Couriers) | subcategory || [Travel](./Travel) | subcategory |
+| [IT](./Services/IT) | subcategory || [Couriers](./Services/Couriers) | subcategory || [Travel](./Services/Travel) | subcategory |
